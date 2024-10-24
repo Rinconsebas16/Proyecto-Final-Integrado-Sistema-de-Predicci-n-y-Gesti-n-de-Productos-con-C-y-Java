@@ -1,0 +1,10000 @@
+Case,2070.91
+Laptop,1037.53
+Graphics Card,614.18
+Smartphone,2461.01
+Mouse,2456.76
+Router,1144.8
+Smartwatch,2196.68
+Mouse,511.05
+Smartphone,761.86
+Motherboard,799.46
+External Hard Drive,887.41
+Mouse,622.54
+Microphone,2081.85
+Power Supply,1126.85
+RAM,785.92
+Power Supply,530.64
+SSD,2485.23
+Game Console,311.59
+SSD,874.28
+SSD,1337.39
+Cooling Fan,546.97
+Graphics Card,1384.33
+Game Console,845.61
+Tablet,496.13
+Smartphone,525.01
+Speaker,374.78
+Laptop,1497.34
+External Hard Drive,2051.73
+RAM,2316.92
+Game Console,1445.95
+Headphones,1241.53
+Game Console,2192.77
+Charger,1889.94
+RAM,99.55
+RAM,2278.45
+Microphone,1408.49
+Camera,2161.9
+RAM,960.7
+External Hard Drive,2176.69
+External Hard Drive,1951.46
+Printer,510.77
+Graphics Card,1849.96
+Speaker,2263.25
+Motherboard,1641.54
+Cooling Fan,1407.82
+Game Console,165.6
+Smartwatch,39.76
+Power Supply,800.39
+Router,2451.15
+Cooling Fan,797.93
+Keyboard,2184.22
+Case,1896.8
+Router,2228.4
+Router,1438.75
+Speaker,325.95
+Printer,672.92
+CPU,677.58
+Cooling Fan,667.95
+Smartphone,855.76
+USB Drive,980.35
+Keyboard,1286.77
+Laptop,504.85
+Power Supply,1969.32
+Camera,1779.09
+Case,252.09
+Speaker,995.78
+Microphone,1399.78
+SSD,1984.67
+RAM,1527.42
+Charger,1196.23
+Power Supply,1806.37
+Charger,1779.5
+Mouse,668.89
+RAM,554.33
+CPU,1816.72
+Router,574.48
+Mouse,710.87
+Printer,820.4
+Charger,85.74
+Printer,236.38
+Case,301.19
+Speaker,2363.04
+Router,1076.08
+Monitor,1024.21
+Keyboard,586.09
+Smartphone,693.7
+Keyboard,1920.15
+Game Console,939.98
+Monitor,1342.75
+Headphones,1952.28
+Smartwatch,1141.53
+Laptop,2320.02
+USB Drive,1105.43
+Speaker,2305.46
+Graphics Card,552.15
+External Hard Drive,1306.84
+RAM,2203.73
+Headphones,1193.75
+Printer,2334.88
+Smartphone,1792.42
+Power Supply,420.25
+Cooling Fan,375.08
+Case,1503.78
+Tablet,1834.69
+RAM,1344.29
+Motherboard,572.62
+Monitor,1384.3
+Tablet,1677.27
+Microphone,86.8
+Charger,1696.49
+USB Drive,1635.53
+Charger,2332.47
+Microphone,665.34
+Charger,2227.93
+Router,2285.27
+Laptop,2197.88
+Smartwatch,2324.18
+Game Console,669.13
+Laptop,938.49
+SSD,859.23
+Printer,1903.83
+RAM,1071.19
+Graphics Card,1064.62
+Cooling Fan,644.59
+Laptop,592.84
+Laptop,1970.6
+Microphone,30.16
+Game Console,1150.8
+Headphones,1130.05
+Game Console,1644.24
+Microphone,491.52
+Power Supply,440.64
+Smartphone,2215.06
+Keyboard,1932.0
+External Hard Drive,2257.19
+Headphones,1976.94
+Microphone,530.95
+Printer,2295.87
+RAM,1871.5
+Charger,924.72
+Game Console,1229.5
+Graphics Card,588.46
+Motherboard,1976.03
+Microphone,419.32
+Game Console,1425.47
+Cooling Fan,1859.86
+Headphones,1664.38
+Microphone,1276.1
+Motherboard,514.45
+Case,2342.83
+Case,1171.93
+Printer,2302.32
+Graphics Card,1885.44
+USB Drive,436.41
+Camera,569.63
+Headphones,1227.28
+SSD,2188.86
+Headphones,664.0
+CPU,1342.74
+Smartwatch,1343.79
+Printer,1052.33
+CPU,2465.93
+RAM,203.78
+Router,1314.68
+Smartwatch,1297.55
+Camera,445.08
+Charger,1903.24
+Smartwatch,1653.16
+Game Console,381.89
+Speaker,1836.93
+USB Drive,1491.37
+Laptop,319.16
+Motherboard,987.34
+Case,1455.62
+Camera,1759.9
+Smartwatch,702.11
+Game Console,1051.63
+Tablet,1073.46
+CPU,537.47
+Speaker,2223.4
+Camera,723.85
+Keyboard,323.93
+Monitor,1699.79
+Microphone,319.04
+Graphics Card,203.03
+Printer,374.45
+Smartwatch,2379.36
+Camera,1456.08
+USB Drive,468.09
+Smartphone,1363.85
+Headphones,468.71
+Speaker,2463.07
+RAM,226.57
+Power Supply,740.72
+Charger,1075.27
+CPU,1287.63
+Graphics Card,1976.95
+USB Drive,1677.16
+Camera,2066.05
+CPU,2454.53
+Case,1161.15
+External Hard Drive,442.85
+USB Drive,1080.17
+Speaker,1850.61
+Power Supply,2495.78
+Power Supply,1110.56
+Mouse,366.31
+Smartphone,744.91
+SSD,1794.09
+Smartwatch,233.01
+Graphics Card,2475.71
+Monitor,659.97
+SSD,799.36
+Keyboard,672.39
+Cooling Fan,507.35
+SSD,577.03
+Mouse,2078.35
+Power Supply,326.74
+Smartphone,855.46
+Smartphone,895.23
+Game Console,208.95
+RAM,694.81
+Speaker,2070.31
+USB Drive,770.6
+External Hard Drive,1020.13
+External Hard Drive,2357.62
+Game Console,709.92
+Power Supply,2378.43
+RAM,2411.13
+Router,1673.04
+Speaker,817.43
+Smartphone,1091.98
+USB Drive,366.46
+Router,792.92
+Mouse,859.28
+Charger,1874.47
+Power Supply,306.03
+Graphics Card,471.67
+Monitor,133.93
+Cooling Fan,59.44
+Tablet,736.39
+Printer,1486.43
+SSD,2376.65
+Keyboard,1185.98
+Laptop,2286.64
+External Hard Drive,730.19
+Power Supply,1871.83
+Microphone,2270.64
+Case,1099.0
+Cooling Fan,2155.19
+Game Console,343.67
+External Hard Drive,2415.73
+Camera,1414.41
+Cooling Fan,1041.87
+Headphones,949.39
+Case,2454.42
+Charger,480.88
+CPU,708.87
+Camera,2108.58
+Printer,2172.17
+Speaker,2417.34
+Router,1075.39
+Laptop,331.87
+Smartwatch,1398.45
+Laptop,216.81
+Power Supply,761.11
+USB Drive,1231.53
+Smartwatch,2135.22
+Monitor,1125.72
+Graphics Card,2065.96
+SSD,681.77
+Smartphone,1518.15
+Mouse,167.99
+Game Console,197.51
+Smartwatch,2335.9
+Monitor,2210.38
+Headphones,69.87
+Microphone,2314.44
+Tablet,1082.24
+Game Console,299.24
+Smartphone,1032.6
+Keyboard,1994.15
+Smartwatch,823.05
+Smartwatch,587.81
+Headphones,88.95
+Motherboard,1093.16
+Case,398.63
+Motherboard,1475.89
+Keyboard,1893.9
+Router,2297.43
+Laptop,1769.96
+USB Drive,1003.23
+CPU,715.9
+CPU,63.85
+Microphone,2316.44
+Mouse,407.22
+Case,1226.17
+CPU,879.15
+Keyboard,1915.42
+Graphics Card,1096.18
+Cooling Fan,1167.55
+Charger,1692.15
+SSD,564.1
+USB Drive,1678.3
+Mouse,804.93
+Smartphone,926.62
+CPU,2076.07
+SSD,168.17
+Monitor,1360.12
+External Hard Drive,1258.06
+Headphones,132.72
+CPU,2017.47
+Router,1106.17
+Tablet,976.5
+Tablet,2290.32
+Smartphone,463.54
+Smartphone,1985.6
+Speaker,147.74
+Printer,1015.18
+Power Supply,179.73
+Cooling Fan,1335.49
+CPU,59.93
+USB Drive,1626.69
+Microphone,2021.53
+Smartphone,2042.39
+Graphics Card,582.94
+Speaker,2106.3
+Tablet,181.59
+Tablet,649.39
+Microphone,452.88
+Printer,1184.01
+RAM,679.78
+Cooling Fan,1571.59
+Case,2346.0
+Graphics Card,1473.89
+Smartphone,1709.37
+SSD,1412.29
+Printer,1070.93
+Printer,2456.37
+Cooling Fan,1874.22
+Tablet,1806.64
+External Hard Drive,292.5
+Camera,2179.7
+Power Supply,2437.75
+Tablet,1284.26
+Router,386.95
+Microphone,47.55
+SSD,1076.71
+Printer,865.49
+Microphone,1994.48
+Game Console,676.3
+Smartwatch,2004.49
+Camera,2408.9
+Power Supply,2213.78
+Smartwatch,2226.89
+Game Console,1337.32
+Keyboard,1713.17
+Charger,2288.0
+Game Console,242.03
+Mouse,482.56
+Smartphone,1814.61
+Case,135.24
+Speaker,1626.33
+Headphones,629.3
+Power Supply,2063.59
+Router,2197.87
+Microphone,714.81
+Keyboard,1361.23
+Printer,1099.54
+RAM,1009.32
+Laptop,1868.99
+Headphones,1892.14
+External Hard Drive,530.02
+Charger,1723.56
+Game Console,1500.07
+Charger,364.46
+Headphones,2457.33
+Case,2293.33
+Headphones,242.29
+Router,785.22
+Mouse,761.09
+Microphone,2433.1
+Mouse,1198.88
+Tablet,1873.61
+Mouse,177.73
+SSD,2371.1
+Headphones,1844.96
+USB Drive,565.2
+Tablet,2196.12
+Charger,1732.41
+USB Drive,1280.03
+Smartwatch,1158.08
+Game Console,353.95
+Smartphone,540.51
+Mouse,590.67
+Laptop,2295.14
+Smartwatch,2093.68
+Headphones,2019.82
+USB Drive,1244.41
+Power Supply,1295.81
+Tablet,515.09
+Smartwatch,1462.05
+Headphones,1456.88
+Power Supply,2329.39
+Camera,2323.24
+Mouse,1480.96
+Motherboard,721.02
+Speaker,2363.2
+CPU,2098.92
+External Hard Drive,2083.16
+Charger,933.02
+Game Console,75.75
+Router,424.51
+Cooling Fan,2155.4
+Camera,1287.03
+Smartwatch,983.56
+Camera,1217.31
+Smartwatch,825.8
+Tablet,2349.81
+Router,1281.16
+USB Drive,308.25
+External Hard Drive,2183.53
+Motherboard,2093.52
+Headphones,1334.44
+External Hard Drive,2017.33
+Mouse,2188.31
+RAM,640.1
+Router,926.03
+Headphones,668.21
+Headphones,1087.7
+Keyboard,545.23
+RAM,20.03
+Power Supply,494.1
+Graphics Card,260.38
+Motherboard,991.15
+Keyboard,1957.15
+Cooling Fan,2341.46
+Laptop,1817.69
+USB Drive,783.66
+Headphones,747.99
+Smartwatch,63.17
+Tablet,367.02
+Headphones,665.31
+Tablet,1590.11
+External Hard Drive,2063.07
+Laptop,1928.46
+Headphones,1404.12
+Charger,447.18
+Printer,310.42
+RAM,437.44
+Laptop,2217.32
+Charger,1246.33
+Power Supply,168.85
+Microphone,543.21
+Monitor,1446.69
+Smartphone,139.34
+External Hard Drive,613.39
+Monitor,1744.4
+SSD,2235.84
+SSD,902.24
+Smartphone,918.75
+Laptop,14.07
+Router,731.61
+External Hard Drive,1835.25
+Mouse,1243.59
+Graphics Card,978.55
+Speaker,1050.81
+Laptop,387.79
+Motherboard,2457.99
+Monitor,1422.86
+Power Supply,423.43
+Graphics Card,1808.37
+Smartphone,275.59
+Graphics Card,1061.37
+Case,368.6
+Printer,532.15
+Smartwatch,954.08
+Printer,946.48
+Charger,353.69
+Laptop,1124.92
+Monitor,1358.61
+Graphics Card,1556.6
+Keyboard,88.63
+Printer,1883.21
+Motherboard,735.05
+Microphone,323.76
+External Hard Drive,2312.88
+RAM,1136.85
+Charger,2447.72
+SSD,1993.21
+Laptop,1844.64
+Speaker,1284.22
+Game Console,606.55
+Printer,956.48
+Router,1300.15
+Camera,192.87
+Camera,2434.63
+USB Drive,2409.84
+RAM,990.22
+Mouse,1099.8
+Mouse,1837.21
+Mouse,852.15
+Monitor,38.19
+Game Console,2291.43
+RAM,138.53
+Case,508.45
+Tablet,725.27
+Microphone,368.95
+Laptop,1676.2
+Smartphone,963.15
+External Hard Drive,849.87
+Camera,545.21
+Router,2337.33
+USB Drive,1462.92
+Power Supply,388.1
+Tablet,314.85
+Router,173.78
+Printer,894.44
+Router,2244.62
+Cooling Fan,522.04
+Speaker,571.77
+External Hard Drive,1208.52
+CPU,1972.42
+Game Console,902.91
+Motherboard,1915.67
+Motherboard,2384.04
+Cooling Fan,120.91
+Speaker,2232.42
+Monitor,1200.65
+Motherboard,816.76
+CPU,1980.68
+Monitor,1112.71
+Keyboard,630.95
+USB Drive,2215.68
+Game Console,1662.2
+CPU,1639.72
+Keyboard,1180.49
+Graphics Card,1276.25
+Game Console,1327.5
+SSD,351.85
+Motherboard,2137.73
+Monitor,2374.84
+Smartwatch,276.06
+RAM,816.79
+Laptop,2300.06
+Case,859.03
+Printer,2251.36
+Microphone,705.01
+Mouse,856.41
+Camera,1462.69
+Headphones,17.0
+Motherboard,869.58
+Case,1193.81
+Headphones,321.56
+External Hard Drive,1586.67
+RAM,658.71
+Monitor,2189.09
+Motherboard,2299.71
+Power Supply,854.45
+Router,1659.29
+Mouse,926.13
+Router,155.66
+Charger,477.17
+RAM,581.39
+RAM,716.97
+Keyboard,1889.94
+Cooling Fan,473.64
+CPU,197.12
+Motherboard,1308.5
+Smartwatch,191.86
+Game Console,1897.29
+SSD,1000.35
+Smartwatch,2033.64
+RAM,1876.14
+SSD,486.97
+USB Drive,1414.66
+Mouse,88.69
+Mouse,1619.77
+Game Console,1168.06
+USB Drive,903.45
+Cooling Fan,1985.12
+Monitor,2080.31
+Printer,2115.98
+Smartphone,573.29
+Power Supply,720.73
+RAM,681.59
+Mouse,773.96
+USB Drive,2309.76
+Case,363.59
+Charger,618.92
+Cooling Fan,1487.11
+Camera,1492.8
+Monitor,42.14
+Microphone,1546.82
+Tablet,137.45
+Graphics Card,2271.49
+Laptop,2462.4
+Router,129.37
+Graphics Card,1555.2
+Router,708.93
+Case,1214.28
+Charger,2319.32
+Mouse,439.12
+Laptop,2089.11
+CPU,2180.67
+CPU,1987.88
+Monitor,1066.49
+Case,1243.1
+Power Supply,1490.59
+Router,2238.75
+Smartphone,382.99
+RAM,1677.09
+Router,2099.95
+Power Supply,2199.2
+CPU,1822.83
+Motherboard,1643.13
+Smartwatch,868.65
+Microphone,180.37
+RAM,1172.47
+SSD,2248.34
+Power Supply,1861.22
+Mouse,1392.45
+Keyboard,1076.95
+Charger,1666.14
+Tablet,1062.95
+CPU,183.16
+External Hard Drive,2440.02
+Graphics Card,1026.35
+Laptop,2225.67
+Tablet,870.77
+Router,144.8
+Headphones,589.7
+Case,1805.01
+Motherboard,952.85
+Camera,2115.79
+USB Drive,654.05
+Monitor,2451.05
+Smartwatch,2165.49
+Game Console,1483.87
+Tablet,1162.9
+Case,444.35
+SSD,747.41
+External Hard Drive,2035.4
+Mouse,1474.71
+Power Supply,2492.66
+Case,2213.96
+Smartwatch,2287.59
+Motherboard,351.68
+CPU,1634.58
+Game Console,1341.11
+Cooling Fan,144.79
+Camera,690.92
+Smartphone,673.99
+RAM,1533.0
+Smartphone,652.84
+Cooling Fan,1288.11
+Mouse,2082.33
+Tablet,1864.98
+Smartphone,1423.99
+Speaker,1140.89
+SSD,1762.19
+Tablet,1885.51
+CPU,154.56
+Motherboard,1885.77
+Headphones,2464.04
+Motherboard,163.81
+SSD,1682.37
+Printer,19.65
+Keyboard,16.55
+Microphone,80.69
+Smartphone,2271.41
+Game Console,857.45
+Microphone,1268.59
+Motherboard,1456.1
+SSD,1162.27
+SSD,139.09
+RAM,1069.12
+Printer,1360.02
+Camera,226.2
+Tablet,1769.04
+Printer,288.56
+Camera,2280.74
+SSD,2156.9
+Camera,1730.06
+Router,1238.61
+Speaker,256.84
+Laptop,1878.63
+Graphics Card,1108.63
+Tablet,150.42
+Printer,1296.27
+Motherboard,1955.76
+Printer,733.98
+Game Console,699.33
+Case,1179.8
+Laptop,2419.28
+Headphones,63.74
+Game Console,1932.05
+Cooling Fan,1103.46
+Headphones,943.88
+Monitor,2054.75
+Graphics Card,858.3
+Charger,92.5
+Smartwatch,1382.43
+Router,2212.51
+Charger,611.36
+Headphones,2163.21
+External Hard Drive,334.65
+Cooling Fan,1938.74
+Microphone,733.79
+CPU,342.72
+SSD,2235.53
+Mouse,2026.18
+Power Supply,1983.7
+Tablet,1175.14
+USB Drive,1387.74
+Smartphone,742.24
+Charger,682.47
+Monitor,140.76
+Tablet,2067.54
+Smartphone,115.94
+Microphone,1427.98
+External Hard Drive,2072.79
+Cooling Fan,17.02
+Graphics Card,1344.62
+Graphics Card,1831.96
+Camera,781.05
+Speaker,1015.3
+Monitor,1563.0
+Smartwatch,1573.37
+Case,1791.65
+Router,1236.48
+USB Drive,1330.75
+RAM,2485.62
+Speaker,2231.42
+External Hard Drive,1166.11
+Mouse,2219.45
+Cooling Fan,1131.3
+External Hard Drive,1368.97
+CPU,1305.23
+External Hard Drive,1871.52
+Smartphone,2280.11
+Smartphone,415.97
+Tablet,507.48
+CPU,2054.09
+Microphone,1609.09
+Keyboard,2449.71
+Printer,2092.13
+Monitor,1782.87
+Smartwatch,1577.26
+Case,346.49
+Tablet,1077.75
+Charger,2467.21
+USB Drive,252.51
+Power Supply,2123.65
+Smartphone,35.51
+Smartphone,1115.21
+SSD,1644.3
+Laptop,1289.46
+CPU,814.48
+Headphones,1965.28
+Power Supply,1345.72
+SSD,305.87
+Camera,1305.62
+Smartwatch,2482.88
+RAM,2062.81
+Router,663.11
+Motherboard,739.86
+Camera,121.0
+Charger,2103.89
+Case,307.24
+USB Drive,1234.67
+Keyboard,743.61
+Game Console,2320.17
+Speaker,1733.93
+Power Supply,887.0
+Monitor,1250.25
+Smartwatch,748.68
+Printer,71.82
+Laptop,902.65
+USB Drive,1475.39
+Printer,98.22
+USB Drive,1975.44
+CPU,774.14
+Laptop,1683.99
+Charger,554.63
+RAM,359.45
+RAM,25.47
+USB Drive,2063.55
+Motherboard,1599.53
+Mouse,1205.91
+Power Supply,185.81
+Mouse,219.24
+Power Supply,1292.67
+Smartwatch,1231.24
+Headphones,2186.24
+Motherboard,1246.69
+Microphone,1047.28
+RAM,1156.13
+External Hard Drive,1862.62
+Motherboard,2078.88
+Laptop,1026.12
+Laptop,2410.0
+Router,1958.58
+Laptop,2314.44
+Graphics Card,1138.09
+Microphone,1628.42
+Laptop,1114.53
+Cooling Fan,2300.26
+Smartwatch,2234.66
+Motherboard,1057.84
+Smartwatch,1321.27
+Power Supply,2291.0
+Keyboard,1669.94
+Laptop,1039.49
+SSD,922.81
+Laptop,1721.59
+Mouse,2316.03
+Camera,1320.35
+Printer,127.86
+External Hard Drive,477.0
+Microphone,1387.98
+Mouse,1219.27
+Headphones,133.45
+Cooling Fan,644.13
+Printer,1294.24
+Microphone,1128.48
+SSD,956.16
+External Hard Drive,1177.31
+Power Supply,1784.94
+Graphics Card,1221.89
+Microphone,1506.05
+Speaker,1295.3
+RAM,568.98
+Motherboard,621.84
+Game Console,1493.48
+Keyboard,983.13
+Smartwatch,1890.24
+Power Supply,246.15
+Motherboard,2053.43
+Monitor,310.37
+USB Drive,735.98
+Charger,2342.53
+CPU,864.59
+Monitor,295.5
+Charger,2184.21
+Graphics Card,1639.99
+Case,1172.61
+SSD,2328.09
+Laptop,2390.12
+Speaker,270.74
+Headphones,857.61
+Tablet,977.56
+Monitor,594.86
+Speaker,194.92
+Laptop,1604.57
+Headphones,2454.12
+Keyboard,30.06
+Router,508.81
+USB Drive,2360.68
+Cooling Fan,658.1
+Printer,1365.98
+Tablet,824.15
+Headphones,1696.29
+Smartphone,565.18
+Keyboard,439.74
+RAM,1927.8
+Monitor,595.47
+Monitor,754.78
+Charger,815.47
+Smartphone,1922.34
+Microphone,2485.22
+Microphone,2112.31
+Power Supply,1167.03
+Game Console,2434.71
+Microphone,2235.08
+Smartphone,1884.32
+Tablet,1045.32
+Charger,920.02
+Printer,2076.66
+USB Drive,736.2
+RAM,450.55
+Router,2084.14
+SSD,773.41
+Motherboard,786.94
+SSD,1038.42
+Charger,735.32
+RAM,383.23
+Smartphone,80.44
+Tablet,1241.25
+USB Drive,2407.55
+RAM,1504.57
+Motherboard,673.18
+Headphones,2151.91
+Headphones,1409.68
+Game Console,1194.15
+Smartwatch,1789.14
+Smartwatch,1267.61
+Mouse,624.58
+Graphics Card,450.63
+Keyboard,1133.07
+Laptop,749.94
+Microphone,2287.52
+SSD,1870.84
+Case,1114.93
+Motherboard,1585.0
+Power Supply,2235.07
+Router,1052.66
+Motherboard,1902.91
+Smartwatch,1376.92
+Cooling Fan,1107.09
+Tablet,1726.79
+External Hard Drive,1674.92
+Case,1175.05
+CPU,1758.25
+RAM,2387.14
+Power Supply,368.48
+Game Console,649.18
+Graphics Card,936.49
+Smartwatch,1844.93
+Smartwatch,1483.58
+Router,1951.4
+Game Console,1858.72
+CPU,1482.9
+Microphone,1525.72
+Speaker,1952.21
+Microphone,1237.84
+Camera,669.36
+Cooling Fan,1396.7
+Cooling Fan,1020.81
+Keyboard,1383.03
+Cooling Fan,1905.53
+Power Supply,733.51
+Monitor,2207.77
+Monitor,776.98
+SSD,313.85
+Power Supply,614.62
+Monitor,808.77
+Motherboard,668.24
+RAM,936.73
+Microphone,2377.1
+Mouse,1471.48
+Monitor,2197.2
+Case,938.89
+External Hard Drive,733.24
+Laptop,798.11
+RAM,150.64
+SSD,1962.68
+Motherboard,1775.6
+Speaker,1511.6
+CPU,1807.05
+Graphics Card,807.38
+Monitor,356.16
+Tablet,493.11
+USB Drive,1885.97
+Smartwatch,478.9
+Game Console,2332.89
+Keyboard,1101.7
+Smartphone,1297.53
+SSD,1857.38
+Microphone,594.54
+Graphics Card,331.75
+CPU,820.23
+Cooling Fan,1256.53
+Mouse,1537.05
+Mouse,813.61
+Tablet,926.05
+Monitor,1656.9
+Smartwatch,757.39
+Cooling Fan,1288.68
+External Hard Drive,62.34
+Microphone,924.99
+Charger,1261.03
+Cooling Fan,386.03
+Camera,926.73
+Keyboard,2458.04
+Camera,1379.6
+Smartwatch,1492.97
+Smartphone,454.57
+Headphones,1452.59
+Case,2465.25
+Mouse,1694.63
+Case,2078.47
+Headphones,448.63
+Speaker,1408.7
+Mouse,297.6
+USB Drive,586.16
+Game Console,766.34
+Router,432.13
+Charger,1638.1
+CPU,592.64
+Headphones,2401.07
+Cooling Fan,233.84
+External Hard Drive,1493.39
+Cooling Fan,2125.24
+Mouse,1007.74
+Headphones,1577.76
+Power Supply,827.46
+Cooling Fan,1141.02
+Power Supply,1841.7
+Motherboard,737.4
+Laptop,617.34
+USB Drive,2021.92
+Power Supply,1103.05
+Speaker,1778.77
+Case,1057.1
+RAM,203.29
+SSD,1825.69
+Cooling Fan,1030.15
+Motherboard,717.47
+Monitor,2295.15
+Charger,1416.99
+Smartwatch,802.92
+Microphone,2011.98
+Smartwatch,1600.45
+Power Supply,2340.5
+Cooling Fan,2041.69
+Router,1405.05
+Mouse,1566.94
+Monitor,2344.69
+Headphones,698.04
+SSD,513.1
+Microphone,2330.68
+Headphones,2073.33
+RAM,1055.76
+Motherboard,517.2
+Printer,382.04
+Smartphone,500.3
+Graphics Card,866.93
+Smartwatch,706.61
+RAM,1957.44
+Speaker,496.17
+Power Supply,1597.1
+SSD,2178.39
+RAM,2258.06
+Cooling Fan,1954.26
+USB Drive,2306.4
+Charger,2427.44
+Camera,644.6
+Cooling Fan,1526.44
+Speaker,2150.74
+Mouse,1149.81
+Smartphone,426.32
+Camera,397.43
+USB Drive,2239.77
+Game Console,2104.17
+CPU,2297.73
+Power Supply,1397.61
+Microphone,833.96
+Microphone,2359.35
+Camera,2011.91
+CPU,73.14
+Game Console,1540.93
+Cooling Fan,806.08
+Smartwatch,353.71
+Smartwatch,659.5
+Headphones,2143.14
+Cooling Fan,1621.52
+Smartwatch,1625.89
+Printer,296.17
+Charger,2470.84
+Camera,2484.23
+Cooling Fan,1303.65
+RAM,2232.37
+Monitor,1362.99
+RAM,693.25
+Case,153.62
+USB Drive,267.28
+Mouse,883.55
+Headphones,945.11
+Keyboard,1994.77
+Tablet,299.99
+USB Drive,13.83
+USB Drive,1986.76
+Tablet,581.52
+Smartwatch,660.67
+Laptop,1169.31
+Keyboard,72.72
+Monitor,482.77
+Smartphone,874.52
+Keyboard,2272.55
+Motherboard,1198.1
+Power Supply,1099.74
+Printer,1543.51
+Monitor,965.9
+Mouse,435.37
+Case,1288.56
+Graphics Card,927.64
+Monitor,353.36
+Smartwatch,239.36
+Case,1392.16
+Smartphone,422.29
+Case,227.84
+Case,2173.58
+Mouse,1139.12
+Motherboard,1680.23
+Case,1512.29
+Graphics Card,2172.91
+Cooling Fan,275.04
+Headphones,1024.74
+Smartphone,1064.65
+Camera,716.0
+Microphone,1426.65
+Smartphone,2222.75
+Headphones,1690.41
+Motherboard,1592.33
+Camera,2018.04
+Printer,2164.27
+Power Supply,2360.69
+RAM,1764.12
+Mouse,1884.07
+Motherboard,1015.32
+Tablet,1682.29
+Tablet,1273.03
+External Hard Drive,2488.29
+RAM,2166.48
+External Hard Drive,295.51
+RAM,2086.1
+Printer,2115.86
+RAM,2243.86
+USB Drive,1900.15
+Speaker,614.16
+Keyboard,561.22
+Charger,733.9
+External Hard Drive,2273.42
+Smartphone,2463.4
+Case,773.41
+Cooling Fan,518.62
+Case,43.52
+USB Drive,578.16
+Cooling Fan,1772.01
+Game Console,105.44
+Mouse,614.37
+RAM,2430.41
+USB Drive,599.56
+Monitor,2145.82
+Smartwatch,1687.99
+Motherboard,611.54
+Power Supply,1206.32
+Charger,612.67
+Game Console,1963.23
+RAM,157.35
+Router,406.82
+Microphone,198.72
+External Hard Drive,1258.94
+Charger,547.04
+USB Drive,522.08
+Power Supply,1636.69
+External Hard Drive,848.58
+Cooling Fan,564.98
+Motherboard,1892.47
+SSD,2039.01
+Smartphone,1587.11
+Speaker,2484.6
+Mouse,106.73
+Mouse,270.72
+Smartphone,231.07
+Monitor,1324.44
+Graphics Card,1629.87
+Smartphone,2054.52
+USB Drive,448.98
+Monitor,302.53
+Tablet,334.09
+Game Console,2120.36
+Laptop,1260.71
+Keyboard,242.54
+RAM,1273.04
+Microphone,586.53
+Case,1129.21
+External Hard Drive,596.01
+Printer,1743.0
+Monitor,1377.98
+USB Drive,2189.68
+Case,2029.71
+Graphics Card,522.72
+Tablet,1958.92
+Headphones,756.93
+Laptop,440.51
+External Hard Drive,1431.6
+Cooling Fan,719.68
+Printer,362.71
+Speaker,1036.4
+SSD,2087.98
+Graphics Card,1416.43
+Smartwatch,1376.49
+Keyboard,496.79
+Motherboard,1536.97
+Graphics Card,1178.68
+External Hard Drive,201.21
+RAM,1351.44
+Headphones,2041.06
+Cooling Fan,2202.62
+Microphone,476.17
+Charger,1200.43
+Router,1381.11
+Speaker,2322.63
+Smartphone,1002.91
+Graphics Card,217.58
+Printer,738.17
+Cooling Fan,1009.86
+Headphones,1129.81
+Motherboard,961.28
+Laptop,1122.95
+Motherboard,1120.94
+Game Console,485.34
+Cooling Fan,549.56
+Mouse,301.51
+Charger,1781.61
+Motherboard,1753.96
+Power Supply,1602.18
+SSD,2304.73
+Router,1633.48
+USB Drive,2338.74
+Printer,2408.24
+Power Supply,1661.22
+Camera,919.9
+Charger,904.32
+Smartphone,1183.55
+Case,1935.9
+Microphone,1627.72
+Charger,1848.03
+CPU,1862.97
+Power Supply,2331.68
+Keyboard,1015.48
+Headphones,141.01
+Router,2391.12
+Smartwatch,1320.89
+Speaker,925.5
+USB Drive,1764.26
+RAM,975.23
+Motherboard,137.24
+Speaker,827.9
+Camera,1010.35
+Cooling Fan,1546.65
+USB Drive,778.37
+Microphone,1623.43
+Camera,1607.64
+USB Drive,551.38
+RAM,2030.07
+Mouse,1110.9
+Microphone,569.72
+Charger,1516.84
+Monitor,561.36
+Power Supply,481.9
+Keyboard,1635.99
+CPU,876.88
+Smartwatch,1207.94
+Cooling Fan,36.52
+Mouse,2335.87
+Headphones,2241.77
+Game Console,1877.45
+Microphone,480.26
+Speaker,2104.06
+Graphics Card,2072.87
+Game Console,1501.37
+Mouse,1745.02
+Charger,2329.73
+USB Drive,787.83
+Motherboard,2326.34
+Laptop,1542.09
+Cooling Fan,1403.58
+Motherboard,1215.69
+Graphics Card,1859.11
+Smartphone,1446.59
+Printer,1881.89
+Printer,528.11
+Case,812.57
+Printer,2111.55
+Graphics Card,23.69
+Graphics Card,1560.19
+Smartphone,559.39
+CPU,1292.21
+Microphone,2078.77
+Smartphone,1659.97
+Smartphone,1682.58
+Microphone,425.98
+Graphics Card,855.78
+Motherboard,458.6
+Camera,1296.77
+Printer,729.83
+Graphics Card,2095.56
+SSD,1513.68
+Microphone,820.62
+Headphones,1275.91
+USB Drive,1517.14
+Monitor,1259.96
+Printer,1255.67
+Laptop,1298.49
+Tablet,209.71
+Mouse,1948.35
+Microphone,294.32
+SSD,2115.86
+Cooling Fan,593.33
+Speaker,2417.62
+Keyboard,51.52
+CPU,203.93
+Microphone,1589.56
+Monitor,1364.12
+Mouse,1729.94
+Headphones,1942.5
+Cooling Fan,745.29
+Tablet,2041.63
+External Hard Drive,761.77
+Power Supply,507.79
+Case,23.82
+USB Drive,2453.14
+CPU,2085.33
+Monitor,351.35
+Speaker,1743.97
+Mouse,1911.3
+Smartwatch,1964.72
+Printer,240.81
+Motherboard,973.51
+Camera,1059.16
+Camera,1320.68
+Microphone,1475.39
+USB Drive,2407.74
+Router,2244.16
+Tablet,349.0
+Graphics Card,1540.92
+Cooling Fan,269.34
+Smartphone,2457.55
+Cooling Fan,2294.29
+Graphics Card,530.03
+Power Supply,866.71
+Case,2292.47
+Tablet,1365.83
+Microphone,1770.59
+Charger,1848.85
+Charger,471.69
+Motherboard,312.62
+Router,470.98
+Keyboard,1774.87
+Tablet,386.25
+Monitor,2330.03
+Motherboard,1640.08
+Speaker,2311.35
+External Hard Drive,118.06
+Power Supply,1095.7
+Keyboard,2061.81
+Game Console,454.07
+RAM,476.05
+Speaker,931.3
+Router,1335.46
+Tablet,2249.97
+Graphics Card,1271.27
+Power Supply,231.0
+Game Console,2261.76
+Power Supply,203.33
+Motherboard,2082.72
+Graphics Card,139.46
+USB Drive,1041.7
+Keyboard,2188.24
+Graphics Card,897.8
+Power Supply,2455.99
+Graphics Card,787.21
+SSD,640.66
+Tablet,2233.78
+Game Console,72.84
+Case,1975.91
+Charger,1698.24
+External Hard Drive,2130.15
+Game Console,560.97
+Charger,893.44
+Printer,2301.66
+CPU,212.2
+Headphones,106.91
+Tablet,1152.47
+Speaker,2033.09
+Case,1085.58
+Keyboard,456.61
+Keyboard,51.4
+Printer,1266.86
+Speaker,656.68
+Tablet,1831.19
+Graphics Card,1877.72
+Speaker,2333.9
+Speaker,1517.11
+External Hard Drive,643.31
+Keyboard,1065.24
+SSD,1815.89
+Monitor,1235.0
+Laptop,605.0
+Cooling Fan,1629.23
+Game Console,2307.97
+Printer,1790.25
+Cooling Fan,16.11
+Router,2469.42
+RAM,2164.96
+Smartphone,1168.22
+SSD,704.38
+Smartphone,738.9
+RAM,157.94
+Mouse,898.98
+Charger,1386.01
+Smartphone,1495.63
+Keyboard,444.91
+Case,2495.14
+Motherboard,1475.62
+Mouse,1150.16
+Camera,550.6
+USB Drive,144.32
+Speaker,2426.77
+Monitor,1199.93
+SSD,1268.39
+Cooling Fan,58.22
+SSD,1639.14
+Cooling Fan,121.27
+Headphones,2403.67
+USB Drive,1185.88
+Motherboard,1098.43
+Headphones,42.16
+Mouse,1785.79
+CPU,1862.75
+Router,790.68
+Power Supply,2395.76
+USB Drive,2255.25
+Laptop,2312.66
+Smartwatch,1944.17
+Power Supply,1858.59
+Microphone,1174.79
+Case,2196.51
+RAM,537.77
+USB Drive,788.26
+Camera,1945.66
+CPU,320.06
+Game Console,904.34
+Mouse,681.79
+Motherboard,1212.84
+Camera,80.8
+Router,1720.9
+Motherboard,1656.14
+Mouse,2381.19
+Cooling Fan,2470.84
+Smartphone,2099.25
+Monitor,638.1
+Power Supply,889.65
+Router,781.39
+USB Drive,790.83
+Smartwatch,811.67
+Charger,593.78
+Keyboard,1880.22
+Speaker,1720.33
+Speaker,1092.44
+Keyboard,1603.68
+Motherboard,2208.01
+Microphone,1951.62
+Tablet,56.34
+Case,1628.53
+Cooling Fan,1749.74
+Keyboard,2016.38
+CPU,1336.15
+Motherboard,2495.08
+Camera,1078.16
+USB Drive,2235.98
+Mouse,2161.43
+Game Console,2394.09
+Case,201.33
+Smartphone,921.89
+Smartphone,463.22
+Monitor,299.36
+Camera,908.84
+Tablet,819.67
+Keyboard,1875.88
+Router,2338.78
+Tablet,1696.03
+Mouse,1024.02
+Motherboard,12.27
+Smartwatch,851.04
+Headphones,2110.01
+CPU,816.52
+Microphone,1601.27
+Router,39.21
+External Hard Drive,1705.46
+Smartwatch,1134.02
+Motherboard,2099.92
+Smartwatch,846.29
+Case,1048.82
+Cooling Fan,2422.16
+Smartphone,2261.55
+Smartphone,2408.48
+Charger,535.24
+Charger,799.05
+Microphone,1714.1
+Cooling Fan,1366.97
+Camera,303.37
+RAM,757.69
+SSD,876.38
+Headphones,2090.5
+Case,1502.1
+Game Console,2068.13
+Charger,1859.55
+Microphone,2016.84
+RAM,851.92
+Smartphone,2362.69
+Smartwatch,771.97
+Cooling Fan,1722.82
+Power Supply,14.48
+Power Supply,616.64
+Charger,2386.02
+Graphics Card,1587.9
+Graphics Card,1313.07
+Case,1889.62
+Camera,694.02
+Tablet,958.04
+Power Supply,2465.88
+Headphones,849.5
+Charger,854.96
+CPU,1708.52
+Laptop,1909.17
+Graphics Card,1532.47
+Tablet,996.15
+Laptop,1429.54
+Router,476.7
+Laptop,2286.09
+Monitor,1672.59
+Router,2442.2
+Tablet,339.07
+Tablet,504.57
+Case,2017.38
+External Hard Drive,2002.26
+Power Supply,350.1
+External Hard Drive,84.07
+Mouse,599.65
+External Hard Drive,1427.95
+Graphics Card,820.46
+Motherboard,2394.98
+CPU,1397.05
+USB Drive,1748.98
+Microphone,2084.79
+Tablet,1610.87
+Case,717.28
+Case,904.2
+Microphone,1997.06
+CPU,930.15
+Motherboard,2006.51
+USB Drive,1237.33
+Laptop,1456.74
+Headphones,1054.38
+Tablet,2491.27
+Smartwatch,2348.9
+Laptop,2129.61
+External Hard Drive,1722.19
+SSD,1540.08
+SSD,2471.19
+Graphics Card,2108.84
+Smartphone,390.45
+Cooling Fan,59.88
+CPU,521.5
+Camera,1405.07
+Charger,254.33
+External Hard Drive,835.34
+Smartwatch,2198.64
+Headphones,1976.33
+Headphones,100.3
+Graphics Card,38.29
+SSD,1974.54
+USB Drive,861.58
+Printer,2276.66
+Printer,824.2
+Game Console,1192.59
+Headphones,1255.72
+USB Drive,2286.39
+Headphones,1022.31
+Monitor,1515.38
+Monitor,2273.31
+Smartwatch,1290.7
+Keyboard,204.11
+Case,142.88
+Smartwatch,1576.43
+Smartphone,2131.1
+Laptop,633.42
+Case,510.87
+Game Console,385.4
+Tablet,1636.24
+Power Supply,2046.2
+Graphics Card,2497.98
+Camera,2114.35
+Game Console,291.8
+Router,1495.4
+Power Supply,363.43
+Camera,1056.37
+Headphones,859.92
+Speaker,1050.24
+Case,248.51
+SSD,1772.64
+Microphone,295.76
+SSD,860.81
+Power Supply,1203.49
+Monitor,206.24
+USB Drive,2493.82
+Headphones,1985.79
+Charger,1027.75
+Microphone,854.1
+Headphones,2143.83
+Keyboard,784.14
+Speaker,605.53
+RAM,1998.57
+Smartwatch,2337.05
+Charger,1768.72
+Game Console,1424.47
+CPU,2402.97
+Speaker,2066.93
+Speaker,1355.34
+Mouse,2144.82
+Laptop,2367.77
+Motherboard,626.36
+Speaker,575.6
+CPU,1620.67
+Smartwatch,909.45
+Router,1425.14
+Cooling Fan,1752.06
+Printer,690.78
+Power Supply,1448.74
+Router,1568.43
+Camera,1376.33
+Monitor,2331.05
+Motherboard,614.81
+Monitor,1314.45
+Router,2467.83
+Game Console,795.39
+Mouse,2439.47
+Graphics Card,1266.87
+Speaker,2104.48
+Router,434.13
+Charger,859.96
+Power Supply,1112.61
+Cooling Fan,1069.14
+Cooling Fan,2062.27
+External Hard Drive,2120.76
+Laptop,1578.21
+Game Console,719.11
+Keyboard,1256.77
+Smartwatch,1449.35
+Game Console,2073.09
+Charger,1557.67
+Graphics Card,276.65
+SSD,1781.81
+Motherboard,1736.38
+Smartphone,1342.85
+Keyboard,888.01
+Keyboard,604.91
+Charger,1445.75
+Motherboard,302.72
+Graphics Card,1680.23
+External Hard Drive,2181.23
+Keyboard,386.19
+Power Supply,1049.76
+Game Console,2177.51
+Mouse,2410.21
+Monitor,26.65
+Monitor,2113.79
+Printer,1398.22
+Smartphone,1864.86
+Charger,1436.71
+Smartphone,1026.76
+Headphones,144.37
+USB Drive,664.18
+USB Drive,343.28
+Headphones,2152.77
+RAM,704.68
+RAM,1832.77
+External Hard Drive,88.02
+Game Console,502.85
+Laptop,613.65
+USB Drive,113.71
+Keyboard,46.06
+Case,2158.19
+USB Drive,471.98
+Headphones,984.7
+Cooling Fan,1229.78
+Headphones,339.02
+Motherboard,2144.73
+Router,2354.58
+Laptop,1009.19
+Camera,1002.8
+External Hard Drive,1092.85
+Game Console,1022.46
+Smartphone,1325.54
+RAM,321.56
+Smartphone,1499.57
+Monitor,2431.71
+Power Supply,265.89
+Mouse,452.62
+Case,691.0
+Power Supply,1753.73
+Case,829.27
+Charger,2468.36
+Smartwatch,1039.61
+Router,1714.88
+Charger,161.4
+Graphics Card,1226.44
+Camera,114.21
+Printer,242.67
+Laptop,235.1
+Power Supply,2148.89
+Printer,138.61
+External Hard Drive,1955.93
+SSD,455.79
+USB Drive,1824.27
+Charger,1210.2
+USB Drive,1741.55
+Monitor,507.41
+Camera,111.8
+RAM,2271.93
+RAM,1640.32
+Case,1491.4
+Smartwatch,2387.19
+Motherboard,520.22
+Speaker,1231.97
+CPU,66.81
+RAM,2005.25
+Keyboard,665.76
+SSD,45.3
+Power Supply,2309.72
+Printer,258.81
+Laptop,1219.13
+Charger,589.86
+Graphics Card,1388.0
+CPU,1561.33
+SSD,1100.13
+Game Console,1997.62
+Monitor,1944.42
+Power Supply,33.21
+Smartwatch,321.66
+Game Console,1431.0
+Smartwatch,1491.73
+Tablet,566.28
+Case,1168.96
+Charger,71.98
+Case,2104.05
+Graphics Card,1043.1
+Speaker,2175.14
+Smartphone,311.61
+Graphics Card,1765.5
+Smartwatch,364.08
+Cooling Fan,33.66
+Microphone,406.71
+Motherboard,1331.86
+CPU,756.83
+Keyboard,1574.07
+Case,2324.6
+Mouse,281.71
+Speaker,772.14
+CPU,1852.66
+Case,1359.58
+Motherboard,681.3
+Monitor,38.4
+Printer,2031.51
+Monitor,1938.8
+Mouse,487.54
+USB Drive,2054.77
+Printer,620.85
+Headphones,2024.0
+CPU,841.63
+RAM,1857.43
+RAM,1034.71
+Game Console,1400.17
+Printer,472.24
+Headphones,2482.83
+Graphics Card,500.78
+Smartwatch,1313.43
+Router,2464.33
+Case,1025.81
+Camera,1012.5
+CPU,924.99
+Headphones,2106.22
+Power Supply,1695.83
+CPU,777.3
+Printer,1789.71
+Microphone,448.88
+Microphone,1256.81
+Headphones,206.52
+USB Drive,1836.82
+External Hard Drive,2232.26
+Smartphone,2343.47
+Headphones,1411.66
+Printer,2436.09
+Monitor,689.11
+CPU,630.42
+Smartphone,953.86
+RAM,1627.95
+Power Supply,2105.69
+Smartphone,582.65
+Keyboard,2234.98
+Power Supply,1099.42
+Camera,115.09
+Monitor,1921.41
+Camera,2167.42
+Graphics Card,494.34
+Case,1571.33
+Keyboard,973.35
+Smartphone,1950.9
+Power Supply,451.5
+Charger,616.67
+Headphones,763.77
+Microphone,2173.3
+Cooling Fan,2297.23
+Printer,2203.98
+Router,1991.31
+Headphones,971.76
+Monitor,1116.41
+Case,157.56
+RAM,2327.98
+RAM,2033.77
+CPU,2276.72
+Router,2467.34
+Camera,557.59
+Speaker,1487.66
+Router,370.32
+RAM,328.23
+CPU,1307.31
+CPU,2308.44
+External Hard Drive,738.05
+USB Drive,983.53
+Keyboard,1362.45
+USB Drive,1543.54
+Tablet,186.14
+Camera,720.97
+Laptop,2014.21
+Laptop,676.71
+Headphones,385.38
+Power Supply,1572.99
+Smartwatch,634.72
+Motherboard,1053.76
+Smartphone,1354.05
+Cooling Fan,1560.93
+Laptop,1910.16
+Case,611.74
+Speaker,2271.25
+Game Console,2311.97
+SSD,109.06
+Game Console,1217.8
+Case,477.11
+Smartwatch,1785.48
+Charger,764.26
+Cooling Fan,1167.26
+RAM,1043.0
+Camera,1350.05
+USB Drive,1228.35
+RAM,933.47
+Router,572.03
+Motherboard,2481.59
+CPU,1225.48
+Microphone,745.12
+Monitor,187.26
+Charger,2481.57
+SSD,2418.91
+Smartphone,1784.48
+Case,1938.0
+Game Console,287.86
+Keyboard,1450.31
+Smartphone,314.31
+Smartphone,1192.29
+External Hard Drive,1119.74
+Laptop,2137.54
+Laptop,1738.87
+Router,29.71
+Headphones,1390.35
+Motherboard,109.29
+Smartphone,506.14
+Tablet,1494.22
+External Hard Drive,849.27
+CPU,1503.31
+Motherboard,2321.75
+Headphones,2498.99
+External Hard Drive,1789.28
+Graphics Card,1804.75
+Case,1443.31
+Cooling Fan,960.93
+Headphones,405.98
+Case,2306.04
+Speaker,1702.27
+Keyboard,158.58
+Tablet,1057.12
+RAM,1940.62
+Smartphone,1122.51
+Power Supply,1800.14
+Keyboard,2208.28
+Graphics Card,697.66
+Printer,358.57
+Laptop,1536.6
+RAM,488.03
+Power Supply,280.4
+Speaker,27.85
+USB Drive,2365.7
+USB Drive,1742.5
+Laptop,2171.09
+Smartwatch,407.12
+Mouse,759.99
+Smartwatch,2004.2
+Graphics Card,1893.96
+Keyboard,2328.6
+Printer,2119.87
+Power Supply,1219.56
+USB Drive,1923.25
+USB Drive,2486.37
+Motherboard,1684.8
+Mouse,1802.95
+Headphones,750.11
+Camera,1070.9
+RAM,1082.04
+Charger,981.68
+RAM,1850.92
+SSD,287.4
+Headphones,1652.29
+Speaker,1188.15
+Smartphone,976.93
+External Hard Drive,1930.38
+Laptop,1685.24
+Laptop,2026.48
+Printer,694.23
+Router,2476.56
+CPU,2305.62
+Printer,1789.04
+CPU,1447.72
+CPU,307.57
+Headphones,1436.04
+Keyboard,2479.04
+USB Drive,285.39
+Power Supply,2269.13
+External Hard Drive,1226.54
+Smartwatch,885.33
+Laptop,50.57
+Camera,311.6
+Mouse,1279.73
+CPU,1175.27
+Smartwatch,406.92
+Game Console,1428.71
+External Hard Drive,362.3
+Microphone,1063.69
+Keyboard,1235.49
+Headphones,1454.27
+Power Supply,1036.68
+Power Supply,1452.34
+Game Console,1363.38
+USB Drive,2238.55
+Case,1902.48
+Headphones,2286.38
+Tablet,302.88
+SSD,2254.37
+External Hard Drive,1628.3
+External Hard Drive,464.67
+SSD,1125.21
+Game Console,387.57
+Graphics Card,361.66
+SSD,608.03
+USB Drive,1518.84
+CPU,285.47
+USB Drive,1856.83
+Motherboard,875.58
+Smartphone,896.18
+Mouse,1386.67
+USB Drive,1126.82
+Game Console,1466.33
+External Hard Drive,1213.05
+SSD,679.68
+Printer,2132.19
+Graphics Card,1732.82
+RAM,62.23
+Cooling Fan,2223.6
+Smartphone,1492.79
+Smartphone,1722.77
+Charger,725.69
+Laptop,2315.52
+Power Supply,766.66
+Headphones,1315.36
+Power Supply,180.23
+Laptop,301.42
+Cooling Fan,532.45
+Monitor,2171.47
+Smartwatch,756.12
+Monitor,1405.81
+Printer,829.91
+Printer,425.02
+Charger,1234.4
+Graphics Card,1190.6
+Router,811.14
+Laptop,1106.01
+Smartphone,853.12
+Cooling Fan,2372.78
+Motherboard,2088.33
+Smartphone,1138.98
+Charger,245.19
+Laptop,139.63
+Motherboard,515.45
+RAM,2173.47
+Game Console,593.14
+Game Console,332.15
+Printer,1550.98
+Keyboard,195.56
+Tablet,259.27
+SSD,2122.88
+Smartphone,2100.2
+Power Supply,471.83
+Tablet,2300.03
+SSD,1831.39
+Microphone,938.42
+Smartwatch,1675.76
+Smartwatch,1385.82
+Cooling Fan,1780.34
+CPU,1436.12
+RAM,2414.87
+Case,800.29
+Mouse,783.39
+Speaker,2288.24
+Graphics Card,1641.09
+Power Supply,732.16
+Laptop,1436.32
+Charger,2084.42
+CPU,120.58
+Motherboard,2238.21
+Camera,1370.99
+Headphones,915.52
+Monitor,358.65
+CPU,2444.27
+Laptop,1318.98
+Keyboard,764.03
+Cooling Fan,1504.71
+Charger,1957.16
+Cooling Fan,2000.5
+Case,361.4
+Graphics Card,64.06
+Motherboard,210.83
+SSD,2404.89
+Game Console,1428.28
+Microphone,1912.1
+RAM,717.95
+Headphones,1636.67
+Graphics Card,910.91
+RAM,158.85
+SSD,2110.31
+Keyboard,689.49
+Motherboard,2333.83
+USB Drive,2097.71
+USB Drive,872.71
+RAM,588.36
+Tablet,2125.83
+Headphones,2068.1
+Cooling Fan,2272.52
+External Hard Drive,154.58
+CPU,892.61
+CPU,2499.22
+Headphones,700.93
+Microphone,2474.34
+Router,2253.6
+Motherboard,2426.49
+Camera,368.38
+Microphone,1790.81
+Printer,1831.21
+Case,68.35
+Monitor,877.9
+External Hard Drive,796.55
+Cooling Fan,1406.19
+Keyboard,1137.56
+Camera,1356.13
+Motherboard,416.42
+Mouse,740.45
+Mouse,1510.52
+Microphone,1314.72
+Laptop,1994.28
+Mouse,1739.09
+SSD,796.35
+Charger,1285.75
+Charger,906.22
+Tablet,2443.19
+Game Console,678.44
+Graphics Card,2031.95
+Cooling Fan,2466.16
+Power Supply,214.44
+SSD,1991.37
+Printer,234.53
+Cooling Fan,1339.07
+Router,1090.32
+Graphics Card,1424.8
+Headphones,37.4
+Smartwatch,669.6
+Mouse,1845.1
+Router,2261.55
+Monitor,581.04
+Case,1237.41
+Smartphone,243.57
+Printer,1412.99
+Graphics Card,111.83
+SSD,110.97
+Tablet,2031.39
+Headphones,2036.59
+Headphones,1075.9
+SSD,745.81
+Printer,161.12
+Power Supply,785.6
+Smartwatch,767.35
+Speaker,1201.25
+Monitor,1193.36
+Keyboard,714.15
+Router,2394.12
+External Hard Drive,733.04
+Camera,1103.28
+Printer,82.88
+Smartwatch,1823.39
+Smartwatch,2479.52
+Charger,754.99
+Printer,936.45
+Power Supply,41.22
+Speaker,286.9
+Speaker,1263.1
+Smartphone,339.51
+Microphone,1350.27
+Laptop,2311.29
+Tablet,145.62
+Smartwatch,828.85
+Monitor,379.29
+Camera,1619.33
+Cooling Fan,1741.9
+Monitor,505.81
+Charger,185.19
+Printer,270.34
+Charger,2213.45
+Mouse,1788.34
+CPU,1477.46
+USB Drive,1634.21
+Headphones,1026.03
+Mouse,1247.35
+Speaker,562.22
+Smartphone,1859.35
+Headphones,2275.39
+Cooling Fan,1686.38
+Power Supply,631.16
+Smartphone,601.54
+Smartphone,2482.58
+Mouse,1971.03
+USB Drive,1297.21
+Speaker,745.42
+Laptop,95.47
+Laptop,377.26
+Printer,1115.03
+Graphics Card,149.22
+Microphone,2347.36
+Charger,864.73
+Power Supply,1881.55
+Microphone,2007.37
+Microphone,1736.38
+Smartwatch,2243.7
+Smartphone,1206.04
+Monitor,1019.26
+Motherboard,1740.0
+USB Drive,91.78
+Case,204.88
+Power Supply,1124.63
+USB Drive,1531.17
+Charger,971.39
+Monitor,475.52
+Laptop,1949.99
+Smartphone,932.13
+Monitor,792.45
+RAM,2085.72
+Camera,1066.5
+Router,566.75
+Cooling Fan,1350.56
+Smartphone,1451.02
+Headphones,823.44
+Laptop,2044.74
+Printer,285.34
+Mouse,1060.89
+Cooling Fan,2231.46
+CPU,539.76
+Graphics Card,1465.85
+Charger,76.76
+Router,397.31
+Headphones,2342.0
+Printer,140.84
+Tablet,1043.2
+External Hard Drive,1283.15
+Game Console,1768.21
+Game Console,250.31
+Keyboard,73.44
+Smartwatch,1154.6
+Power Supply,2428.26
+Case,1641.94
+Laptop,1979.38
+Case,644.97
+Tablet,1307.24
+Headphones,1792.29
+Graphics Card,1050.62
+USB Drive,1179.64
+Charger,674.48
+RAM,2335.43
+Smartphone,2423.63
+USB Drive,1122.35
+Power Supply,32.25
+USB Drive,242.72
+Cooling Fan,1259.62
+Motherboard,1271.61
+Smartwatch,185.7
+Router,1260.84
+Headphones,183.89
+SSD,2173.59
+Router,653.14
+Game Console,2042.39
+Keyboard,1987.94
+Tablet,514.8
+Laptop,1715.94
+Camera,1757.94
+Router,2294.75
+Tablet,2485.11
+CPU,2155.1
+Printer,654.88
+Case,1946.17
+Charger,1905.84
+USB Drive,1015.43
+Headphones,449.13
+Headphones,2162.02
+Power Supply,1808.47
+Cooling Fan,547.57
+Game Console,2293.52
+Smartwatch,21.53
+Smartwatch,1452.7
+Tablet,1913.56
+Power Supply,201.28
+Monitor,1783.59
+Graphics Card,2383.46
+Speaker,2439.28
+RAM,1538.22
+Game Console,771.83
+Printer,1245.47
+Graphics Card,1418.74
+Router,1999.11
+Cooling Fan,2143.46
+Cooling Fan,1918.8
+Smartwatch,1827.23
+Printer,610.16
+Laptop,1970.39
+USB Drive,1210.84
+Router,1099.62
+Printer,1549.92
+Graphics Card,2208.37
+Case,292.8
+Motherboard,2462.44
+Smartwatch,1835.21
+Cooling Fan,179.28
+Monitor,1354.82
+Microphone,861.52
+CPU,1171.71
+Keyboard,667.77
+Case,1895.28
+Smartphone,251.82
+Smartwatch,1249.12
+Microphone,2181.71
+Router,1578.4
+Smartwatch,1428.88
+Smartphone,1980.1
+Camera,1659.32
+Printer,2250.03
+Power Supply,828.19
+RAM,837.5
+RAM,765.13
+Router,1350.34
+Monitor,315.74
+Charger,2355.2
+Mouse,2283.76
+Graphics Card,1435.9
+SSD,999.77
+Smartphone,100.08
+Smartphone,1559.6
+Game Console,676.76
+Graphics Card,1577.09
+Cooling Fan,2076.99
+Game Console,2205.36
+Speaker,1477.53
+Cooling Fan,1384.13
+RAM,1837.25
+Headphones,320.04
+SSD,104.14
+Mouse,578.85
+Cooling Fan,1427.22
+Tablet,869.49
+Smartphone,113.04
+Camera,2383.96
+Camera,235.38
+Game Console,2076.62
+Printer,1591.94
+Graphics Card,1181.77
+Smartwatch,716.99
+External Hard Drive,342.94
+Case,579.77
+SSD,1196.42
+Graphics Card,1955.33
+SSD,86.85
+Keyboard,171.87
+Microphone,1999.72
+Graphics Card,988.74
+CPU,1862.78
+Headphones,1334.71
+Case,1315.1
+Keyboard,713.7
+Cooling Fan,552.36
+Power Supply,39.4
+Mouse,303.5
+Router,1043.56
+Speaker,1196.7
+Monitor,1138.9
+Cooling Fan,264.46
+Case,1450.63
+Tablet,1172.81
+Headphones,1996.04
+Monitor,349.12
+Keyboard,1768.88
+Cooling Fan,2384.87
+USB Drive,854.89
+Case,2185.12
+Charger,356.37
+Keyboard,723.16
+Speaker,1249.33
+Printer,1943.59
+Smartphone,1274.03
+Tablet,1531.58
+CPU,1784.23
+Motherboard,240.91
+Case,494.61
+Case,1065.58
+Smartphone,1868.92
+Smartphone,2383.97
+Smartphone,792.58
+Tablet,1594.79
+Graphics Card,2273.25
+CPU,771.13
+Tablet,496.23
+Router,804.43
+Tablet,1042.42
+Speaker,822.71
+External Hard Drive,1683.12
+USB Drive,519.76
+CPU,172.83
+Camera,836.11
+Charger,440.86
+Motherboard,1484.27
+External Hard Drive,1157.62
+SSD,2341.79
+Router,1550.94
+USB Drive,1894.0
+Charger,747.54
+USB Drive,1705.95
+Printer,1544.22
+Monitor,1855.13
+Speaker,1560.19
+USB Drive,269.92
+CPU,716.7
+Power Supply,452.34
+Microphone,350.03
+Game Console,2413.14
+External Hard Drive,568.94
+Speaker,2354.26
+Graphics Card,1700.98
+Charger,1050.11
+Power Supply,66.69
+Tablet,234.47
+Smartphone,543.26
+Printer,101.45
+Cooling Fan,1234.75
+Smartphone,2390.46
+CPU,1219.82
+Smartphone,1866.27
+Tablet,1634.22
+External Hard Drive,1797.08
+Speaker,2392.52
+CPU,328.58
+CPU,1265.17
+Mouse,1425.59
+External Hard Drive,1762.94
+Laptop,931.03
+Printer,887.19
+Smartwatch,1768.76
+Tablet,1325.2
+Speaker,2256.46
+Power Supply,2221.39
+Game Console,690.28
+Speaker,662.6
+Case,1537.71
+Tablet,1533.13
+External Hard Drive,2379.75
+Microphone,2003.3
+Game Console,1237.97
+Router,2003.93
+Printer,1781.29
+SSD,73.39
+Keyboard,1173.02
+Smartphone,1729.94
+Smartphone,1068.6
+Camera,991.83
+Microphone,37.29
+Mouse,744.04
+Mouse,765.9
+Speaker,949.9
+Case,1153.78
+External Hard Drive,1690.56
+SSD,2040.15
+Game Console,339.76
+Monitor,1589.46
+Tablet,1556.06
+Smartwatch,923.24
+Keyboard,1845.93
+Printer,2490.38
+Smartwatch,1721.31
+Headphones,2419.25
+Game Console,2154.38
+Smartwatch,2454.8
+Charger,1648.02
+CPU,2412.34
+Smartphone,1282.66
+Mouse,1182.77
+Smartwatch,169.86
+Headphones,209.01
+Smartphone,812.93
+Microphone,751.51
+Microphone,1628.81
+Monitor,1447.32
+Graphics Card,1655.23
+USB Drive,803.96
+USB Drive,2418.92
+Microphone,758.9
+Camera,2172.53
+Monitor,317.27
+Smartwatch,1594.15
+Keyboard,1258.91
+Camera,887.24
+Tablet,2214.96
+Game Console,409.06
+Monitor,575.24
+Charger,1756.47
+Cooling Fan,2222.8
+SSD,1708.37
+Charger,2099.62
+Motherboard,1368.82
+Headphones,489.31
+RAM,1161.79
+SSD,550.11
+CPU,411.74
+CPU,1877.26
+Microphone,1649.41
+Monitor,385.67
+Monitor,1026.68
+Monitor,1835.54
+Camera,882.82
+Tablet,365.92
+Monitor,1480.83
+Game Console,194.92
+Keyboard,1858.5
+Smartphone,1638.04
+RAM,295.58
+CPU,273.65
+RAM,2414.18
+Power Supply,2468.79
+CPU,401.45
+Monitor,111.03
+Mouse,1522.5
+Smartwatch,1973.99
+Tablet,2193.25
+Graphics Card,1569.02
+Power Supply,398.1
+Smartwatch,1088.22
+USB Drive,2269.83
+External Hard Drive,2169.86
+Motherboard,63.82
+Smartwatch,417.63
+Mouse,346.12
+Motherboard,569.57
+SSD,1187.08
+Smartphone,2322.52
+Tablet,1396.14
+Smartwatch,1900.63
+Keyboard,2092.12
+Headphones,1477.54
+Speaker,1724.45
+Mouse,837.79
+Router,1930.73
+Mouse,2100.45
+Cooling Fan,138.78
+Motherboard,928.67
+Laptop,778.45
+Game Console,687.03
+Power Supply,1855.5
+Router,445.43
+Camera,636.86
+Charger,2046.18
+RAM,564.18
+Tablet,305.51
+Power Supply,283.9
+Headphones,799.94
+External Hard Drive,449.13
+Smartwatch,1147.58
+Graphics Card,1148.02
+External Hard Drive,2296.12
+Camera,44.78
+SSD,348.55
+RAM,642.73
+External Hard Drive,46.71
+Power Supply,1541.54
+Printer,1507.72
+Smartphone,135.12
+Microphone,2186.23
+Printer,460.04
+Smartwatch,371.72
+SSD,2380.89
+Camera,1569.78
+Graphics Card,1609.83
+Power Supply,148.38
+Laptop,1792.59
+Smartphone,1251.17
+CPU,1463.45
+Keyboard,1932.58
+Graphics Card,1140.39
+Monitor,1120.51
+SSD,1668.68
+Graphics Card,1297.02
+RAM,1183.46
+Smartphone,533.89
+Smartphone,1383.07
+Laptop,2371.78
+Mouse,254.91
+Cooling Fan,1750.23
+SSD,1232.12
+Case,1243.53
+Speaker,1268.03
+Smartwatch,51.32
+Laptop,1123.45
+Laptop,1618.37
+Tablet,1801.55
+Smartwatch,1237.17
+Motherboard,1367.19
+Monitor,2289.86
+Mouse,2284.28
+CPU,450.89
+Game Console,628.44
+RAM,2378.19
+Monitor,1935.3
+Cooling Fan,1916.65
+Laptop,1600.01
+Printer,1825.45
+Smartwatch,1734.22
+Power Supply,587.21
+Game Console,2274.87
+Charger,2219.15
+Smartphone,2434.45
+SSD,1722.4
+Charger,1525.82
+Camera,534.57
+CPU,1348.88
+Mouse,222.53
+Case,1569.77
+Cooling Fan,1442.1
+Camera,409.21
+Router,2413.78
+Laptop,1106.27
+Motherboard,593.3
+Headphones,103.88
+USB Drive,2447.17
+Microphone,275.64
+Tablet,1771.98
+Monitor,1520.01
+Keyboard,2007.05
+SSD,1126.32
+Charger,1006.47
+Motherboard,1057.0
+Case,1845.73
+Microphone,2283.22
+Charger,1573.79
+Keyboard,244.0
+RAM,882.59
+Speaker,1590.6
+Graphics Card,776.25
+Microphone,693.6
+Tablet,423.22
+Microphone,623.76
+Router,1328.58
+SSD,1772.12
+Microphone,1637.68
+Monitor,1735.57
+CPU,1498.86
+CPU,2326.65
+Microphone,807.44
+Case,989.75
+Graphics Card,2210.52
+Charger,2411.5
+Cooling Fan,788.58
+Printer,1290.9
+Camera,1397.77
+Game Console,897.11
+Smartwatch,1675.62
+Case,1008.4
+External Hard Drive,1252.58
+Microphone,1052.44
+SSD,1721.79
+Smartphone,296.99
+Keyboard,105.42
+Mouse,1794.16
+Case,926.02
+Mouse,2217.21
+Camera,1454.56
+Laptop,1227.17
+Smartwatch,2067.31
+Smartwatch,1335.63
+Smartphone,2152.05
+Mouse,2145.91
+Power Supply,1925.74
+Monitor,2263.97
+External Hard Drive,536.59
+Keyboard,982.18
+RAM,837.41
+Smartphone,1219.76
+Smartwatch,185.47
+Cooling Fan,712.71
+Cooling Fan,1555.3
+Mouse,2057.49
+Camera,2150.49
+Router,442.54
+Tablet,2134.9
+Mouse,2460.81
+Case,1571.65
+USB Drive,680.98
+Laptop,1699.74
+Camera,2215.64
+Case,1078.78
+External Hard Drive,1946.98
+Laptop,436.51
+Graphics Card,816.27
+Camera,2374.24
+Smartwatch,404.26
+Printer,1711.19
+Cooling Fan,1718.7
+Router,149.76
+Cooling Fan,1617.48
+Mouse,135.71
+Keyboard,533.07
+Monitor,686.37
+Monitor,639.21
+Power Supply,532.59
+Microphone,2379.91
+Power Supply,910.61
+CPU,592.39
+Cooling Fan,237.67
+Graphics Card,2364.74
+Motherboard,215.0
+Mouse,2460.46
+Smartwatch,2399.09
+Laptop,1813.49
+Speaker,1615.66
+Game Console,1749.88
+Smartphone,1157.82
+Headphones,97.76
+Case,2370.07
+Case,1879.25
+Monitor,2011.43
+Printer,1857.74
+Case,446.09
+Laptop,525.09
+RAM,2008.0
+Keyboard,672.09
+Case,282.2
+External Hard Drive,1954.73
+Case,396.72
+Power Supply,1142.59
+Laptop,558.63
+RAM,1009.32
+RAM,411.43
+Mouse,261.91
+Motherboard,1919.62
+Graphics Card,809.02
+Smartphone,1468.37
+Case,1919.86
+RAM,835.41
+Case,1388.86
+Router,1581.5
+Case,66.21
+Speaker,2478.74
+Laptop,2491.25
+Smartphone,327.12
+Graphics Card,1936.12
+Game Console,882.92
+Charger,905.18
+Microphone,1517.3
+USB Drive,1629.64
+Smartwatch,2445.6
+Graphics Card,2464.62
+Router,225.15
+CPU,2022.04
+Camera,2415.93
+CPU,1625.02
+Laptop,280.22
+Tablet,1624.8
+Power Supply,435.15
+Charger,2487.11
+Smartphone,988.06
+CPU,1029.18
+Monitor,1048.4
+Router,1348.58
+Motherboard,2301.92
+Smartphone,1767.63
+Camera,2142.74
+Printer,2348.07
+Printer,2319.13
+Microphone,25.63
+Headphones,181.48
+Laptop,2464.12
+Camera,1395.39
+Router,1565.93
+Laptop,414.1
+Smartphone,1926.68
+Headphones,1114.72
+Motherboard,1720.85
+Monitor,1585.5
+USB Drive,715.64
+Printer,742.31
+Smartwatch,2292.83
+CPU,166.73
+Headphones,906.4
+Charger,1482.15
+Motherboard,2059.12
+External Hard Drive,2408.1
+External Hard Drive,1887.53
+Microphone,727.99
+Power Supply,995.81
+Game Console,2127.77
+Cooling Fan,864.91
+Tablet,576.96
+Tablet,1611.6
+Graphics Card,1063.99
+Smartwatch,483.45
+Camera,996.1
+Case,1663.74
+Mouse,1130.45
+Case,1603.77
+Microphone,152.83
+RAM,120.28
+SSD,517.9
+RAM,506.58
+Monitor,1399.97
+Tablet,2164.16
+Printer,719.77
+Speaker,200.14
+Keyboard,610.21
+Printer,1941.76
+Keyboard,2211.93
+Game Console,1337.84
+Cooling Fan,1166.36
+Laptop,2128.74
+Cooling Fan,919.5
+Tablet,501.81
+Power Supply,128.01
+Cooling Fan,830.92
+Case,2301.32
+Graphics Card,18.88
+Speaker,2357.95
+SSD,228.54
+Smartphone,671.05
+Laptop,2186.27
+Motherboard,1602.83
+Smartwatch,2145.86
+RAM,544.88
+Cooling Fan,51.57
+External Hard Drive,1984.31
+Case,1498.68
+Mouse,1552.17
+Router,193.6
+Laptop,1046.07
+Power Supply,127.35
+Monitor,2483.47
+Printer,2314.82
+Camera,299.2
+Power Supply,1574.24
+Headphones,2434.78
+SSD,655.44
+Case,1741.96
+Tablet,72.61
+CPU,2451.85
+Motherboard,608.71
+Smartwatch,401.58
+Speaker,1539.94
+RAM,855.3
+Speaker,1753.26
+Smartphone,1256.5
+CPU,325.07
+Speaker,1074.06
+RAM,1738.33
+Smartphone,1887.14
+Keyboard,1112.19
+Smartphone,2118.53
+Power Supply,2284.63
+Smartphone,2474.59
+CPU,929.83
+Smartwatch,777.2
+Smartwatch,1929.3
+Headphones,1310.06
+External Hard Drive,2288.61
+Power Supply,818.49
+Graphics Card,1413.73
+CPU,624.65
+Speaker,513.9
+Motherboard,270.35
+USB Drive,1071.73
+Microphone,2242.94
+Charger,252.66
+Laptop,249.77
+Mouse,1193.52
+CPU,1491.73
+SSD,2369.81
+Power Supply,146.29
+Cooling Fan,392.05
+Microphone,1485.12
+Headphones,2193.4
+Printer,1932.0
+SSD,1337.96
+Keyboard,1865.02
+Charger,2251.51
+CPU,1390.16
+Smartphone,2104.8
+Printer,58.41
+Case,2093.96
+Cooling Fan,516.8
+Graphics Card,2039.33
+Microphone,503.69
+Printer,403.9
+Cooling Fan,2363.3
+Smartphone,1404.0
+Keyboard,2396.71
+Smartwatch,1792.47
+Graphics Card,600.85
+Speaker,101.92
+Camera,1740.66
+External Hard Drive,1359.45
+Router,548.66
+Router,1690.58
+Printer,1777.79
+Graphics Card,1408.53
+Charger,783.63
+Tablet,1077.33
+Laptop,1822.59
+RAM,1686.07
+Headphones,568.1
+Smartphone,1114.65
+Printer,680.97
+RAM,2144.44
+Smartwatch,410.06
+Microphone,2331.37
+Game Console,1566.3
+Smartwatch,779.66
+External Hard Drive,1214.22
+Tablet,1744.13
+Smartphone,1371.7
+Monitor,392.47
+CPU,2177.8
+Microphone,1351.6
+Laptop,1709.06
+Camera,869.49
+Camera,672.37
+Speaker,930.03
+CPU,2166.72
+Case,518.95
+SSD,149.15
+Power Supply,1971.93
+Tablet,2217.39
+Power Supply,443.29
+Monitor,553.36
+Game Console,1552.18
+Tablet,883.51
+Speaker,46.42
+Power Supply,771.3
+Keyboard,1126.03
+Laptop,1065.57
+Power Supply,455.08
+Motherboard,1883.11
+CPU,837.07
+Laptop,1541.26
+Camera,682.59
+USB Drive,2209.43
+Microphone,364.05
+Speaker,659.83
+Smartwatch,2210.27
+Charger,912.25
+CPU,1984.8
+Graphics Card,84.39
+Case,447.1
+Printer,1254.35
+SSD,1886.04
+Motherboard,2430.24
+Smartwatch,1832.0
+Game Console,1308.04
+Microphone,2173.41
+Monitor,869.23
+Mouse,2407.7
+Case,1911.33
+Power Supply,1205.35
+CPU,1558.73
+Printer,371.33
+Router,2395.03
+Charger,1421.75
+External Hard Drive,1885.94
+Motherboard,2308.92
+CPU,859.17
+CPU,2130.63
+Camera,806.18
+Router,238.73
+Keyboard,983.6
+Tablet,568.62
+Microphone,451.7
+USB Drive,2391.74
+USB Drive,347.99
+SSD,1580.69
+Graphics Card,1751.1
+RAM,1270.56
+Case,2347.97
+Headphones,630.46
+Microphone,2354.72
+Graphics Card,1679.02
+Printer,1603.67
+Mouse,1572.78
+Motherboard,1825.25
+Monitor,1590.15
+Charger,993.71
+Tablet,812.69
+USB Drive,1357.42
+Cooling Fan,1739.2
+USB Drive,1535.32
+Cooling Fan,92.66
+USB Drive,1152.87
+Microphone,699.75
+Graphics Card,2426.88
+Monitor,367.34
+Laptop,482.09
+External Hard Drive,1782.82
+Tablet,2340.07
+Smartphone,1115.94
+Charger,1084.0
+Smartphone,1051.95
+Game Console,1417.93
+Printer,200.46
+Game Console,2243.63
+Charger,2014.7
+RAM,1265.62
+External Hard Drive,2236.49
+Game Console,2226.39
+Power Supply,2062.64
+Camera,1079.11
+Smartphone,2051.89
+Smartphone,1030.74
+Laptop,1731.74
+Tablet,1899.57
+Power Supply,2454.92
+Cooling Fan,422.55
+Case,2236.54
+Graphics Card,85.73
+Motherboard,336.79
+CPU,1135.52
+Camera,1124.88
+Router,1064.97
+Printer,1194.51
+Monitor,1565.18
+Keyboard,797.86
+Case,2157.59
+Tablet,2075.53
+Graphics Card,375.03
+Speaker,1421.19
+Graphics Card,641.22
+Charger,2413.62
+Cooling Fan,2003.96
+Monitor,627.45
+Cooling Fan,1875.59
+Cooling Fan,652.29
+Printer,115.58
+Monitor,1536.81
+Smartphone,1647.7
+External Hard Drive,1348.34
+Charger,2118.9
+Keyboard,1305.75
+USB Drive,1655.4
+Keyboard,792.41
+Camera,796.25
+SSD,42.86
+Mouse,1079.18
+Motherboard,585.04
+Printer,1016.36
+Charger,870.21
+Game Console,2465.85
+Microphone,1248.28
+Microphone,1835.54
+Camera,520.11
+Router,2285.61
+Smartphone,1468.4
+Smartwatch,1274.31
+Smartphone,1931.62
+Case,642.54
+Printer,1175.27
+Power Supply,486.73
+SSD,278.16
+Headphones,827.04
+External Hard Drive,2125.25
+Case,1672.09
+Graphics Card,501.92
+Tablet,601.64
+Charger,2071.19
+Keyboard,829.53
+Smartwatch,1045.98
+Keyboard,2025.64
+Router,68.17
+Microphone,2362.98
+Smartphone,1238.44
+USB Drive,1727.13
+Speaker,2122.46
+Graphics Card,283.56
+Microphone,394.06
+Smartwatch,530.63
+Speaker,820.63
+External Hard Drive,2483.95
+SSD,1432.87
+Smartphone,1005.84
+Printer,2260.64
+Microphone,82.54
+Game Console,1874.56
+CPU,1836.4
+Game Console,2333.25
+Camera,949.44
+Router,213.51
+Charger,1683.25
+Router,1716.79
+Speaker,1456.16
+Printer,1725.38
+Game Console,1521.71
+Power Supply,1016.21
+Microphone,316.06
+Monitor,591.37
+Router,1307.65
+Laptop,1796.08
+Microphone,215.69
+Cooling Fan,15.75
+Case,59.5
+CPU,1786.79
+Cooling Fan,1510.09
+Monitor,1161.33
+Power Supply,991.39
+Motherboard,675.37
+CPU,1310.74
+External Hard Drive,917.55
+Mouse,771.32
+USB Drive,1120.93
+Smartwatch,1553.0
+External Hard Drive,2156.98
+Microphone,114.66
+Router,2344.18
+SSD,1309.14
+Monitor,1414.97
+External Hard Drive,2368.88
+Smartwatch,1893.88
+Smartwatch,2022.15
+Cooling Fan,104.6
+Smartphone,1814.41
+Mouse,792.23
+Case,1466.79
+Graphics Card,49.41
+Cooling Fan,1163.55
+Case,1547.86
+Mouse,1460.87
+USB Drive,2338.03
+Motherboard,362.79
+Microphone,1425.63
+Graphics Card,2371.45
+CPU,219.61
+Printer,304.51
+Monitor,433.97
+Power Supply,1656.83
+Smartwatch,1952.86
+SSD,127.28
+Microphone,1962.98
+Motherboard,416.84
+RAM,1931.51
+Game Console,1065.72
+Tablet,1866.32
+External Hard Drive,2112.31
+Cooling Fan,1555.57
+Case,577.62
+Tablet,208.21
+CPU,530.29
+Printer,266.96
+External Hard Drive,1179.59
+Game Console,1752.06
+Keyboard,837.27
+Laptop,331.69
+RAM,1510.28
+Keyboard,1398.51
+Headphones,1710.55
+Game Console,1057.18
+Power Supply,2110.03
+Laptop,1644.52
+CPU,658.28
+Camera,1134.36
+Microphone,1751.9
+RAM,407.74
+Tablet,1313.18
+Cooling Fan,2204.91
+Monitor,2412.17
+Game Console,1588.86
+Monitor,46.66
+USB Drive,873.22
+USB Drive,1223.55
+Charger,589.72
+Tablet,1350.69
+Game Console,585.42
+Game Console,1407.04
+Tablet,443.95
+Speaker,1818.23
+CPU,309.5
+RAM,1129.23
+CPU,2273.34
+Case,1433.31
+Microphone,691.13
+External Hard Drive,518.54
+Laptop,2218.79
+Camera,1290.17
+Keyboard,919.85
+Graphics Card,2018.37
+Headphones,712.14
+Game Console,2043.47
+Smartphone,752.32
+Camera,1807.08
+Speaker,2360.68
+Keyboard,385.69
+Monitor,2054.06
+Smartphone,2445.36
+Cooling Fan,1158.5
+Monitor,1789.82
+Power Supply,1613.36
+Monitor,1844.22
+Charger,657.05
+Headphones,1386.65
+Smartwatch,233.96
+Keyboard,963.14
+Monitor,1311.37
+Camera,1633.4
+Graphics Card,494.46
+Camera,341.06
+Game Console,1168.1
+Microphone,418.22
+Smartphone,644.43
+SSD,2398.65
+Mouse,1646.7
+Tablet,1230.23
+Game Console,943.74
+CPU,1296.69
+USB Drive,597.83
+Game Console,1115.74
+Laptop,2451.13
+Laptop,1739.92
+Laptop,655.76
+Power Supply,477.24
+Tablet,1774.49
+Speaker,725.16
+Graphics Card,2440.8
+CPU,1926.68
+Cooling Fan,1807.22
+CPU,698.39
+External Hard Drive,365.42
+Speaker,169.71
+Game Console,2283.9
+Charger,808.31
+Smartphone,773.4
+Power Supply,1248.84
+Power Supply,2224.2
+USB Drive,1867.39
+Charger,863.81
+SSD,1416.05
+Charger,2263.67
+Motherboard,1106.07
+USB Drive,2391.62
+SSD,1983.99
+Monitor,1403.42
+RAM,1945.74
+Tablet,1258.47
+Motherboard,1347.39
+CPU,400.95
+USB Drive,483.01
+Tablet,2136.36
+Charger,631.56
+Speaker,1320.59
+Monitor,667.82
+Monitor,1576.76
+Headphones,1398.51
+Power Supply,2097.87
+Speaker,1596.79
+Case,536.85
+Graphics Card,1930.27
+Power Supply,1316.48
+Microphone,788.84
+Router,650.78
+Printer,1387.92
+SSD,2489.26
+Charger,318.87
+Smartwatch,603.11
+Monitor,2490.83
+Monitor,243.03
+Monitor,941.55
+Monitor,420.89
+Mouse,437.44
+Laptop,15.34
+RAM,2303.84
+Cooling Fan,2261.67
+Power Supply,1782.31
+Charger,333.03
+Power Supply,567.02
+Smartwatch,552.61
+Smartphone,2209.14
+Cooling Fan,1804.31
+Smartphone,1631.3
+Case,1271.24
+Microphone,236.4
+Monitor,2236.6
+Mouse,105.65
+Smartphone,662.76
+Camera,2246.16
+USB Drive,1110.55
+Laptop,2469.86
+Microphone,2199.12
+Graphics Card,166.65
+Charger,928.65
+SSD,562.44
+SSD,1729.64
+Headphones,1609.32
+External Hard Drive,1572.85
+Laptop,828.95
+Mouse,899.75
+Cooling Fan,1745.1
+Monitor,742.79
+Speaker,2249.52
+Microphone,215.62
+Headphones,1095.28
+USB Drive,1813.65
+Mouse,1812.28
+Cooling Fan,1862.54
+Smartphone,606.52
+Speaker,460.97
+Smartphone,801.0
+RAM,1975.36
+CPU,1632.54
+Camera,898.04
+External Hard Drive,1070.33
+Case,1954.97
+Camera,215.89
+Smartphone,2175.05
+USB Drive,252.81
+Power Supply,780.55
+Game Console,379.03
+Printer,1854.74
+Printer,1507.11
+SSD,920.29
+Mouse,395.97
+Tablet,1641.72
+SSD,1014.84
+Case,143.97
+Smartwatch,2455.53
+Charger,196.8
+RAM,521.84
+Printer,136.59
+USB Drive,655.06
+Camera,347.9
+Microphone,2191.56
+USB Drive,1595.29
+Speaker,1383.15
+Smartphone,2321.83
+Mouse,1529.55
+Smartphone,1262.91
+Laptop,2165.13
+Motherboard,661.01
+Tablet,2299.36
+Monitor,1766.52
+Tablet,1284.24
+Speaker,2085.58
+External Hard Drive,1126.0
+Camera,760.64
+Monitor,1107.25
+External Hard Drive,1099.87
+Laptop,105.63
+Charger,1012.15
+Smartwatch,1798.37
+Graphics Card,1644.52
+Camera,1091.51
+Headphones,1515.71
+Router,999.96
+Graphics Card,347.29
+RAM,942.09
+Power Supply,2347.52
+Graphics Card,144.92
+Smartphone,1193.41
+RAM,1963.13
+Game Console,1852.07
+Cooling Fan,1882.98
+External Hard Drive,2039.61
+External Hard Drive,1385.43
+SSD,573.34
+Printer,1130.14
+Graphics Card,1402.79
+Camera,2012.45
+USB Drive,281.98
+USB Drive,2344.77
+Game Console,2057.71
+Charger,427.47
+CPU,1271.14
+SSD,1465.45
+External Hard Drive,2149.17
+Mouse,912.91
+Router,306.34
+USB Drive,10.27
+Headphones,2127.12
+CPU,123.9
+Keyboard,933.7
+Charger,1718.97
+Headphones,506.7
+Mouse,2406.77
+USB Drive,1228.62
+Case,1821.98
+Smartphone,1861.01
+Case,1102.36
+Laptop,1559.65
+Tablet,1492.4
+Case,1298.96
+Cooling Fan,1017.14
+Keyboard,1265.19
+Router,2496.6
+Graphics Card,1085.01
+Case,2133.12
+Charger,2303.84
+Router,1440.48
+Speaker,1378.18
+Smartwatch,663.76
+External Hard Drive,1165.43
+Microphone,2052.36
+Speaker,271.52
+CPU,1823.03
+Game Console,1900.99
+Headphones,1204.72
+Charger,1699.58
+SSD,911.53
+CPU,330.59
+RAM,1624.49
+USB Drive,308.81
+Speaker,340.35
+USB Drive,2424.99
+Headphones,496.44
+Speaker,1103.52
+Case,2458.35
+Motherboard,2479.28
+Monitor,995.33
+Microphone,422.77
+Monitor,1048.32
+Smartwatch,2015.92
+Cooling Fan,1083.71
+Monitor,127.37
+Graphics Card,378.57
+Printer,554.92
+RAM,2232.16
+Smartwatch,2454.38
+Graphics Card,637.51
+Power Supply,2089.07
+Case,315.79
+Tablet,1018.11
+Motherboard,2249.46
+Power Supply,637.57
+External Hard Drive,1759.87
+Smartwatch,274.05
+Smartwatch,660.69
+Laptop,2447.07
+RAM,1591.33
+External Hard Drive,2116.27
+Tablet,680.65
+Microphone,1654.88
+Game Console,1341.39
+RAM,624.55
+Tablet,126.59
+Mouse,1321.8
+Keyboard,2384.16
+Smartwatch,1961.01
+Charger,923.79
+Graphics Card,1606.86
+Speaker,1972.68
+Monitor,1352.73
+External Hard Drive,387.24
+Printer,2274.82
+Graphics Card,1635.24
+Router,2291.8
+USB Drive,867.9
+Router,1476.23
+Monitor,2029.7
+SSD,1463.18
+Tablet,908.5
+Smartwatch,705.85
+Speaker,1498.51
+Printer,1074.51
+Game Console,674.61
+SSD,808.57
+Case,104.36
+Game Console,489.08
+Cooling Fan,496.23
+Microphone,1775.25
+Motherboard,1653.08
+Charger,1157.92
+Headphones,164.75
+Printer,156.54
+Motherboard,285.9
+Keyboard,394.05
+Tablet,2067.75
+Smartphone,1948.57
+SSD,2434.66
+Keyboard,293.53
+Monitor,1333.87
+Cooling Fan,1653.09
+Laptop,686.2
+USB Drive,2077.66
+Router,812.72
+Smartwatch,1403.06
+Smartwatch,277.23
+External Hard Drive,227.14
+Camera,1224.67
+CPU,2002.26
+Charger,398.38
+Printer,957.91
+Printer,1809.41
+Camera,138.24
+Speaker,560.06
+Keyboard,1026.96
+Tablet,2288.52
+Smartphone,726.06
+Laptop,1883.28
+Speaker,704.32
+Microphone,403.86
+Charger,208.51
+Graphics Card,859.21
+Printer,2203.5
+Keyboard,307.62
+Charger,1234.89
+Smartwatch,1943.94
+USB Drive,1486.71
+Router,297.47
+Keyboard,125.43
+Camera,2280.28
+Speaker,699.5
+Cooling Fan,1405.29
+Speaker,1235.62
+Game Console,1962.33
+Motherboard,2217.19
+Keyboard,1310.55
+Laptop,59.63
+Smartphone,1954.33
+Charger,1877.49
+Tablet,781.6
+Mouse,909.46
+Router,1396.01
+Speaker,87.12
+Laptop,992.67
+SSD,1328.54
+SSD,2133.86
+Charger,227.39
+Monitor,118.46
+Cooling Fan,928.01
+Keyboard,1886.45
+RAM,1595.14
+Printer,97.87
+Case,846.71
+Headphones,957.14
+Game Console,1389.16
+Charger,1859.76
+Charger,2007.24
+Laptop,1914.1
+Graphics Card,1676.56
+Smartphone,2150.52
+Cooling Fan,1794.98
+USB Drive,2294.94
+Printer,1812.0
+Keyboard,1965.01
+Mouse,2177.36
+USB Drive,2303.74
+SSD,321.66
+External Hard Drive,865.25
+Mouse,691.25
+Charger,1388.34
+Laptop,886.35
+Printer,307.0
+CPU,225.84
+Charger,1324.56
+Laptop,1245.28
+Keyboard,1481.03
+Mouse,295.63
+RAM,582.48
+Microphone,1530.19
+RAM,695.01
+Printer,725.32
+Graphics Card,1936.31
+SSD,1082.88
+SSD,1543.86
+Case,2299.28
+Printer,174.13
+USB Drive,1213.89
+SSD,1656.44
+Mouse,2100.91
+CPU,1040.91
+Mouse,2422.75
+Laptop,979.62
+Tablet,1076.4
+Microphone,107.77
+Graphics Card,2408.43
+CPU,1356.97
+Mouse,525.1
+USB Drive,1781.37
+Microphone,247.4
+Charger,2276.9
+Smartphone,1292.51
+Charger,1899.54
+Game Console,2152.9
+Smartphone,2186.56
+Motherboard,724.93
+Speaker,502.68
+Cooling Fan,1902.01
+Monitor,479.82
+RAM,572.65
+Charger,443.18
+Smartphone,1459.1
+Case,1395.99
+Printer,396.32
+Keyboard,2448.89
+Speaker,886.95
+External Hard Drive,877.15
+Laptop,1704.56
+Case,554.01
+CPU,2180.03
+Motherboard,1935.67
+External Hard Drive,1341.59
+CPU,906.87
+Monitor,945.01
+Headphones,1001.86
+USB Drive,1780.66
+Charger,813.45
+USB Drive,291.55
+Microphone,932.93
+RAM,2358.66
+Camera,1612.0
+Keyboard,348.51
+Game Console,756.44
+Speaker,1394.04
+USB Drive,1719.2
+RAM,19.84
+Laptop,453.23
+Monitor,744.37
+CPU,304.17
+Keyboard,1873.11
+Power Supply,1825.34
+Smartphone,795.9
+External Hard Drive,1397.2
+Graphics Card,413.85
+Motherboard,2441.0
+Headphones,2470.36
+Game Console,1573.36
+Game Console,2248.82
+Camera,1035.01
+Printer,2428.68
+Keyboard,20.63
+Motherboard,537.34
+Laptop,1657.42
+Monitor,841.18
+Mouse,873.01
+Smartphone,1973.44
+Game Console,573.82
+USB Drive,2116.32
+Printer,2121.16
+Printer,1486.76
+Speaker,1150.14
+External Hard Drive,2373.44
+Case,1231.05
+Camera,479.74
+SSD,915.57
+Printer,1398.92
+Power Supply,809.6
+SSD,1831.05
+Charger,2171.23
+Motherboard,601.65
+Mouse,848.89
+Graphics Card,2431.31
+Printer,1769.83
+Speaker,2385.12
+Monitor,236.19
+Keyboard,418.22
+Keyboard,1921.55
+Tablet,176.72
+Game Console,1702.52
+Headphones,256.37
+Case,1653.72
+Cooling Fan,1765.95
+Motherboard,2398.72
+Router,481.75
+Printer,1039.28
+Case,1598.06
+Case,1745.6
+Graphics Card,2461.88
+Headphones,2095.65
+External Hard Drive,1959.32
+Motherboard,2078.74
+Printer,1945.29
+Printer,332.32
+Speaker,957.21
+Mouse,1730.65
+Headphones,1330.71
+Motherboard,916.06
+Motherboard,2446.02
+Smartphone,1307.48
+Cooling Fan,2038.16
+External Hard Drive,1213.14
+Speaker,1976.52
+USB Drive,1070.13
+Laptop,1811.18
+Microphone,1204.3
+Speaker,1081.12
+Power Supply,829.86
+Case,1908.53
+External Hard Drive,1024.64
+Case,168.29
+Motherboard,553.86
+Game Console,943.33
+Charger,1614.06
+Motherboard,1511.92
+Router,863.75
+Tablet,261.9
+External Hard Drive,1729.63
+Game Console,694.14
+Charger,788.36
+SSD,1878.64
+CPU,1092.23
+SSD,47.69
+USB Drive,297.01
+RAM,793.27
+Cooling Fan,2107.84
+Game Console,982.45
+Microphone,87.74
+Monitor,2424.49
+RAM,82.11
+Router,1687.23
+Motherboard,909.76
+Case,71.33
+Charger,1054.83
+Case,1624.27
+Router,604.62
+Power Supply,1763.44
+USB Drive,56.61
+Speaker,35.9
+Speaker,1523.68
+Mouse,1931.35
+Graphics Card,397.19
+SSD,117.03
+Printer,1936.48
+Laptop,1858.32
+USB Drive,371.19
+Game Console,2366.59
+SSD,334.75
+Charger,535.31
+Tablet,1502.32
+Monitor,1069.42
+Keyboard,2215.0
+Speaker,2376.74
+Speaker,1718.25
+Speaker,2355.7
+External Hard Drive,1333.94
+USB Drive,1933.8
+Graphics Card,2348.93
+CPU,1602.95
+Keyboard,620.51
+Smartwatch,657.93
+Motherboard,181.4
+Game Console,1138.61
+Charger,937.35
+Microphone,104.02
+Printer,461.38
+Speaker,1852.74
+SSD,925.71
+Tablet,192.6
+Charger,1508.3
+Monitor,691.39
+Microphone,1488.19
+Speaker,402.64
+Monitor,1737.42
+Laptop,1239.42
+Cooling Fan,1884.6
+Motherboard,223.61
+Keyboard,2439.82
+Mouse,2413.91
+RAM,610.31
+Monitor,1418.62
+Headphones,1443.1
+Laptop,1387.21
+RAM,648.92
+External Hard Drive,413.08
+Mouse,1816.1
+Printer,1781.92
+Router,1708.65
+Laptop,926.22
+Game Console,382.08
+Game Console,569.99
+RAM,1072.02
+Camera,1317.82
+Charger,458.31
+Smartphone,1023.18
+Camera,1055.77
+Cooling Fan,2035.55
+Speaker,2380.66
+Charger,1213.04
+Motherboard,2111.95
+External Hard Drive,139.09
+Charger,1222.29
+Headphones,1631.2
+CPU,1010.78
+Microphone,2319.63
+Cooling Fan,1321.89
+Monitor,169.81
+Keyboard,1926.63
+Monitor,308.59
+USB Drive,29.62
+Charger,1321.92
+Motherboard,351.73
+External Hard Drive,1016.41
+SSD,2212.41
+RAM,1366.21
+Graphics Card,2495.52
+Keyboard,477.21
+Monitor,455.95
+Smartphone,1917.79
+RAM,507.57
+Camera,340.91
+Game Console,437.9
+Case,1429.15
+Camera,469.59
+Graphics Card,131.56
+RAM,768.23
+Laptop,2144.89
+Mouse,26.11
+Tablet,2346.13
+Tablet,1357.72
+CPU,2216.85
+Monitor,1348.91
+Laptop,148.47
+Smartwatch,183.41
+CPU,586.36
+Cooling Fan,1784.33
+Motherboard,126.28
+SSD,1109.36
+CPU,1337.11
+Laptop,798.34
+Speaker,1760.47
+Laptop,655.36
+CPU,2233.76
+Monitor,1652.39
+External Hard Drive,1722.85
+Charger,173.97
+Game Console,1381.09
+Motherboard,66.37
+Smartwatch,1434.72
+Game Console,652.64
+USB Drive,2030.75
+Laptop,1833.14
+Speaker,2321.99
+Monitor,787.05
+Game Console,1879.68
+USB Drive,110.43
+Graphics Card,1016.4
+Camera,290.18
+Charger,96.95
+Headphones,1332.74
+Mouse,1273.07
+Headphones,1258.35
+Cooling Fan,2249.35
+Laptop,2120.11
+Smartphone,724.42
+Laptop,1188.77
+Printer,190.35
+Graphics Card,412.42
+Smartwatch,2368.25
+Microphone,1173.27
+Smartphone,2189.34
+Power Supply,1560.51
+Microphone,259.44
+Case,2255.17
+Microphone,928.39
+External Hard Drive,161.27
+Microphone,1699.01
+Power Supply,555.86
+Graphics Card,40.08
+Game Console,1778.06
+Camera,844.22
+Camera,2419.23
+Power Supply,2227.52
+Case,423.63
+USB Drive,1851.96
+USB Drive,718.27
+Smartwatch,231.46
+Microphone,209.19
+CPU,929.75
+Cooling Fan,1714.0
+Cooling Fan,2352.91
+USB Drive,1944.19
+Monitor,703.88
+Smartphone,819.21
+Smartphone,1473.93
+Camera,1258.08
+Cooling Fan,916.24
+RAM,596.15
+Case,814.08
+Motherboard,410.13
+Smartwatch,1143.59
+Charger,1398.21
+Printer,701.75
+Cooling Fan,696.26
+Smartwatch,539.77
+RAM,2150.77
+Case,1665.16
+USB Drive,872.42
+SSD,1794.69
+Router,1437.85
+Power Supply,1445.15
+Monitor,380.07
+Mouse,1112.13
+Headphones,1791.2
+Monitor,1239.72
+Smartphone,1450.56
+Router,285.39
+Motherboard,434.05
+Graphics Card,2108.52
+Motherboard,803.22
+Motherboard,413.66
+Monitor,203.61
+Smartphone,2256.28
+Tablet,240.09
+CPU,1523.24
+Keyboard,1056.24
+Router,11.16
+USB Drive,472.6
+RAM,1729.85
+Motherboard,2060.08
+Motherboard,1889.81
+Smartphone,2100.37
+Case,199.49
+Tablet,269.45
+Speaker,1990.64
+Headphones,224.32
+Monitor,1465.97
+Power Supply,2172.47
+Microphone,1024.62
+Router,226.62
+USB Drive,1736.51
+Headphones,1903.24
+Speaker,1282.75
+Smartphone,209.44
+Printer,709.03
+Cooling Fan,2316.16
+Mouse,2070.36
+SSD,2145.56
+External Hard Drive,1588.67
+Mouse,2448.55
+Router,2036.67
+Cooling Fan,338.87
+Case,1071.77
+Speaker,418.6
+Microphone,1410.39
+CPU,2102.01
+Motherboard,2083.01
+Monitor,991.61
+Cooling Fan,1163.04
+Charger,306.55
+Router,1540.54
+Motherboard,627.03
+Cooling Fan,1917.79
+Router,1067.81
+Motherboard,1867.5
+Motherboard,993.98
+Camera,1746.62
+USB Drive,1527.32
+Smartphone,630.43
+Case,308.2
+Smartphone,893.98
+Router,593.98
+Mouse,1196.36
+Graphics Card,338.54
+Laptop,1332.8
+Motherboard,1152.3
+RAM,788.49
+Keyboard,1585.26
+Graphics Card,1113.69
+Cooling Fan,1233.78
+Laptop,1824.35
+Graphics Card,2464.27
+SSD,1234.07
+Camera,2358.11
+Tablet,128.14
+Monitor,474.12
+External Hard Drive,1213.74
+Game Console,1386.47
+Power Supply,2347.23
+Camera,1496.54
+Router,933.52
+Camera,1134.05
+Router,1055.34
+Power Supply,955.16
+External Hard Drive,1706.76
+Router,1755.11
+Speaker,831.35
+USB Drive,272.64
+Smartphone,274.47
+Motherboard,2011.73
+Keyboard,2121.53
+Monitor,2436.67
+Speaker,1758.29
+Cooling Fan,1481.67
+Camera,1493.39
+Case,1211.2
+Graphics Card,1398.71
+Tablet,1050.48
+Printer,904.2
+Motherboard,2432.24
+Tablet,2393.59
+Laptop,2203.23
+Charger,1778.77
+Game Console,997.77
+Charger,1053.98
+Smartphone,1087.87
+Motherboard,380.26
+Headphones,932.74
+Motherboard,2458.61
+Printer,972.29
+Motherboard,947.93
+Keyboard,1767.8
+Charger,264.52
+Printer,23.53
+USB Drive,1571.17
+Power Supply,14.32
+Laptop,1692.0
+Camera,751.93
+Mouse,1629.04
+USB Drive,813.16
+USB Drive,1069.04
+Power Supply,2263.16
+Printer,1721.1
+Router,2110.43
+RAM,811.69
+External Hard Drive,509.61
+USB Drive,315.01
+Case,2220.84
+Tablet,481.21
+Mouse,317.36
+Headphones,1612.35
+Printer,1085.72
+Game Console,2183.0
+External Hard Drive,1401.5
+Headphones,873.33
+External Hard Drive,2084.81
+Smartphone,1788.59
+Printer,1903.94
+Router,2250.47
+Smartwatch,993.21
+SSD,228.69
+Monitor,2278.96
+Mouse,1662.21
+Motherboard,1452.68
+Power Supply,445.43
+CPU,2143.77
+External Hard Drive,1655.32
+Smartphone,558.78
+Speaker,2278.95
+Laptop,2005.45
+Cooling Fan,1934.78
+SSD,189.76
+Smartphone,1057.9
+Motherboard,1309.19
+Charger,1885.43
+Case,263.96
+Microphone,2314.27
+CPU,1761.7
+RAM,1645.96
+Router,2174.39
+Smartphone,722.85
+Cooling Fan,1665.34
+Smartphone,866.47
+RAM,1063.51
+Speaker,1270.3
+Monitor,1757.22
+Laptop,554.99
+Smartwatch,1533.58
+CPU,700.53
+Smartphone,2225.81
+Camera,134.81
+Power Supply,1352.31
+Microphone,1600.31
+Keyboard,1958.72
+Cooling Fan,546.56
+Charger,1793.37
+Motherboard,1136.38
+External Hard Drive,437.86
+SSD,999.32
+Mouse,941.81
+CPU,687.24
+CPU,937.86
+Camera,532.3
+Game Console,594.87
+Cooling Fan,2408.63
+Power Supply,443.88
+Game Console,362.98
+Speaker,740.39
+External Hard Drive,59.1
+Camera,909.52
+Smartphone,1265.93
+Graphics Card,1860.04
+USB Drive,1540.71
+Power Supply,720.13
+Headphones,301.04
+Charger,1338.61
+Smartwatch,1500.79
+Camera,755.11
+RAM,605.98
+Router,2044.18
+RAM,1516.95
+CPU,698.27
+Cooling Fan,358.36
+Mouse,1386.5
+RAM,1381.28
+USB Drive,1225.09
+SSD,2394.89
+Power Supply,1408.17
+Case,1077.07
+SSD,721.26
+Monitor,2238.21
+External Hard Drive,849.04
+Keyboard,504.47
+External Hard Drive,1275.5
+Microphone,50.93
+SSD,950.32
+Camera,2223.47
+Smartphone,1793.98
+Headphones,2210.47
+Mouse,2028.63
+Printer,364.88
+Graphics Card,2311.96
+SSD,639.93
+Keyboard,16.5
+RAM,1378.97
+External Hard Drive,1044.58
+Power Supply,1827.73
+Camera,307.24
+Microphone,122.34
+CPU,1720.41
+USB Drive,522.68
+Mouse,945.54
+RAM,991.99
+Laptop,2305.15
+Camera,237.73
+Monitor,992.98
+CPU,1452.69
+Camera,1424.44
+SSD,1136.98
+Printer,1307.95
+Case,852.66
+Headphones,934.41
+RAM,1834.48
+USB Drive,2474.35
+USB Drive,763.84
+Camera,1803.12
+Keyboard,2451.33
+Headphones,569.94
+External Hard Drive,656.43
+Motherboard,334.91
+Microphone,2284.51
+Motherboard,1727.23
+Camera,276.14
+Tablet,1588.58
+Smartphone,572.82
+Power Supply,1103.48
+Monitor,420.4
+CPU,2002.38
+Microphone,1213.16
+Camera,2307.4
+Smartwatch,212.37
+Router,1436.76
+Smartphone,877.36
+Headphones,2194.59
+Smartwatch,1589.38
+Power Supply,1900.96
+Power Supply,1287.84
+Case,505.44
+Keyboard,2331.34
+Charger,1007.48
+Motherboard,444.96
+RAM,2021.46
+Printer,528.29
+Router,2472.52
+External Hard Drive,275.77
+Motherboard,141.98
+Headphones,252.84
+Microphone,1266.04
+Printer,851.87
+Cooling Fan,1211.58
+Speaker,2364.78
+Game Console,509.91
+RAM,1904.08
+Cooling Fan,1359.89
+Mouse,1990.8
+Charger,1796.99
+Laptop,640.88
+Camera,1010.59
+RAM,722.46
+SSD,578.48
+Cooling Fan,1807.87
+Game Console,2247.01
+Game Console,1244.81
+Power Supply,2439.36
+CPU,1914.1
+Smartwatch,363.11
+Microphone,987.68
+Smartwatch,2222.43
+USB Drive,1080.19
+Game Console,2029.61
+Motherboard,2275.31
+Speaker,759.8
+Power Supply,1660.79
+RAM,1803.79
+SSD,113.76
+Case,1466.13
+Monitor,1040.52
+Graphics Card,153.91
+External Hard Drive,653.38
+CPU,2029.87
+Speaker,486.09
+Speaker,2066.01
+USB Drive,2105.54
+Headphones,993.85
+Camera,2219.09
+Case,1474.22
+Laptop,1307.77
+Smartphone,2475.81
+Case,2482.23
+Mouse,917.5
+Laptop,745.45
+Smartphone,805.19
+Microphone,634.35
+Graphics Card,19.95
+Microphone,1754.98
+Charger,1915.52
+External Hard Drive,1028.56
+Motherboard,643.87
+Router,1499.26
+Game Console,983.56
+CPU,2276.74
+Smartphone,571.94
+Router,500.26
+Laptop,892.33
+Charger,1293.54
+Tablet,798.46
+Motherboard,849.44
+SSD,777.4
+Printer,2370.13
+External Hard Drive,421.76
+Camera,1029.65
+Smartphone,951.22
+Smartphone,2272.97
+Speaker,1285.28
+Charger,1740.99
+Laptop,911.93
+Cooling Fan,202.74
+Laptop,727.12
+Speaker,1103.99
+Speaker,1873.31
+Headphones,472.26
+CPU,2071.54
+Case,2114.5
+Cooling Fan,48.69
+Keyboard,850.39
+Case,2264.13
+SSD,1809.98
+Motherboard,592.65
+CPU,1092.8
+RAM,1793.31
+Charger,1613.07
+Game Console,1667.21
+Tablet,1325.25
+CPU,489.53
+Camera,943.21
+Router,1734.55
+Power Supply,1776.99
+Mouse,1957.61
+Graphics Card,2273.68
+CPU,1354.95
+Camera,973.88
+Smartwatch,405.53
+Speaker,1245.18
+Tablet,1638.38
+Router,2321.68
+CPU,174.28
+Laptop,1610.99
+CPU,833.42
+Smartphone,1912.56
+Keyboard,422.73
+Charger,1880.44
+Laptop,1724.36
+Router,2227.41
+Motherboard,1392.63
+Smartphone,430.22
+Microphone,2019.67
+Keyboard,91.96
+Camera,732.46
+Speaker,430.67
+USB Drive,1986.3
+SSD,181.2
+Smartphone,806.67
+Smartphone,2495.35
+Tablet,547.59
+Speaker,119.1
+Tablet,2156.79
+External Hard Drive,1952.99
+USB Drive,1228.39
+CPU,38.67
+Laptop,2434.79
+Motherboard,1629.89
+Speaker,481.46
+Microphone,2240.64
+External Hard Drive,154.66
+Keyboard,1974.29
+Graphics Card,1076.39
+Smartphone,2116.03
+Keyboard,11.93
+Printer,1539.97
+Graphics Card,604.22
+Motherboard,1839.59
+SSD,1215.99
+Speaker,401.8
+Cooling Fan,242.96
+RAM,1535.61
+Smartwatch,1731.02
+SSD,847.51
+Motherboard,280.75
+Mouse,1958.88
+Motherboard,1312.03
+Keyboard,1644.88
+Microphone,2157.93
+Headphones,204.55
+Monitor,2155.34
+Cooling Fan,37.78
+Smartphone,1715.06
+Microphone,1527.32
+Smartphone,2207.26
+Tablet,1131.19
+Smartwatch,1565.25
+Case,173.12
+Router,561.93
+Tablet,301.93
+Game Console,713.74
+Speaker,770.58
+Printer,870.82
+External Hard Drive,1818.26
+Mouse,1995.69
+Game Console,2031.23
+Camera,546.94
+Microphone,2161.62
+Headphones,10.71
+Case,166.05
+Monitor,738.98
+Power Supply,563.04
+USB Drive,561.98
+RAM,1787.06
+RAM,121.37
+Game Console,1079.21
+Speaker,1507.78
+Monitor,823.33
+CPU,746.54
+CPU,1826.55
+External Hard Drive,642.18
+Charger,1447.86
+SSD,2171.84
+Tablet,1004.37
+Microphone,220.48
+Graphics Card,1541.61
+Microphone,1817.65
+Smartphone,202.69
+Mouse,314.65
+Camera,437.04
+Laptop,1337.88
+Power Supply,1152.25
+Mouse,882.15
+RAM,2291.97
+Power Supply,506.05
+Graphics Card,2396.67
+SSD,2015.68
+Motherboard,2273.34
+Power Supply,2177.75
+Motherboard,655.73
+Motherboard,496.67
+Charger,544.18
+Smartphone,1339.22
+Speaker,2085.84
+Charger,1671.49
+RAM,270.95
+Smartwatch,525.69
+Case,234.26
+Tablet,2135.79
+Graphics Card,1110.85
+RAM,36.72
+RAM,599.36
+Headphones,1422.38
+SSD,268.06
+Speaker,2302.11
+SSD,919.1
+Printer,430.65
+Graphics Card,1908.94
+Game Console,2168.08
+Speaker,2384.67
+Motherboard,1150.49
+Monitor,422.5
+Power Supply,568.72
+Smartphone,584.25
+SSD,257.15
+Mouse,1104.11
+Speaker,32.51
+SSD,443.88
+USB Drive,15.25
+Case,1238.76
+Laptop,1560.85
+Printer,2065.67
+Mouse,1481.37
+Smartphone,1747.95
+Tablet,1916.82
+Tablet,469.0
+CPU,2274.63
+RAM,133.88
+Keyboard,174.15
+Case,1254.13
+Monitor,1079.99
+Smartwatch,1513.78
+RAM,2053.23
+Mouse,242.33
+Mouse,1409.69
+Headphones,664.31
+CPU,2328.77
+Laptop,394.24
+Charger,1290.56
+Headphones,1050.63
+Power Supply,746.26
+Camera,2261.62
+Mouse,1291.92
+SSD,868.03
+Headphones,155.13
+CPU,2417.53
+Mouse,331.44
+Charger,992.4
+Power Supply,700.48
+Power Supply,1081.92
+Camera,1648.67
+Headphones,2242.22
+Speaker,2352.46
+Keyboard,1951.23
+Cooling Fan,493.9
+Tablet,1182.71
+Mouse,2494.45
+Case,908.32
+Router,874.28
+Speaker,1661.06
+Smartphone,461.05
+CPU,2356.5
+External Hard Drive,319.85
+Motherboard,186.6
+Monitor,1399.43
+Mouse,345.23
+Case,1568.58
+External Hard Drive,1621.48
+Headphones,422.07
+Monitor,1351.62
+Smartwatch,1601.51
+Case,81.74
+Tablet,118.82
+Smartphone,2161.64
+Power Supply,540.55
+Graphics Card,2273.82
+Microphone,1131.63
+Cooling Fan,1703.82
+SSD,1259.06
+CPU,819.28
+Motherboard,132.34
+USB Drive,304.66
+Power Supply,2439.3
+Graphics Card,2383.74
+Laptop,2402.96
+Router,1261.16
+Game Console,694.77
+Smartphone,1487.58
+Graphics Card,1017.99
+Speaker,1184.31
+Power Supply,1220.64
+RAM,1855.59
+Speaker,2061.76
+Microphone,556.36
+RAM,2309.33
+CPU,2010.04
+Laptop,2055.34
+Laptop,1978.45
+Microphone,1153.13
+Headphones,902.22
+Smartphone,357.29
+Camera,1344.85
+Microphone,148.02
+Game Console,1466.07
+Monitor,2005.4
+Microphone,621.35
+Cooling Fan,1423.76
+Microphone,186.22
+Smartphone,2404.43
+Cooling Fan,387.73
+Headphones,1681.17
+External Hard Drive,394.73
+Graphics Card,1082.67
+CPU,2335.41
+USB Drive,1720.06
+CPU,1628.02
+Mouse,830.35
+External Hard Drive,1008.96
+SSD,1227.78
+RAM,56.6
+Headphones,2479.0
+Graphics Card,524.32
+Tablet,2179.75
+External Hard Drive,21.28
+SSD,171.37
+USB Drive,1413.68
+Printer,2219.5
+Tablet,2304.95
+Speaker,594.06
+Graphics Card,513.26
+Printer,1025.59
+Tablet,838.01
+Camera,686.18
+RAM,2490.29
+Graphics Card,1067.79
+Mouse,2186.94
+Graphics Card,2078.36
+Smartphone,1320.06
+CPU,1173.47
+Motherboard,343.12
+Speaker,1336.0
+Monitor,2045.29
+Speaker,1663.03
+USB Drive,735.21
+Mouse,11.02
+Smartphone,1842.05
+Camera,1281.57
+USB Drive,1075.72
+USB Drive,1957.71
+USB Drive,1574.55
+CPU,2332.77
+Monitor,241.16
+Laptop,581.15
+USB Drive,764.43
+Keyboard,721.61
+External Hard Drive,330.85
+SSD,221.22
+Monitor,198.04
+Router,123.41
+Headphones,1479.23
+Monitor,2378.6
+Graphics Card,2305.39
+Router,2011.6
+SSD,2454.53
+CPU,949.01
+Router,1821.46
+Cooling Fan,2209.19
+Camera,1941.62
+Game Console,2425.52
+Monitor,376.94
+External Hard Drive,930.48
+CPU,1798.55
+Smartphone,2186.59
+Smartphone,1235.55
+Mouse,272.09
+USB Drive,1639.62
+Game Console,1682.74
+RAM,1384.82
+Microphone,1397.21
+Motherboard,2208.22
+Mouse,2375.51
+Power Supply,1572.9
+RAM,2225.17
+Laptop,1798.76
+Motherboard,1377.43
+Tablet,1380.84
+Case,1839.91
+Case,313.75
+CPU,657.48
+Router,1573.96
+Microphone,2015.08
+Charger,244.56
+Motherboard,2440.04
+Power Supply,1262.09
+Graphics Card,2050.18
+Case,1966.97
+USB Drive,117.53
+Keyboard,2249.95
+Case,1131.21
+SSD,1288.69
+Router,2291.07
+Speaker,1605.44
+Microphone,1710.27
+Charger,1508.72
+Graphics Card,359.91
+Mouse,277.92
+RAM,1384.33
+Router,699.14
+Power Supply,109.9
+Printer,219.76
+USB Drive,2434.71
+Case,1160.3
+Motherboard,291.26
+Motherboard,701.89
+Case,1938.7
+Power Supply,1602.37
+Monitor,133.39
+Monitor,294.43
+External Hard Drive,274.91
+Monitor,1739.02
+Headphones,600.52
+Microphone,347.27
+Tablet,2268.88
+Headphones,629.72
+Graphics Card,1510.54
+CPU,778.31
+Laptop,1846.94
+SSD,2007.28
+RAM,2132.06
+Tablet,1064.01
+Microphone,2291.52
+RAM,212.56
+Tablet,1496.53
+USB Drive,1382.85
+Smartwatch,1404.7
+Keyboard,392.96
+Motherboard,790.98
+CPU,183.2
+Smartphone,2417.02
+Keyboard,2218.06
+Laptop,1727.04
+CPU,39.83
+Camera,917.84
+Speaker,984.3
+Camera,1540.11
+RAM,2077.64
+SSD,180.08
+Mouse,2285.68
+Printer,1986.57
+Cooling Fan,839.65
+Printer,1923.51
+Game Console,338.37
+Router,1922.32
+SSD,156.81
+Smartwatch,2038.82
+Keyboard,50.79
+Case,1171.45
+Mouse,162.95
+CPU,1395.12
+Smartphone,416.95
+Power Supply,1867.7
+Speaker,1222.85
+Laptop,1357.43
+Microphone,379.83
+Tablet,987.57
+Speaker,509.05
+Motherboard,1045.46
+CPU,562.82
+Graphics Card,1344.22
+Keyboard,1080.78
+Printer,668.64
+Tablet,321.3
+External Hard Drive,2138.74
+Microphone,2115.84
+Smartphone,1182.18
+Monitor,1585.14
+Case,637.68
+Printer,1994.25
+Smartwatch,1025.8
+Router,605.78
+RAM,1755.91
+Router,1735.98
+Microphone,2028.95
+Charger,886.83
+Camera,2479.93
+Keyboard,902.94
+Graphics Card,2137.15
+Game Console,276.11
+Motherboard,2345.09
+Monitor,161.06
+Router,661.77
+Monitor,1502.9
+Charger,76.78
+Motherboard,1849.8
+Cooling Fan,720.52
+Printer,1600.26
+Headphones,2369.97
+USB Drive,1067.54
+Keyboard,2104.13
+Router,1807.37
+Charger,2139.14
+Speaker,1575.56
+Power Supply,510.2
+External Hard Drive,2365.58
+Graphics Card,1826.19
+Graphics Card,305.62
+Smartwatch,245.93
+CPU,180.96
+Game Console,987.05
+Headphones,2105.54
+Game Console,2138.3
+CPU,2383.97
+External Hard Drive,1055.33
+Smartphone,318.82
+Laptop,1580.0
+Microphone,516.89
+Tablet,879.05
+Motherboard,1417.11
+SSD,258.7
+RAM,443.45
+Power Supply,1053.66
+Smartphone,2473.74
+Smartwatch,922.2
+CPU,2168.85
+Game Console,2148.75
+Smartwatch,2322.25
+SSD,555.69
+Charger,1220.87
+Mouse,368.35
+Graphics Card,1916.41
+Keyboard,1733.25
+Printer,539.84
+Game Console,1430.12
+Microphone,1799.5
+USB Drive,1148.01
+Smartwatch,1814.67
+Headphones,1240.47
+Speaker,266.15
+Router,216.65
+Laptop,561.8
+Charger,158.62
+Keyboard,1774.91
+Router,1137.53
+SSD,1717.93
+Charger,1260.85
+Keyboard,1792.38
+Router,1829.02
+RAM,609.15
+Motherboard,1336.78
+Power Supply,2001.43
+USB Drive,1075.15
+Laptop,997.92
+Monitor,2400.71
+Keyboard,27.77
+Smartwatch,1164.32
+Laptop,805.57
+Laptop,512.38
+Laptop,1123.76
+SSD,1980.17
+Charger,1987.9
+Power Supply,1313.45
+Headphones,694.57
+Smartphone,349.46
+Smartphone,1350.58
+Monitor,2253.28
+Printer,103.8
+External Hard Drive,2308.23
+Router,1241.68
+Camera,609.83
+USB Drive,1073.32
+Motherboard,1558.93
+Game Console,998.6
+Mouse,335.26
+Graphics Card,922.65
+Camera,1558.5
+Smartphone,201.76
+Power Supply,1522.17
+Tablet,2111.21
+Graphics Card,2234.7
+Motherboard,1285.3
+Microphone,203.67
+Graphics Card,2028.18
+RAM,1533.63
+RAM,2308.32
+Microphone,1061.04
+SSD,1711.18
+RAM,2429.76
+Monitor,2317.63
+Case,38.99
+Graphics Card,1257.19
+Speaker,262.74
+Router,82.24
+USB Drive,386.65
+CPU,616.08
+Tablet,2033.97
+Smartwatch,1930.28
+Tablet,189.03
+External Hard Drive,711.44
+Mouse,375.89
+Graphics Card,2261.13
+CPU,2082.46
+Printer,155.81
+SSD,2249.52
+Mouse,1531.97
+Graphics Card,1015.82
+Smartphone,667.38
+Smartwatch,1555.39
+SSD,1282.19
+Motherboard,542.1
+Charger,1325.1
+Camera,1010.22
+Smartphone,2200.28
+SSD,2031.99
+RAM,739.38
+Graphics Card,1554.09
+Game Console,984.8
+Case,2174.56
+RAM,2092.88
+USB Drive,304.83
+External Hard Drive,786.23
+Smartwatch,263.45
+External Hard Drive,1742.38
+Smartphone,230.51
+CPU,1927.78
+Cooling Fan,173.58
+Headphones,2283.76
+Camera,759.69
+Tablet,1269.86
+Keyboard,1554.53
+Router,2003.64
+Motherboard,693.25
+CPU,719.36
+Smartwatch,1139.16
+Microphone,1634.35
+Power Supply,2387.42
+Router,842.76
+Mouse,944.52
+USB Drive,1942.61
+Graphics Card,587.13
+Game Console,61.1
+USB Drive,1856.51
+Monitor,1764.91
+Case,1022.47
+Graphics Card,2475.39
+RAM,837.8
+USB Drive,251.03
+Monitor,2377.2
+Microphone,322.29
+Cooling Fan,582.34
+Headphones,2000.51
+Smartphone,1022.57
+Laptop,962.82
+Monitor,253.55
+Cooling Fan,1537.7
+Headphones,2083.65
+CPU,973.06
+Power Supply,1222.21
+Printer,2150.07
+Power Supply,624.77
+Headphones,1186.35
+RAM,2385.12
+Keyboard,2477.87
+Cooling Fan,1868.86
+Camera,1136.59
+CPU,2032.5
+Monitor,1951.77
+Keyboard,1526.02
+Router,1217.57
+Smartwatch,1441.31
+Charger,965.24
+Router,1156.56
+Case,2279.69
+Smartphone,1583.73
+Router,2458.66
+Camera,1425.34
+Speaker,1043.88
+Microphone,902.68
+External Hard Drive,511.58
+Tablet,1566.23
+Tablet,1881.7
+Printer,1792.84
+Monitor,1146.48
+Smartwatch,474.0
+Tablet,2325.89
+CPU,881.21
+Cooling Fan,2480.66
+Graphics Card,1680.06
+SSD,923.82
+SSD,2388.3
+Motherboard,94.52
+SSD,1043.04
+Mouse,1516.32
+Tablet,1266.53
+Microphone,212.19
+Printer,993.25
+Graphics Card,1373.1
+Router,527.04
+Speaker,1743.63
+Smartphone,243.76
+Laptop,1108.63
+RAM,890.2
+Keyboard,546.35
+Cooling Fan,310.56
+Keyboard,1103.59
+Tablet,2426.35
+RAM,163.14
+Router,1676.19
+Tablet,1323.76
+Laptop,1028.21
+Printer,1823.53
+Graphics Card,1695.49
+Speaker,2380.85
+Microphone,1768.44
+Graphics Card,863.16
+SSD,1228.45
+Game Console,231.31
+Microphone,27.61
+Case,616.02
+Mouse,1372.02
+CPU,1508.02
+Case,2336.68
+Camera,1006.62
+CPU,2170.21
+Charger,1725.41
+Headphones,1240.41
+Router,47.51
+Smartwatch,1342.9
+SSD,2020.54
+Cooling Fan,2081.01
+Case,2229.83
+Headphones,935.43
+Keyboard,918.83
+SSD,1100.53
+Cooling Fan,2324.68
+Router,723.82
+CPU,1710.78
+Router,201.63
+Microphone,630.66
+Cooling Fan,1893.9
+Cooling Fan,466.42
+SSD,512.39
+Smartphone,2234.14
+Laptop,1646.3
+Camera,791.61
+USB Drive,2117.95
+External Hard Drive,1164.38
+External Hard Drive,1996.3
+Cooling Fan,1964.95
+USB Drive,2234.13
+Printer,1972.9
+Case,1674.98
+Monitor,2344.26
+Keyboard,44.99
+Keyboard,2377.04
+Smartphone,2205.79
+Monitor,2104.95
+Power Supply,2079.36
+Printer,2168.82
+USB Drive,424.04
+Game Console,152.46
+Case,1758.97
+SSD,1671.55
+Laptop,800.6
+Printer,1899.88
+Tablet,255.08
+Cooling Fan,334.38
+Power Supply,2118.14
+Laptop,2349.13
+Tablet,1489.05
+RAM,1596.13
+Speaker,349.77
+Speaker,1981.85
+Printer,54.47
+Charger,202.02
+Laptop,1394.35
+Game Console,1698.28
+USB Drive,1797.92
+Case,626.27
+Charger,1682.78
+Headphones,758.14
+Cooling Fan,1117.85
+Microphone,310.87
+CPU,1731.44
+Speaker,527.52
+Tablet,1894.33
+Monitor,1432.15
+Router,1033.12
+Game Console,73.44
+CPU,125.72
+Speaker,1353.43
+Power Supply,313.43
+SSD,869.59
+Charger,1487.83
+Printer,170.15
+Router,157.45
+SSD,107.69
+Cooling Fan,2059.66
+Mouse,731.19
+Laptop,94.54
+Mouse,2294.63
+Cooling Fan,504.21
+CPU,2124.82
+Power Supply,1529.09
+CPU,1893.45
+Cooling Fan,2090.3
+SSD,1789.55
+CPU,1179.32
+Camera,1769.7
+Motherboard,980.27
+CPU,1849.83
+Case,2493.42
+Monitor,2155.29
+RAM,574.01
+Laptop,2238.01
+USB Drive,117.98
+Mouse,2220.14
+Printer,318.78
+Smartwatch,1482.85
+Smartwatch,232.25
+Smartphone,1781.22
+Printer,708.59
+Case,1858.93
+Printer,1477.44
+USB Drive,853.88
+CPU,729.75
+Camera,701.68
+Game Console,260.1
+Tablet,122.99
+Motherboard,2345.35
+RAM,1284.64
+RAM,636.31
+Keyboard,1582.64
+Power Supply,1455.29
+Laptop,1714.08
+Motherboard,713.68
+Tablet,1867.24
+Motherboard,1380.83
+Mouse,1308.24
+External Hard Drive,1697.01
+Speaker,1542.62
+Smartphone,1818.21
+Microphone,1519.01
+Game Console,1956.43
+Speaker,54.4
+Microphone,1387.71
+Microphone,1001.74
+USB Drive,1390.6
+Keyboard,197.71
+Keyboard,2079.06
+Smartwatch,2229.87
+Power Supply,1496.69
+Charger,292.46
+USB Drive,1554.8
+Headphones,2216.98
+Microphone,1233.55
+Printer,206.59
+Keyboard,2064.61
+Monitor,376.05
+Charger,1251.2
+Router,1019.07
+Laptop,1432.67
+Laptop,2239.27
+Game Console,617.59
+RAM,306.05
+Mouse,2123.77
+Headphones,742.13
+Smartphone,461.63
+Case,1587.93
+Microphone,1326.98
+Keyboard,2297.37
+Charger,858.87
+Graphics Card,965.57
+Smartwatch,2302.93
+Printer,595.76
+SSD,1815.46
+Monitor,2183.55
+Mouse,606.43
+Microphone,1190.14
+Graphics Card,2008.69
+Case,1926.79
+Game Console,218.63
+Monitor,783.57
+Tablet,854.03
+Keyboard,134.92
+Tablet,1040.72
+CPU,1382.02
+Charger,2247.98
+Printer,2146.56
+Router,564.4
+Monitor,2074.08
+Power Supply,937.02
+Game Console,89.84
+SSD,405.15
+Headphones,2380.07
+Mouse,826.29
+Camera,1199.65
+Mouse,2390.42
+Camera,627.5
+Smartphone,1214.82
+Charger,2360.74
+Camera,1508.46
+Printer,1078.74
+Smartwatch,2102.56
+Camera,931.4
+Headphones,1034.38
+Router,1833.18
+Printer,2118.14
+Mouse,1144.78
+Laptop,1225.51
+External Hard Drive,608.48
+RAM,1877.59
+Printer,1594.2
+Power Supply,1887.07
+Router,2006.45
+Mouse,424.31
+Keyboard,834.64
+Laptop,87.28
+Microphone,483.52
+Motherboard,1676.61
+Monitor,883.67
+Printer,1042.43
+Mouse,301.5
+Case,75.57
+Graphics Card,884.08
+USB Drive,744.01
+Mouse,1102.89
+Case,1397.32
+Cooling Fan,1503.75
+SSD,672.64
+USB Drive,823.61
+Case,1264.61
+Camera,1402.02
+Motherboard,2451.01
+Camera,1741.82
+Smartwatch,2122.94
+Keyboard,655.85
+SSD,2466.99
+Router,268.26
+Keyboard,168.14
+Tablet,1556.37
+Smartwatch,400.53
+Cooling Fan,1294.83
+Printer,1943.7
+Game Console,1530.46
+Tablet,400.1
+Smartwatch,1015.24
+Keyboard,1074.98
+Keyboard,1802.7
+SSD,444.86
+Smartwatch,1578.3
+Case,1490.15
+Mouse,684.56
+Mouse,785.4
+CPU,921.87
+Tablet,2052.79
+Laptop,1808.78
+Mouse,1394.79
+Game Console,1606.59
+Case,1310.11
+Case,1181.89
+Graphics Card,2159.89
+SSD,1642.07
+Charger,1750.83
+RAM,198.29
+Router,1872.71
+Speaker,1209.45
+Monitor,339.58
+Motherboard,783.78
+Router,38.63
+Monitor,1034.41
+Game Console,662.27
+Power Supply,40.72
+Smartphone,1169.9
+Mouse,849.72
+CPU,1674.33
+Speaker,1644.24
+Motherboard,174.5
+Speaker,1485.65
+Printer,1915.89
+SSD,831.39
+Case,1706.46
+Laptop,1653.88
+Monitor,1323.91
+Cooling Fan,1710.97
+Charger,1174.19
+Keyboard,1159.72
+Laptop,2238.55
+Motherboard,1055.42
+Tablet,1961.78
+Cooling Fan,61.54
+Game Console,78.2
+Keyboard,548.61
+Mouse,89.35
+Laptop,1899.56
+Cooling Fan,1527.35
+Monitor,521.73
+Graphics Card,1822.56
+Case,2308.5
+Laptop,782.47
+Monitor,332.66
+SSD,2364.37
+RAM,171.49
+Charger,1226.8
+Keyboard,1763.48
+Graphics Card,1977.57
+Power Supply,460.13
+Case,843.96
+RAM,394.33
+External Hard Drive,493.91
+RAM,1264.66
+External Hard Drive,1609.27
+SSD,1049.71
+Charger,947.67
+Router,1158.58
+Tablet,2377.24
+Charger,1557.6
+USB Drive,1341.49
+Printer,2034.49
+Router,575.77
+Keyboard,1146.96
+USB Drive,634.19
+RAM,2006.12
+Motherboard,2476.9
+Motherboard,1215.77
+RAM,2040.97
+Keyboard,2086.65
+Printer,1020.04
+USB Drive,262.95
+Headphones,1218.08
+Power Supply,2000.84
+Monitor,785.46
+Router,861.69
+Power Supply,1009.1
+Charger,627.73
+Graphics Card,2336.12
+RAM,2034.18
+Router,191.24
+Keyboard,2328.91
+Keyboard,2170.71
+CPU,252.61
+Smartphone,952.62
+CPU,1382.17
+Laptop,1704.25
+Laptop,265.48
+Microphone,958.09
+Printer,243.95
+Power Supply,2476.79
+Tablet,1518.47
+Router,520.91
+Smartwatch,1143.11
+Printer,2263.73
+Monitor,735.73
+USB Drive,949.22
+Speaker,1170.89
+Cooling Fan,1297.51
+RAM,734.69
+Charger,1641.18
+Monitor,1527.32
+RAM,524.41
+Game Console,88.35
+Printer,189.91
+CPU,2200.86
+Keyboard,2476.63
+RAM,12.07
+CPU,1258.6
+Monitor,928.03
+USB Drive,408.59
+External Hard Drive,1595.41
+Router,1781.26
+Camera,2407.27
+USB Drive,685.62
+Printer,2112.16
+Camera,386.05
+USB Drive,899.99
+Speaker,2154.86
+Case,1137.53
+Power Supply,2310.78
+Camera,2108.09
+USB Drive,1094.7
+Printer,1962.03
+Tablet,1989.5
+RAM,166.02
+Tablet,887.28
+Case,699.25
+Cooling Fan,1003.57
+Case,505.44
+Monitor,532.8
+Printer,51.85
+Headphones,1795.74
+Graphics Card,146.03
+Charger,2292.88
+Keyboard,370.38
+USB Drive,579.57
+SSD,1235.45
+Monitor,171.27
+Microphone,1872.8
+Smartphone,1287.83
+Smartphone,482.56
+External Hard Drive,244.85
+SSD,1572.1
+Case,1697.95
+CPU,196.12
+Mouse,1552.33
+Camera,740.92
+SSD,1104.63
+RAM,833.95
+Laptop,2189.1
+Graphics Card,2192.29
+USB Drive,467.08
+Speaker,1208.92
+External Hard Drive,2388.52
+Power Supply,2341.59
+Mouse,77.75
+Cooling Fan,2430.8
+Motherboard,1483.93
+Smartphone,405.14
+Charger,728.51
+Smartwatch,600.3
+RAM,1886.29
+Graphics Card,591.2
+Game Console,203.21
+Case,225.21
+Monitor,2237.22
+Smartwatch,747.59
+Mouse,454.33
+CPU,827.79
+Game Console,2296.25
+Keyboard,412.7
+Monitor,1372.01
+External Hard Drive,518.25
+Power Supply,2200.81
+Speaker,150.23
+Cooling Fan,518.21
+Power Supply,286.57
+Tablet,2101.83
+Printer,1765.24
+External Hard Drive,2439.25
+Printer,860.7
+Game Console,269.61
+Power Supply,512.83
+Headphones,1084.28
+Router,154.35
+External Hard Drive,834.35
+Case,2443.69
+Router,468.37
+External Hard Drive,1977.95
+Charger,2101.57
+Keyboard,2440.93
+Router,1625.23
+RAM,2191.04
+USB Drive,1315.32
+Power Supply,699.28
+Router,157.05
+Speaker,854.43
+Keyboard,1651.19
+CPU,1074.27
+Case,1468.55
+Smartphone,1353.58
+Keyboard,446.48
+Router,499.96
+Motherboard,2443.26
+Microphone,254.78
+Smartphone,1730.46
+Speaker,1585.23
+USB Drive,367.57
+Tablet,1387.0
+Motherboard,971.95
+RAM,461.42
+Keyboard,1514.59
+Case,504.02
+Tablet,810.52
+RAM,2129.91
+Headphones,403.84
+Graphics Card,309.9
+Cooling Fan,279.99
+Cooling Fan,1089.13
+Game Console,2105.9
+Microphone,1248.04
+RAM,785.75
+Speaker,2185.97
+Power Supply,2426.12
+Power Supply,1207.48
+Speaker,2015.78
+Motherboard,2011.21
+Power Supply,2235.77
+Keyboard,1283.01
+SSD,188.14
+Case,1942.6
+Motherboard,791.76
+Power Supply,2020.61
+SSD,360.95
+SSD,1491.09
+External Hard Drive,1942.32
+Laptop,843.72
+Camera,240.97
+Camera,1888.88
+Game Console,1623.12
+Smartphone,1791.7
+Printer,1390.37
+CPU,978.02
+Camera,1646.18
+Mouse,1492.16
+Motherboard,1821.92
+Charger,705.32
+Motherboard,848.72
+Power Supply,1300.41
+Printer,803.28
+Smartphone,1589.93
+Router,2351.53
+Router,1662.39
+Case,1199.85
+Microphone,1516.09
+Monitor,1413.44
+Power Supply,1184.15
+Power Supply,29.93
+Power Supply,1657.6
+Mouse,1323.62
+Game Console,103.7
+Monitor,1541.21
+Keyboard,377.39
+Mouse,1876.79
+Power Supply,1324.44
+Router,1472.04
+Smartphone,1282.77
+Power Supply,693.01
+Keyboard,420.12
+Charger,50.74
+Microphone,1086.42
+Cooling Fan,1854.2
+Speaker,410.0
+Speaker,1610.54
+Cooling Fan,733.59
+Printer,2215.77
+Microphone,1226.43
+Case,2234.8
+Keyboard,51.09
+Graphics Card,1331.2
+Speaker,1216.79
+Headphones,405.83
+Mouse,2072.6
+Microphone,1579.26
+External Hard Drive,599.54
+SSD,1522.8
+Cooling Fan,1026.84
+Smartwatch,1677.37
+Laptop,1646.81
+CPU,2135.59
+Monitor,408.72
+Microphone,1083.18
+Charger,2063.57
+RAM,258.28
+Smartphone,66.55
+Game Console,2466.88
+External Hard Drive,2181.7
+CPU,1679.89
+SSD,2077.4
+Case,2049.45
+Game Console,1671.36
+Mouse,322.1
+Power Supply,1193.63
+Camera,1565.86
+CPU,1923.11
+Microphone,2081.45
+Keyboard,1845.38
+Printer,1103.93
+SSD,1561.84
+Graphics Card,1727.27
+CPU,257.39
+Game Console,808.58
+Laptop,402.98
+Speaker,439.14
+USB Drive,1369.4
+RAM,884.5
+Printer,1938.24
+Case,1436.75
+SSD,319.99
+Speaker,723.24
+Camera,1275.29
+Game Console,1210.26
+Cooling Fan,1582.4
+Smartphone,17.82
+Keyboard,463.13
+Graphics Card,2191.16
+SSD,1341.52
+Laptop,1202.0
+Printer,306.93
+Graphics Card,1907.67
+Tablet,80.26
+Monitor,2114.39
+Smartphone,17.28
+SSD,890.35
+Router,821.26
+Game Console,118.75
+Tablet,802.1
+Cooling Fan,1156.85
+USB Drive,1896.18
+Microphone,1984.84
+Router,2117.34
+Smartphone,2096.45
+Printer,1082.48
+Graphics Card,1102.67
+Router,1186.79
+USB Drive,2155.07
+Graphics Card,2141.5
+Microphone,80.1
+Router,1765.75
+Mouse,671.05
+Charger,2118.84
+Motherboard,1881.97
+Keyboard,1874.08
+CPU,550.36
+Charger,2209.24
+Case,1861.12
+Keyboard,2442.43
+Microphone,1802.08
+Router,1335.26
+Power Supply,1122.96
+SSD,747.46
+Case,1096.8
+Case,2062.99
+Keyboard,1423.95
+Monitor,1857.02
+Printer,324.05
+Charger,2119.38
+Keyboard,587.89
+Smartphone,2463.12
+Router,142.44
+Camera,1206.42
+Monitor,376.66
+Router,229.02
+CPU,1044.56
+External Hard Drive,1038.03
+Smartphone,1305.78
+Printer,119.63
+Tablet,1335.13
+Mouse,1289.62
+SSD,93.67
+Speaker,1872.06
+Case,635.99
+Printer,80.52
+RAM,589.88
+External Hard Drive,2307.7
+SSD,1134.1
+Microphone,141.89
+Case,1045.69
+Smartphone,94.23
+Smartwatch,2125.31
+Power Supply,2109.65
+Case,1533.72
+Router,2423.78
+Monitor,1382.41
+RAM,2141.27
+Mouse,1182.84
+Smartphone,1100.05
+Graphics Card,430.45
+Router,142.5
+Power Supply,918.06
+Power Supply,1457.63
+Game Console,1617.21
+Keyboard,527.04
+Cooling Fan,1337.24
+USB Drive,1599.18
+Headphones,1434.13
+Mouse,621.98
+Speaker,1755.74
+Keyboard,1208.45
+External Hard Drive,643.25
+Tablet,917.67
+Case,1165.82
+CPU,1444.69
+Game Console,1854.03
+Tablet,599.12
+Motherboard,984.23
+Printer,1192.14
+Laptop,1195.7
+USB Drive,997.31
+RAM,715.82
+Power Supply,2201.95
+Router,146.64
+Microphone,1633.85
+Monitor,2089.32
+Charger,2430.65
+Case,2143.16
+Graphics Card,994.9
+Mouse,373.49
+Case,1415.83
+Smartphone,1471.22
+Keyboard,886.77
+Mouse,450.83
+Motherboard,951.66
+RAM,794.73
+Smartphone,1539.83
+Mouse,588.11
+Monitor,502.72
+Monitor,1101.69
+Game Console,1759.46
+Laptop,91.18
+Mouse,567.2
+USB Drive,2457.05
+Case,136.93
+Motherboard,1492.31
+Charger,1612.21
+SSD,1347.72
+Tablet,1792.21
+Graphics Card,1617.57
+SSD,1614.18
+Game Console,1628.8
+Cooling Fan,1585.57
+Speaker,424.45
+Keyboard,1511.64
+Mouse,1632.99
+Smartphone,770.85
+Smartphone,1151.51
+Case,1585.17
+Power Supply,2043.75
+Smartphone,1797.5
+SSD,645.51
+Cooling Fan,1054.66
+Smartphone,1852.92
+Smartwatch,1408.29
+Game Console,2139.12
+Smartphone,1205.62
+Motherboard,2359.44
+Keyboard,1502.13
+Case,1094.35
+RAM,405.57
+Motherboard,1847.62
+Microphone,716.71
+Case,206.8
+Camera,1242.02
+Keyboard,1943.84
+Charger,220.89
+Case,1182.51
+Graphics Card,2358.81
+Tablet,1691.96
+RAM,1698.31
+Laptop,1991.21
+Graphics Card,1460.96
+Game Console,2487.4
+Case,306.69
+CPU,714.45
+CPU,841.3
+Monitor,2309.23
+Speaker,1667.48
+Router,627.17
+Router,2376.05
+Power Supply,984.64
+Smartphone,224.63
+RAM,601.36
+External Hard Drive,524.11
+External Hard Drive,673.71
+CPU,2124.42
+Monitor,1683.48
+Keyboard,727.79
+Power Supply,1227.87
+Motherboard,985.71
+CPU,604.34
+SSD,323.52
+Camera,1462.13
+Case,623.33
+Mouse,2242.57
+Power Supply,1729.25
+Power Supply,1023.77
+Headphones,1079.11
+Smartphone,636.24
+Tablet,2236.85
+Tablet,313.17
+Cooling Fan,1207.52
+Cooling Fan,2402.76
+RAM,2211.82
+CPU,2043.31
+Printer,2273.93
+Tablet,1724.3
+Motherboard,2451.02
+Keyboard,643.81
+SSD,1014.51
+Monitor,847.74
+Cooling Fan,1657.34
+Keyboard,1635.32
+RAM,1256.38
+Router,1530.73
+Case,2342.01
+Power Supply,2177.62
+Smartphone,900.25
+Keyboard,1932.88
+Charger,2277.85
+Tablet,1023.98
+Router,987.39
+Router,1483.55
+Camera,2193.62
+Router,688.91
+USB Drive,1828.83
+Camera,1789.27
+Case,1975.03
+Smartphone,166.05
+Smartphone,1327.13
+Game Console,266.74
+Microphone,710.05
+RAM,1310.15
+Case,2177.43
+Motherboard,1214.52
+Tablet,2082.04
+Smartphone,484.0
+Monitor,673.48
+Charger,416.06
+Tablet,1081.0
+Charger,1398.72
+Smartwatch,540.03
+Monitor,1135.97
+Charger,1094.25
+Case,371.39
+Keyboard,2481.05
+Cooling Fan,459.99
+CPU,1840.83
+RAM,1584.67
+Tablet,704.99
+Camera,345.95
+Keyboard,1317.56
+Monitor,221.83
+Monitor,481.97
+Camera,1290.91
+Tablet,1067.62
+Motherboard,2482.84
+RAM,1478.57
+Headphones,443.78
+CPU,802.18
+Game Console,1514.61
+Smartphone,686.77
+Game Console,2025.68
+Laptop,1819.26
+Monitor,1689.7
+Game Console,2328.38
+Printer,1425.22
+SSD,1117.33
+Printer,2172.65
+CPU,978.75
+SSD,1609.39
+RAM,1207.23
+Cooling Fan,796.4
+Charger,1979.31
+Router,608.67
+Cooling Fan,1378.04
+Charger,442.09
+Smartwatch,799.83
+Headphones,1286.12
+Camera,820.62
+Tablet,1527.64
+Graphics Card,1164.91
+Power Supply,2460.56
+Cooling Fan,1363.33
+CPU,2493.46
+Tablet,2166.11
+Graphics Card,1483.2
+Camera,2356.74
+Smartphone,443.89
+Motherboard,1460.24
+RAM,1168.05
+Headphones,1497.58
+Cooling Fan,1628.98
+CPU,610.82
+Motherboard,1684.14
+Game Console,2395.69
+Cooling Fan,1155.12
+Cooling Fan,715.99
+Motherboard,1548.65
+Router,2354.23
+Monitor,1265.0
+Speaker,664.7
+Router,1317.53
+Microphone,2329.61
+Game Console,1253.48
+Charger,331.54
+Headphones,2386.89
+Microphone,702.45
+Microphone,2225.42
+RAM,27.12
+RAM,1214.67
+Smartphone,612.68
+Monitor,42.92
+Case,2166.86
+Speaker,796.05
+Printer,288.54
+Motherboard,2028.06
+Mouse,1708.92
+RAM,394.23
+Game Console,2459.11
+SSD,107.58
+Smartphone,1640.34
+Headphones,1454.02
+Case,868.26
+Mouse,433.48
+Power Supply,2327.52
+Smartphone,661.19
+Laptop,1965.94
+Cooling Fan,2190.99
+SSD,119.24
+Speaker,1372.22
+Microphone,17.16
+Camera,2459.61
+Printer,553.08
+Laptop,1707.89
+Monitor,1564.76
+Charger,468.02
+Case,1584.21
+SSD,1671.68
+Speaker,2282.55
+Graphics Card,645.07
+Camera,1448.37
+Smartphone,2240.47
+Keyboard,1673.48
+Tablet,1426.34
+RAM,2408.48
+Laptop,164.19
+Power Supply,111.66
+Monitor,1480.91
+Mouse,356.61
+Router,688.48
+Speaker,116.35
+Tablet,1054.55
+Case,362.45
+Laptop,2090.79
+SSD,539.73
+Speaker,2104.89
+Router,607.8
+Headphones,551.28
+CPU,347.64
+CPU,1114.82
+Keyboard,1018.79
+Printer,2045.63
+RAM,1114.44
+Headphones,293.71
+SSD,2127.93
+Game Console,658.15
+Keyboard,967.01
+SSD,1313.2
+Laptop,702.13
+Graphics Card,514.42
+USB Drive,2064.12
+Router,1419.8
+Keyboard,1936.95
+Monitor,428.35
+Microphone,1399.3
+Cooling Fan,1318.44
+RAM,109.09
+Cooling Fan,2306.41
+Headphones,1796.49
+CPU,1728.3
+Tablet,2081.24
+External Hard Drive,1619.07
+External Hard Drive,1453.49
+Laptop,1850.22
+USB Drive,1823.78
+Motherboard,512.17
+USB Drive,1923.82
+Power Supply,1327.22
+SSD,2017.66
+USB Drive,148.19
+Router,838.21
+Keyboard,760.44
+Cooling Fan,203.75
+Mouse,1501.54
+RAM,1304.58
+RAM,1675.39
+External Hard Drive,446.56
+Game Console,1432.22
+CPU,1457.03
+Mouse,1936.71
+Headphones,545.99
+Headphones,1640.24
+Cooling Fan,245.33
+Charger,211.13
+Tablet,1900.96
+Motherboard,1011.43
+RAM,70.1
+Mouse,770.78
+Monitor,987.05
+Smartphone,1682.11
+Game Console,591.28
+CPU,188.77
+Mouse,1732.37
+RAM,1331.13
+CPU,2042.24
+Motherboard,241.59
+Headphones,2069.02
+External Hard Drive,354.61
+Headphones,1507.23
+Printer,1747.94
+Graphics Card,1246.01
+Microphone,2336.57
+Camera,756.85
+Case,1371.2
+Graphics Card,1639.43
+CPU,172.92
+Cooling Fan,326.1
+External Hard Drive,285.13
+Graphics Card,1250.12
+Smartwatch,235.33
+Game Console,170.87
+Laptop,230.62
+Graphics Card,1141.03
+Printer,720.88
+Microphone,2040.63
+Router,963.95
+Smartphone,1140.1
+Monitor,301.15
+Smartphone,183.1
+Keyboard,1636.64
+Mouse,1142.35
+SSD,876.87
+Speaker,776.85
+Speaker,798.53
+Printer,696.11
+Monitor,766.77
+Game Console,1241.41
+Game Console,2296.27
+Laptop,1205.38
+Cooling Fan,1938.32
+Power Supply,234.74
+CPU,291.53
+Cooling Fan,903.12
+USB Drive,2228.34
+Microphone,249.04
+Microphone,1776.97
+Motherboard,2381.98
+Speaker,1447.57
+Router,775.43
+Game Console,1927.43
+Tablet,901.55
+Case,2082.67
+Motherboard,2361.87
+Router,2423.3
+Printer,2203.11
+Printer,1386.48
+Printer,1149.82
+Speaker,2028.3
+Monitor,1242.36
+Printer,311.72
+Camera,2378.25
+Speaker,1370.62
+Charger,2109.46
+USB Drive,1947.79
+Graphics Card,1834.95
+Camera,1965.35
+Charger,835.13
+Monitor,726.02
+Smartwatch,2079.42
+SSD,365.14
+RAM,672.21
+Tablet,2477.54
+Laptop,1841.49
+USB Drive,1415.35
+Tablet,1511.89
+Keyboard,861.37
+Keyboard,1406.18
+Motherboard,2345.07
+Printer,677.6
+Laptop,1477.59
+Microphone,744.22
+USB Drive,1941.1
+Monitor,1621.96
+USB Drive,1971.93
+Microphone,1530.12
+External Hard Drive,1333.5
+USB Drive,875.91
+Headphones,1710.53
+Cooling Fan,197.42
+Router,219.12
+Monitor,2071.44
+Router,1821.89
+Printer,1362.38
+Smartwatch,1556.91
+Smartphone,2219.11
+Router,574.87
+Case,1100.83
+External Hard Drive,981.47
+Case,1820.9
+USB Drive,661.47
+Speaker,99.92
+Case,1874.42
+Monitor,658.1
+Headphones,245.72
+Motherboard,325.61
+Router,609.88
+CPU,1228.47
+Monitor,1135.57
+Printer,895.89
+Camera,2333.54
+Laptop,836.5
+CPU,1959.07
+Router,1025.49
+Game Console,643.3
+Router,1202.6
+Monitor,948.83
+Monitor,228.07
+Smartphone,934.4
+External Hard Drive,2158.49
+Speaker,499.42
+Smartwatch,1200.46
+Microphone,677.99
+Graphics Card,1310.77
+Charger,1297.27
+Keyboard,862.05
+Printer,2411.13
+Monitor,1439.42
+USB Drive,2456.78
+Headphones,1403.19
+Microphone,1137.18
+Charger,2244.55
+Graphics Card,2279.47
+Game Console,1016.46
+Power Supply,268.86
+Headphones,977.76
+Power Supply,397.87
+Camera,109.01
+USB Drive,1744.84
+Cooling Fan,364.68
+Graphics Card,1315.96
+Router,2488.29
+Microphone,1005.97
+SSD,1098.55
+Charger,1922.03
+Monitor,1259.33
+Graphics Card,161.17
+Laptop,2386.21
+Motherboard,1807.7
+Monitor,197.79
+Case,1511.72
+Smartwatch,223.77
+Laptop,2061.03
+CPU,994.82
+Router,962.42
+Power Supply,1049.99
+RAM,1754.15
+Cooling Fan,1156.45
+RAM,779.83
+Monitor,1526.9
+SSD,1029.1
+SSD,441.84
+Laptop,2399.15
+SSD,2437.61
+Camera,312.5
+Motherboard,2388.93
+Smartphone,1698.22
+Keyboard,166.66
+Motherboard,1966.5
+Cooling Fan,779.95
+Game Console,719.59
+Keyboard,2222.42
+Microphone,347.62
+Keyboard,790.42
+Graphics Card,224.39
+USB Drive,622.3
+Headphones,2141.07
+Headphones,321.54
+Graphics Card,1929.18
+USB Drive,295.34
+Speaker,315.67
+Charger,933.83
+SSD,394.65
+USB Drive,1715.47
+Cooling Fan,357.84
+SSD,1096.81
+Case,1379.06
+Smartphone,2015.09
+Monitor,715.81
+Router,1824.58
+Headphones,43.52
+Motherboard,1252.36
+Tablet,784.4
+Smartwatch,1498.5
+Charger,1803.46
+Case,614.03
+SSD,2337.06
+Smartphone,1556.05
+Router,125.95
+Headphones,2328.8
+Laptop,1086.58
+Power Supply,523.31
+Tablet,1114.1
+Microphone,1272.26
+Headphones,241.49
+SSD,447.54
+Laptop,1578.27
+Headphones,1438.55
+External Hard Drive,1551.29
+Speaker,886.65
+Keyboard,2291.96
+Smartwatch,310.16
+Charger,1666.7
+Speaker,343.27
+Router,1628.52
+CPU,2320.84
+Keyboard,643.88
+Game Console,1395.81
+Game Console,1571.86
+Mouse,1319.45
+Keyboard,1548.98
+Laptop,1200.18
+Smartphone,1575.96
+Keyboard,1695.97
+Motherboard,360.91
+External Hard Drive,1770.15
+Tablet,2361.06
+SSD,210.23
+Printer,911.21
+Printer,2082.54
+Printer,1348.83
+Power Supply,1435.99
+Router,1551.36
+External Hard Drive,615.81
+Keyboard,101.39
+SSD,2146.5
+Router,133.87
+SSD,1320.55
+Headphones,373.03
+Graphics Card,20.45
+CPU,314.33
+Power Supply,2247.62
+Keyboard,2119.58
+Microphone,1930.77
+Tablet,408.78
+Camera,2201.68
+Monitor,803.66
+Speaker,1916.8
+Laptop,2450.34
+Headphones,2098.24
+Mouse,2263.07
+Motherboard,267.66
+Router,1514.6
+Graphics Card,2369.12
+Camera,2190.43
+Monitor,1934.43
+Monitor,1362.62
+Smartwatch,681.09
+RAM,2105.76
+Printer,1213.83
+CPU,1446.64
+Printer,783.74
+Power Supply,1233.56
+Keyboard,1205.69
+RAM,757.21
+Headphones,1172.73
+Keyboard,776.79
+Camera,1248.36
+Graphics Card,2247.71
+External Hard Drive,1592.57
+Printer,877.38
+Printer,1101.2
+CPU,259.01
+Microphone,1312.86
+Router,189.99
+RAM,180.93
+Keyboard,1452.37
+Microphone,2392.51
+Mouse,1303.83
+Router,787.54
+Game Console,1086.05
+Case,561.84
+Case,315.32
+Cooling Fan,2228.01
+USB Drive,106.93
+Monitor,270.11
+Power Supply,1228.42
+Router,2136.43
+CPU,2387.29
+Motherboard,963.91
+Mouse,55.63
+Tablet,1287.19
+Monitor,1529.91
+Power Supply,1737.95
+Microphone,690.78
+Headphones,1418.06
+Printer,104.11
+USB Drive,599.01
+Smartwatch,915.65
+Speaker,120.13
+Case,1350.14
+Charger,1373.38
+Camera,1854.25
+Smartwatch,1524.11
+Smartphone,1472.16
+Router,2315.76
+Case,592.77
+Microphone,1862.53
+RAM,310.85
+Speaker,439.02
+Graphics Card,568.38
+RAM,2251.15
+Power Supply,1772.5
+Charger,446.09
+Motherboard,1357.24
+Monitor,2477.87
+RAM,2281.76
+Motherboard,1368.81
+Cooling Fan,628.39
+Headphones,927.96
+Power Supply,757.44
+Laptop,762.45
+Power Supply,145.3
+Keyboard,1954.76
+Smartphone,1551.44
+Cooling Fan,2046.35
+Game Console,1033.83
+Charger,2371.67
+Laptop,1793.29
+SSD,1675.79
+SSD,1265.05
+External Hard Drive,1503.55
+Smartphone,1848.26
+Headphones,188.64
+USB Drive,804.23
+Graphics Card,1881.38
+Smartwatch,1360.95
+Smartphone,839.55
+Monitor,1149.9
+SSD,831.54
+Router,757.97
+USB Drive,525.75
+Router,216.89
+Case,1282.99
+Power Supply,196.5
+Monitor,1283.6
+Monitor,2039.3
+Printer,1104.0
+Printer,2152.63
+Mouse,559.37
+Motherboard,2075.94
+Power Supply,894.96
+Microphone,619.93
+Game Console,1510.96
+Printer,1827.0
+USB Drive,309.53
+Router,1382.54
+External Hard Drive,237.37
+Case,775.32
+Game Console,1811.21
+Printer,2442.8
+Router,153.77
+Monitor,948.87
+Router,1529.05
+Camera,2421.79
+Mouse,1937.41
+Router,403.02
+RAM,755.37
+Router,1050.71
+Case,2357.43
+Smartwatch,2304.65
+Tablet,2156.01
+External Hard Drive,1570.78
+USB Drive,2458.97
+USB Drive,534.81
+External Hard Drive,886.55
+Router,843.45
+External Hard Drive,790.85
+Camera,1897.34
+Keyboard,2397.14
+Game Console,1465.67
+Smartphone,991.94
+CPU,224.24
+Microphone,1552.83
+Smartphone,1253.42
+Camera,1259.42
+Graphics Card,1154.51
+Tablet,1567.11
+Laptop,2407.11
+Smartphone,2229.26
+Monitor,2410.18
+External Hard Drive,1318.74
+Smartwatch,2182.36
+Monitor,562.6
+External Hard Drive,536.82
+SSD,354.3
+Speaker,2330.4
+Tablet,1688.51
+Camera,1851.33
+Camera,1822.46
+Speaker,2104.23
+Printer,1883.9
+Printer,903.13
+Mouse,774.09
+Game Console,1632.8
+Game Console,629.3
+Keyboard,2034.79
+USB Drive,2128.57
+Graphics Card,1857.49
+CPU,267.56
+Mouse,838.66
+Charger,1225.87
+Charger,1811.74
+Headphones,449.73
+USB Drive,1798.54
+SSD,1328.68
+RAM,1983.02
+Monitor,1855.79
+External Hard Drive,1083.14
+Printer,821.25
+Monitor,1181.34
+Case,2440.86
+Headphones,2164.7
+Motherboard,186.11
+Graphics Card,210.94
+USB Drive,1122.34
+Case,1223.06
+USB Drive,2095.18
+Laptop,681.27
+SSD,518.92
+Smartwatch,590.8
+Microphone,1315.77
+Smartphone,931.16
+CPU,217.61
+Tablet,1872.11
+Laptop,605.55
+Motherboard,467.32
+Motherboard,763.74
+Charger,1260.72
+Printer,1705.84
+Keyboard,88.39
+Monitor,1930.98
+Cooling Fan,132.41
+Motherboard,1957.79
+Motherboard,632.62
+Mouse,1256.08
+External Hard Drive,797.62
+Printer,580.32
+Laptop,1699.3
+Headphones,1018.11
+Cooling Fan,2279.72
+Mouse,1303.67
+Motherboard,653.87
+Tablet,1223.76
+Smartwatch,98.0
+Keyboard,2175.66
+Router,2284.64
+Keyboard,1856.3
+Power Supply,1707.34
+Printer,1922.24
+RAM,474.4
+Laptop,1865.58
+Cooling Fan,1248.67
+Laptop,237.68
+RAM,1644.8
+USB Drive,1306.96
+Laptop,1231.85
+Power Supply,1768.06
+Charger,2016.17
+Smartwatch,1787.71
+Graphics Card,92.11
+Laptop,1310.94
+Charger,1261.56
+USB Drive,1751.1
+Speaker,1872.33
+Microphone,580.81
+Camera,1533.64
+Speaker,2392.97
+Laptop,535.5
+USB Drive,1757.7
+Charger,1176.02
+Monitor,2483.39
+Speaker,1088.77
+RAM,33.9
+Speaker,1538.2
+Charger,1878.25
+Charger,1972.39
+Game Console,864.56
+SSD,2324.17
+External Hard Drive,1354.71
+Smartphone,62.7
+Smartphone,1021.9
+Headphones,1140.1
+Camera,2025.29
+Motherboard,1936.55
+Charger,1009.63
+Motherboard,2437.16
+CPU,120.34
+External Hard Drive,1406.22
+Tablet,1956.65
+Keyboard,473.43
+Smartwatch,711.98
+RAM,2284.2
+Headphones,512.29
+Case,2322.64
+Monitor,1101.62
+USB Drive,1113.63
+USB Drive,1805.03
+Router,829.59
+Smartwatch,1617.15
+Microphone,2401.71
+Microphone,1856.97
+Printer,2366.04
+Laptop,2183.22
+Power Supply,1969.94
+Smartphone,1526.35
+SSD,276.81
+Power Supply,1632.18
+Graphics Card,168.96
+Keyboard,2107.5
+Keyboard,1774.64
+Camera,350.0
+USB Drive,1170.89
+Charger,2261.23
+Tablet,1394.92
+Case,112.58
+Keyboard,658.94
+Smartphone,119.18
+External Hard Drive,351.82
+External Hard Drive,2197.52
+Camera,1001.57
+RAM,775.17
+Smartphone,1941.9
+SSD,453.32
+Camera,412.1
+Camera,1702.92
+Case,696.66
+External Hard Drive,623.75
+Printer,2214.01
+Case,1851.83
+SSD,119.64
+Monitor,1081.34
+Laptop,647.15
+Camera,1071.92
+Camera,693.51
+Tablet,997.28
+Motherboard,834.45
+Cooling Fan,1544.9
+Keyboard,642.77
+Motherboard,824.31
+Speaker,1212.12
+Case,1381.94
+Microphone,1208.33
+Printer,781.74
+Camera,1249.03
+Case,756.01
+Keyboard,1880.04
+CPU,2275.91
+Power Supply,2257.86
+Smartphone,121.25
+CPU,822.87
+CPU,997.46
+Camera,613.6
+USB Drive,1297.3
+Mouse,1210.77
+Laptop,2049.07
+Graphics Card,635.95
+Router,2266.18
+Headphones,957.9
+CPU,2359.2
+Monitor,1064.19
+Graphics Card,11.53
+Speaker,1661.25
+Smartphone,814.0
+Printer,447.59
+Smartwatch,2202.38
+Smartwatch,917.73
+Printer,1204.91
+Game Console,1466.56
+SSD,1604.65
+RAM,1017.04
+Charger,2332.09
+Power Supply,1675.17
+Headphones,693.24
+SSD,2499.2
+Speaker,395.52
+Motherboard,1818.92
+Tablet,1472.14
+Smartwatch,2299.11
+Game Console,238.33
+Smartwatch,403.18
+External Hard Drive,1127.67
+Monitor,89.08
+Speaker,2065.76
+Case,2133.04
+RAM,93.52
+Smartwatch,138.42
+Case,1437.25
+Tablet,1604.64
+Motherboard,582.78
+Keyboard,51.13
+Graphics Card,1930.15
+Tablet,1210.6
+Microphone,1706.04
+Case,2274.16
+Headphones,1289.78
+Printer,2426.23
+Speaker,2473.78
+Motherboard,2334.49
+Graphics Card,1415.92
+Tablet,1756.84
+Smartwatch,642.74
+Case,40.32
+Game Console,1127.07
+CPU,1066.89
+SSD,945.61
+Router,1758.09
+Smartwatch,690.32
+Headphones,15.17
+RAM,1203.42
+Camera,442.48
+Monitor,1249.88
+Headphones,215.33
+Headphones,272.62
+Charger,850.07
+SSD,2084.47
+Monitor,1773.96
+Motherboard,451.92
+Cooling Fan,1440.51
+Laptop,237.33
+Graphics Card,2217.74
+SSD,990.05
+Power Supply,770.42
+Headphones,47.31
+Laptop,684.02
+Microphone,345.13
+SSD,2331.18
+Speaker,1901.42
+RAM,1530.23
+Speaker,472.74
+Smartphone,1778.0
+Mouse,148.81
+Motherboard,424.9
+Case,2081.83
+CPU,2365.83
+Router,2204.09
+Camera,405.84
+Case,2477.31
+Graphics Card,1817.08
+Tablet,2306.2
+SSD,367.66
+Laptop,2061.65
+Monitor,1671.43
+Router,759.68
+External Hard Drive,438.24
+Camera,155.49
+CPU,2481.12
+Smartwatch,1058.73
+Charger,641.93
+Monitor,761.84
+RAM,1124.74
+Microphone,584.25
+Headphones,15.79
+Headphones,2467.94
+Tablet,849.5
+Speaker,1462.13
+Camera,303.38
+Game Console,1037.37
+Motherboard,1240.34
+Microphone,523.84
+CPU,1739.36
+Router,1360.32
+External Hard Drive,21.54
+Mouse,931.94
+External Hard Drive,1088.09
+Graphics Card,669.16
+Game Console,400.27
+Smartwatch,348.98
+Router,1305.49
+Cooling Fan,1562.34
+Power Supply,1639.54
+Router,1278.39
+Headphones,68.17
+Case,182.59
+RAM,1985.74
+Smartphone,686.02
+Tablet,1417.61
+Tablet,1892.02
+Graphics Card,1496.42
+Smartwatch,227.34
+Graphics Card,2054.1
+Speaker,172.25
+Power Supply,868.98
+External Hard Drive,236.17
+RAM,1422.27
+Cooling Fan,617.79
+External Hard Drive,1934.91
+Charger,1291.83
+SSD,1566.9
+RAM,883.04
+Printer,1264.66
+Case,2267.06
+Graphics Card,831.02
+Microphone,141.41
+Monitor,269.34
+Keyboard,1189.01
+SSD,905.9
+Tablet,1007.72
+Tablet,1201.62
+Headphones,488.54
+Speaker,2327.57
+RAM,1018.61
+Keyboard,1833.61
+Camera,1577.66
+Motherboard,1983.57
+Microphone,208.17
+Graphics Card,699.78
+Tablet,685.5
+Monitor,534.31
+CPU,2384.23
+Mouse,392.91
+Case,2041.92
+Cooling Fan,2031.34
+CPU,958.18
+Charger,1274.51
+Smartphone,2416.28
+Charger,1305.99
+Case,1564.79
+SSD,2156.9
+Tablet,1077.91
+Printer,575.35
+USB Drive,267.79
+Router,1405.08
+Keyboard,2003.12
+Router,1024.6
+Motherboard,1054.19
+Cooling Fan,239.29
+SSD,1661.71
+Graphics Card,1507.15
+Speaker,683.8
+RAM,1091.33
+Speaker,739.31
+Printer,2227.28
+Cooling Fan,555.2
+Tablet,461.16
+Cooling Fan,77.29
+CPU,2201.9
+Graphics Card,401.6
+Keyboard,708.2
+Smartwatch,1149.77
+Camera,1352.9
+SSD,149.23
+Camera,929.06
+Charger,610.9
+Graphics Card,366.5
+Speaker,1117.39
+Graphics Card,1709.35
+RAM,305.02
+Camera,1839.87
+Cooling Fan,1616.51
+External Hard Drive,1734.49
+Camera,1086.79
+RAM,2004.73
+Headphones,1769.81
+Router,572.51
+Power Supply,2008.1
+Case,1767.08
+Motherboard,1880.25
+Microphone,2069.99
+Graphics Card,684.81
+Printer,29.54
+Charger,1675.67
+Smartwatch,992.89
+Smartphone,560.08
+Tablet,1626.86
+USB Drive,590.77
+Camera,1502.0
+SSD,2135.21
+Case,2015.77
+Case,1880.47
+Monitor,981.41
+Motherboard,149.84
+Printer,2034.67
+USB Drive,193.2
+Headphones,62.76
+Game Console,1402.51
+Router,1743.37
+Monitor,2499.76
+Tablet,759.8
+Router,803.04
+Smartwatch,1064.04
+Speaker,1402.82
+Cooling Fan,1460.46
+Headphones,126.45
+Speaker,871.41
+Smartwatch,1199.99
+Motherboard,48.4
+USB Drive,1612.0
+SSD,2467.5
+Charger,299.05
+Smartphone,2054.94
+Headphones,1132.99
+USB Drive,255.78
+Printer,1996.73
+Laptop,1098.55
+Cooling Fan,264.79
+External Hard Drive,1840.56
+Camera,2041.77
+Case,1451.18
+CPU,1471.14
+External Hard Drive,830.42
+Graphics Card,2451.61
+Charger,30.13
+SSD,2015.91
+Charger,2342.96
+Charger,1876.66
+Cooling Fan,441.83
+Camera,209.23
+CPU,670.03
+Keyboard,510.8
+Charger,2429.57
+Motherboard,2397.0
+Power Supply,23.52
+Smartwatch,147.56
+Game Console,2312.03
+External Hard Drive,306.19
+RAM,1907.32
+Printer,1581.68
+Microphone,1863.7
+Power Supply,694.1
+Cooling Fan,2066.34
+Laptop,1896.74
+Motherboard,386.7
+Cooling Fan,375.69
+Cooling Fan,1738.49
+Router,141.33
+Charger,2475.0
+Microphone,545.92
+SSD,2388.96
+Keyboard,1138.56
+Laptop,1808.51
+Graphics Card,2016.47
+Speaker,2347.36
+Cooling Fan,2390.68
+Microphone,1457.02
+Case,1625.26
+RAM,2325.23
+Tablet,1115.79
+Laptop,1043.2
+Headphones,610.09
+Cooling Fan,1416.87
+Speaker,1241.89
+Camera,533.17
+Camera,1197.79
+USB Drive,1686.59
+Smartphone,173.84
+Cooling Fan,1398.66
+Speaker,1778.52
+Microphone,403.7
+Smartphone,2090.1
+Game Console,734.46
+Keyboard,2311.76
+CPU,1384.98
+Cooling Fan,1546.12
+Router,2358.18
+RAM,1939.6
+Cooling Fan,1072.77
+Keyboard,1986.53
+Smartwatch,263.15
+Power Supply,1050.6
+Router,2437.61
+SSD,1556.37
+Smartphone,1322.42
+Cooling Fan,2353.94
+RAM,446.4
+Laptop,2230.28
+Speaker,1959.91
+Case,1553.02
+Charger,843.52
+Smartwatch,1416.48
+Speaker,711.45
+Game Console,331.92
+Mouse,129.96
+Printer,2274.46
+Camera,493.86
+Printer,2138.95
+SSD,1810.74
+Keyboard,1036.66
+SSD,759.13
+Speaker,1941.96
+Monitor,133.7
+Case,1177.75
+Smartphone,877.22
+Cooling Fan,769.31
+Motherboard,83.93
+External Hard Drive,301.9
+Monitor,1161.87
+Camera,1795.59
+Motherboard,1357.28
+Graphics Card,148.12
+Power Supply,1344.65
+RAM,1851.16
+Case,1754.89
+Keyboard,348.85
+USB Drive,523.67
+Charger,1962.06
+Mouse,1637.06
+Motherboard,2121.72
+Keyboard,400.51
+Power Supply,888.24
+Mouse,1942.99
+CPU,2439.26
+Power Supply,2457.07
+CPU,515.68
+Tablet,2312.01
+Keyboard,2068.88
+Smartphone,1442.36
+Router,1736.04
+Camera,1104.49
+Router,276.42
+Smartphone,1990.86
+SSD,410.17
+Camera,295.65
+Smartphone,676.6
+Microphone,2447.32
+Case,471.62
+Laptop,2432.58
+Motherboard,1812.24
+Microphone,1630.71
+Camera,2095.43
+External Hard Drive,2389.94
+Microphone,1835.07
+Microphone,521.39
+Smartphone,2182.68
+CPU,299.34
+Power Supply,1790.5
+Cooling Fan,1596.71
+Monitor,827.27
+Case,552.19
+RAM,305.72
+External Hard Drive,2224.9
+Monitor,608.54
+Mouse,583.48
+Motherboard,2254.93
+RAM,561.66
+Smartwatch,2216.85
+Mouse,1384.19
+Graphics Card,2438.65
+Charger,406.2
+Smartphone,898.86
+Printer,1524.99
+Smartwatch,650.44
+USB Drive,726.08
+Laptop,2393.43
+Printer,2441.1
+Router,1419.31
+Smartphone,618.22
+Camera,1249.28
+Headphones,2236.4
+Camera,636.7
+Mouse,1910.46
+CPU,2048.08
+Smartphone,86.21
+Smartwatch,390.57
+Cooling Fan,1116.59
+Graphics Card,2116.61
+CPU,1432.59
+Case,1080.03
+Monitor,2243.32
+SSD,460.15
+Cooling Fan,2423.65
+Game Console,1338.02
+Power Supply,1992.23
+Smartphone,300.85
+Smartwatch,1993.57
+Keyboard,576.88
+Motherboard,287.94
+Monitor,1961.52
+Router,2387.63
+Cooling Fan,1288.44
+Charger,169.96
+Charger,317.4
+Printer,2048.53
+Speaker,1145.1
+Motherboard,2414.33
+Graphics Card,1692.07
+External Hard Drive,747.8
+Camera,373.9
+External Hard Drive,2097.12
+Case,901.45
+Graphics Card,405.34
+Graphics Card,680.88
+Mouse,1753.08
+USB Drive,34.51
+CPU,2080.78
+Keyboard,1537.66
+Charger,912.71
+Tablet,377.89
+Printer,1306.54
+Tablet,1920.02
+Mouse,866.4
+Case,1228.52
+Power Supply,2227.61
+Power Supply,2062.43
+RAM,1031.8
+External Hard Drive,1293.26
+Tablet,993.4
+Speaker,2291.88
+Laptop,2305.39
+Camera,222.37
+Headphones,182.45
+Motherboard,2074.95
+Microphone,1064.77
+Laptop,1504.72
+Smartphone,1758.57
+Case,2130.49
+Tablet,302.69
+Cooling Fan,1839.24
+SSD,1299.45
+Keyboard,2201.71
+Keyboard,2398.3
+Game Console,402.07
+Tablet,2248.46
+Tablet,2429.36
+Power Supply,2428.05
+Charger,353.0
+Power Supply,1077.06
+External Hard Drive,26.47
+Motherboard,2275.2
+Monitor,2475.88
+Cooling Fan,165.21
+Laptop,1794.18
+Game Console,1518.79
+Tablet,2284.47
+Headphones,2073.15
+Motherboard,1539.44
+Keyboard,27.68
+Power Supply,326.86
+Cooling Fan,1828.33
+Mouse,2226.67
+Laptop,199.48
+Monitor,214.7
+Game Console,35.93
+Laptop,788.86
+Tablet,1202.29
+Power Supply,1540.28
+Keyboard,2045.8
+Game Console,2081.39
+Laptop,19.67
+Cooling Fan,817.75
+Monitor,1693.79
+Graphics Card,235.36
+USB Drive,23.34
+Camera,490.92
+Motherboard,807.7
+Tablet,1636.99
+Charger,966.15
+Motherboard,388.18
+Power Supply,406.87
+SSD,2381.56
+Tablet,2192.49
+Router,1130.84
+Speaker,743.11
+Smartwatch,1870.05
+External Hard Drive,326.29
+SSD,1384.87
+Speaker,641.69
+Mouse,707.15
+Speaker,581.72
+USB Drive,1254.37
+Mouse,1462.89
+Smartwatch,1779.5
+Smartphone,1333.12
+Power Supply,1874.16
+RAM,632.7
+RAM,2155.08
+Motherboard,441.07
+Router,524.29
+Router,2440.67
+Graphics Card,245.04
+Smartphone,2369.3
+SSD,612.44
+Case,540.32
+Game Console,250.79
+Graphics Card,492.02
+Printer,1212.7
+RAM,1170.12
+Charger,428.19
+External Hard Drive,678.88
+Graphics Card,45.57
+Microphone,886.81
+External Hard Drive,1380.79
+Mouse,2278.01
+Laptop,1625.56
+Smartwatch,2240.94
+Game Console,1381.6
+Tablet,412.51
+Monitor,732.46
+Cooling Fan,1157.32
+Router,1901.31
+Camera,1044.15
+CPU,909.8
+Motherboard,116.59
+Mouse,1648.42
+RAM,185.61
+Printer,1660.43
+Power Supply,809.61
+Microphone,16.66
+Smartwatch,928.3
+SSD,372.07
+Printer,1483.2
+Camera,726.59
+USB Drive,2110.04
+Monitor,1740.57
+Cooling Fan,2469.15
+Motherboard,828.07
+Case,1624.96
+Mouse,1015.09
+Speaker,2498.26
+Tablet,513.07
+Graphics Card,2342.01
+Headphones,2464.47
+RAM,487.5
+Charger,1948.32
+Router,1492.04
+Monitor,1707.96
+CPU,1291.76
+USB Drive,2159.62
+Motherboard,1521.03
+USB Drive,928.6
+Monitor,25.8
+Router,1773.83
+Microphone,283.22
+Monitor,1702.17
+USB Drive,236.93
+Smartwatch,1659.93
+Speaker,983.65
+Printer,840.37
+Smartwatch,1983.29
+SSD,2423.6
+Microphone,1010.32
+RAM,2311.52
+Monitor,1570.51
+USB Drive,2236.96
+Game Console,1055.87
+External Hard Drive,104.53
+Laptop,1073.73
+Tablet,1546.32
+Router,2078.5
+RAM,2304.0
+Motherboard,656.71
+RAM,2398.42
+Laptop,2177.35
+Microphone,1089.94
+Graphics Card,2176.76
+Case,377.05
+Monitor,126.5
+Smartphone,2250.43
+RAM,2010.1
+Laptop,2226.46
+Printer,551.07
+Case,842.8
+Camera,298.04
+Game Console,1958.85
+Smartphone,2007.24
+Printer,1563.86
+Smartphone,699.94
+Monitor,1174.97
+Headphones,336.71
+CPU,1613.54
+Cooling Fan,2418.42
+Smartphone,1445.72
+CPU,663.77
+Headphones,939.05
+SSD,357.37
+Laptop,2379.46
+Headphones,504.88
+Graphics Card,1383.55
+Camera,2451.68
+Smartphone,1632.59
+External Hard Drive,1095.0
+Mouse,2417.29
+External Hard Drive,1584.39
+Cooling Fan,979.09
+External Hard Drive,342.48
+Laptop,1180.98
+Smartphone,1252.59
+SSD,1833.26
+Monitor,2296.49
+Case,2317.89
+Microphone,374.83
+Motherboard,10.4
+Game Console,842.16
+Power Supply,765.29
+Printer,312.89
+Power Supply,1369.6
+Case,678.33
+Charger,629.76
+Monitor,1901.08
+Charger,1258.46
+Smartphone,2420.97
+External Hard Drive,972.81
+Smartwatch,1120.89
+Motherboard,167.95
+Power Supply,1757.96
+Game Console,1596.05
+Graphics Card,1390.7
+Monitor,2157.66
+RAM,2080.27
+Smartphone,647.63
+Tablet,1715.27
+Tablet,445.53
+Case,427.82
+Mouse,1829.08
+Cooling Fan,2321.79
+External Hard Drive,989.28
+Headphones,1250.25
+Router,530.98
+Game Console,768.74
+Case,2104.08
+External Hard Drive,800.04
+Motherboard,658.41
+External Hard Drive,1384.95
+Smartwatch,201.21
+RAM,1291.87
+Motherboard,880.78
+Smartphone,1730.0
+Graphics Card,1121.62
+Printer,165.1
+Power Supply,480.75
+Monitor,964.5
+RAM,491.42
+External Hard Drive,143.43
+Router,2116.38
+Power Supply,2368.8
+Mouse,1968.58
+Speaker,1987.36
+USB Drive,1898.2
+Mouse,840.35
+USB Drive,2196.87
+External Hard Drive,576.87
+Monitor,1093.78
+Router,1819.14
+Router,2044.15
+Tablet,1264.83
+Camera,1206.46
+Case,1134.78
+Smartwatch,82.21
+Graphics Card,2442.19
+Power Supply,442.75
+Keyboard,1506.58
+Charger,447.69
+Camera,2255.67
+RAM,2497.0
+Smartwatch,2233.79
+Cooling Fan,1248.04
+RAM,1896.4
+Smartwatch,2201.81
+Microphone,634.7
+USB Drive,2188.65
+Smartphone,1036.35
+Microphone,1141.89
+Charger,889.98
+Smartwatch,261.43
+Keyboard,2355.69
+Speaker,180.92
+Laptop,975.24
+Smartwatch,230.21
+Laptop,1681.46
+External Hard Drive,88.97
+Speaker,231.11
+Power Supply,577.0
+Router,344.93
+Motherboard,1589.5
+Smartphone,1934.12
+Motherboard,2081.15
+Motherboard,543.89
+Tablet,1676.97
+Graphics Card,2263.25
+Graphics Card,2330.69
+Speaker,1485.0
+Microphone,1309.63
+Smartphone,1254.63
+External Hard Drive,1624.59
+Smartphone,266.95
+Router,2157.95
+Game Console,1435.67
+Mouse,371.22
+Monitor,2252.32
+Headphones,1104.55
+Graphics Card,884.05
+Graphics Card,1881.0
+Smartphone,1408.95
+Router,1557.77
+Power Supply,1560.78
+Headphones,2257.56
+Smartphone,2339.14
+Camera,2174.8
+Smartwatch,1267.28
+Cooling Fan,350.14
+Case,787.55
+SSD,166.27
+Game Console,2355.58
+Camera,2375.13
+USB Drive,1695.65
+Charger,1062.98
+Printer,1327.86
+Speaker,1255.61
+CPU,2269.12
+Camera,754.25
+External Hard Drive,2206.53
+CPU,2312.67
+Power Supply,2341.6
+Cooling Fan,1112.75
+Headphones,337.79
+Cooling Fan,1449.34
+Keyboard,406.82
+Cooling Fan,979.14
+Game Console,378.12
+Cooling Fan,956.47
+Laptop,2458.69
+Headphones,41.81
+Smartphone,2181.55
+Tablet,718.79
+Headphones,529.34
+SSD,1450.73
+Printer,2041.66
+Charger,558.27
+Smartphone,538.41
+Motherboard,1219.8
+Monitor,1644.61
+Router,235.43
+Graphics Card,268.76
+SSD,97.54
+Monitor,1637.52
+Game Console,258.17
+Game Console,1317.66
+Monitor,2169.63
+Keyboard,919.41
+Monitor,1477.94
+Monitor,1832.75
+Mouse,1269.27
+Router,950.23
+Case,1676.66
+RAM,1773.68
+Camera,996.65
+Headphones,1811.56
+Motherboard,2102.53
+Keyboard,1675.71
+USB Drive,288.0
+Speaker,1774.61
+Keyboard,978.88
+Headphones,348.07
+Camera,692.13
+Router,290.92
+Mouse,104.59
+USB Drive,208.1
+Mouse,950.53
+SSD,754.81
+Motherboard,1394.34
+Laptop,293.93
+CPU,513.36
+Power Supply,1780.73
+Mouse,2207.38
+Laptop,336.28
+CPU,2426.47
+Microphone,2101.5
+Smartphone,2022.76
+CPU,1710.96
+Printer,1409.94
+Smartwatch,519.23
+USB Drive,1102.21
+Headphones,1952.02
+Game Console,2132.86
+CPU,228.25
+RAM,1677.1
+RAM,2304.46
+Smartwatch,1859.3
+Camera,1201.5
+Headphones,946.13
+Tablet,166.95
+USB Drive,1150.93
+Microphone,195.93
+Cooling Fan,1881.01
+Tablet,1948.78
+Monitor,1779.05
+Headphones,1241.09
+Case,1118.66
+External Hard Drive,512.1
+Keyboard,1942.13
+Monitor,1638.16
+CPU,1882.96
+Cooling Fan,532.1
+Monitor,448.03
+Tablet,1959.15
+Tablet,114.68
+Game Console,2494.4
+Graphics Card,103.21
+RAM,144.9
+Camera,2307.43
+Monitor,740.43
+Case,72.09
+Tablet,833.41
+Microphone,1668.9
+Microphone,349.02
+Cooling Fan,391.91
+Cooling Fan,465.21
+Tablet,471.67
+Game Console,531.5
+Motherboard,393.5
+USB Drive,902.46
+Router,915.38
+Smartwatch,1220.98
+USB Drive,1021.52
+Monitor,1232.85
+Camera,1775.1
+Headphones,1385.16
+Monitor,1845.31
+Mouse,79.21
+Headphones,1979.11
+Smartwatch,1813.21
+SSD,1872.1
+SSD,2171.65
+Headphones,1907.95
+Case,456.31
+Microphone,175.42
+Monitor,2107.35
+Keyboard,426.53
+Keyboard,1544.02
+Printer,1333.99
+Game Console,1141.07
+Case,1618.64
+Mouse,2245.16
+Cooling Fan,691.75
+RAM,1038.18
+Keyboard,516.71
+Case,1847.34
+Speaker,410.82
+CPU,43.15
+Graphics Card,1493.9
+Motherboard,2165.78
+Smartphone,780.31
+Tablet,2411.49
+CPU,975.58
+Mouse,2032.94
+Laptop,1099.85
+Mouse,1977.56
+Motherboard,1818.5
+Printer,1818.72
+Mouse,1871.16
+Tablet,180.2
+Printer,453.91
+Case,1056.8
+RAM,2484.49
+RAM,1371.26
+USB Drive,189.16
+USB Drive,1490.49
+Camera,1965.1
+Game Console,2288.37
+Cooling Fan,123.27
+Mouse,1765.75
+Router,593.73
+Charger,276.52
+Speaker,28.7
+Game Console,2472.24
+Case,880.05
+Graphics Card,1437.28
+RAM,1146.85
+Smartwatch,1116.44
+Keyboard,2219.89
+Graphics Card,1184.33
+Microphone,1356.19
+Laptop,315.24
+RAM,2246.52
+Charger,160.81
+Power Supply,524.11
+Laptop,495.45
+Printer,1559.37
+Smartphone,2009.27
+RAM,1616.99
+Case,1810.34
+Charger,1743.38
+External Hard Drive,1042.77
+Keyboard,2424.43
+External Hard Drive,1912.4
+Power Supply,1890.56
+Graphics Card,2091.73
+Tablet,1631.06
+Camera,831.58
+Keyboard,2459.47
+USB Drive,319.04
+Camera,158.34
+Keyboard,1401.91
+Charger,1515.73
+Camera,672.9
+Mouse,539.35
+Smartphone,2495.42
+Printer,1582.59
+Smartwatch,2367.23
+Charger,829.92
+Power Supply,83.97
+Graphics Card,1432.34
+Keyboard,538.75
+Speaker,2457.24
+USB Drive,1066.08
+Headphones,1667.69
+Game Console,1889.59
+Smartwatch,1719.67
+Game Console,790.2
+Printer,1297.51
+Router,817.94
+Graphics Card,951.75
+Mouse,1696.43
+Printer,2159.35
+Headphones,193.24
+Smartphone,885.31
+Speaker,314.33
+SSD,460.53
+Speaker,610.66
+Speaker,1545.59
+Case,303.09
+Headphones,2191.35
+CPU,330.01
+Speaker,821.23
+External Hard Drive,416.82
+Monitor,273.51
+RAM,1715.18
+Camera,1219.63
+Headphones,1841.61
+Graphics Card,1864.08
+Mouse,935.81
+Smartphone,1914.9
+Laptop,1511.0
+Charger,2149.45
+Microphone,1150.37
+Keyboard,1229.04
+Smartphone,2051.46
+CPU,2171.14
+Cooling Fan,899.0
+RAM,1892.16
+Charger,552.52
+RAM,382.66
+Laptop,547.3
+Smartphone,57.75
+Smartwatch,1828.12
+Cooling Fan,1471.49
+Smartwatch,1862.61
+Monitor,785.0
+Motherboard,1726.86
+Power Supply,1059.13
+Smartphone,1215.86
+Cooling Fan,2075.71
+RAM,1180.72
+Speaker,1407.02
+Microphone,1049.39
+Cooling Fan,984.14
+Case,249.53
+Smartwatch,867.8
+Cooling Fan,2051.31
+Laptop,2448.72
+Case,541.37
+Smartwatch,1719.51
+Smartphone,1183.48
+Game Console,1384.76
+RAM,1551.3
+Smartwatch,2124.63
+Camera,1836.36
+Case,2179.52
+RAM,1976.34
+Cooling Fan,334.2
+Charger,2184.01
+Cooling Fan,458.59
+Mouse,124.66
+Monitor,1909.05
+USB Drive,794.14
+Keyboard,1117.78
+Smartwatch,1068.96
+Keyboard,644.21
+Case,2248.07
+Tablet,1497.7
+Headphones,1204.99
+Printer,2007.42
+Case,1141.94
+SSD,568.98
+External Hard Drive,689.55
+Case,930.63
+Case,1657.74
+SSD,689.64
+Charger,2351.78
+External Hard Drive,323.91
+Keyboard,1505.5
+Speaker,1332.69
+Laptop,2237.05
+Monitor,1215.3
+Game Console,2041.01
+External Hard Drive,1674.79
+Graphics Card,2056.76
+Laptop,1507.9
+Laptop,495.0
+Power Supply,1688.0
+Power Supply,2028.83
+Camera,555.37
+Keyboard,35.59
+Headphones,2331.33
+Case,784.05
+Keyboard,445.89
+RAM,35.35
+External Hard Drive,487.52
+CPU,2051.07
+CPU,1055.27
+USB Drive,47.96
+RAM,36.48
+Cooling Fan,1751.61
+SSD,1679.95
+Speaker,1466.6
+Graphics Card,2115.21
+Laptop,2424.52
+Tablet,304.66
+Keyboard,2094.55
+Headphones,1701.72
+Smartphone,285.0
+Power Supply,2325.0
+External Hard Drive,870.94
+Smartphone,2049.93
+Keyboard,2014.92
+Cooling Fan,1933.67
+Smartwatch,900.19
+Case,942.64
+Mouse,1856.35
+Microphone,1924.21
+RAM,915.51
+Monitor,1718.1
+Tablet,2242.99
+Smartphone,1740.38
+Tablet,2162.31
+Speaker,1893.41
+Microphone,2023.95
+Laptop,385.25
+CPU,2254.16
+External Hard Drive,1666.95
+Motherboard,853.67
+Smartphone,2310.14
+Laptop,747.05
+Keyboard,1624.87
+Smartphone,317.19
+Case,2488.94
+USB Drive,1889.45
+Mouse,764.35
+Game Console,824.11
+SSD,1178.68
+USB Drive,492.1
+Speaker,1088.72
+SSD,730.13
+Motherboard,1597.1
+Motherboard,1371.25
+Headphones,2073.67
+Monitor,1146.97
+Cooling Fan,23.0
+Power Supply,775.76
+Camera,2488.47
+Cooling Fan,2361.7
+Game Console,247.81
+Power Supply,2293.93
+Game Console,320.88
+Laptop,723.58
+Keyboard,323.83
+Graphics Card,272.51
+Printer,1264.95
+USB Drive,2073.51
+Headphones,879.41
+Router,1559.25
+External Hard Drive,449.17
+SSD,2188.87
+RAM,2452.72
+Router,1710.49
+SSD,1513.96
+Monitor,1932.0
+Laptop,1947.48
+Game Console,352.77
+Mouse,2403.98
+Headphones,2215.82
+Keyboard,207.1
+Printer,1722.78
+RAM,1966.1
+Camera,1794.86
+SSD,2054.51
+Keyboard,1439.62
+Tablet,1580.11
+Game Console,2466.38
+CPU,488.42
+Keyboard,493.15
+Game Console,417.22
+Cooling Fan,502.33
+Keyboard,2436.3
+Motherboard,2342.51
+RAM,1265.52
+Keyboard,1713.35
+External Hard Drive,1850.82
+Case,71.94
+Mouse,1296.99
+Monitor,2004.72
+Laptop,286.9
+Smartwatch,821.72
+Laptop,2377.84
+Router,1141.86
+CPU,80.24
+Printer,1812.82
+CPU,2445.05
+External Hard Drive,1764.49
+Cooling Fan,2208.08
+SSD,1332.36
+SSD,991.85
+RAM,591.79
+Keyboard,1106.06
+Graphics Card,255.68
+Game Console,196.53
+Tablet,2014.62
+Mouse,1637.55
+Monitor,1774.45
+Camera,1078.08
+Headphones,1992.82
+Tablet,2266.47
+Camera,153.75
+Camera,530.35
+Mouse,1222.0
+Printer,46.97
+Smartwatch,260.35
+CPU,2382.79
+Smartphone,2489.1
+Case,2027.52
+Charger,1353.13
+Smartphone,567.42
+Headphones,789.6
+Mouse,506.02
+Monitor,352.75
+SSD,110.26
+Printer,380.57
+Graphics Card,2240.4
+Printer,2377.8
+Charger,1737.62
+Case,1093.24
+USB Drive,1083.58
+USB Drive,2118.01
+Power Supply,2036.2
+Power Supply,664.98
+Camera,1317.56
+Mouse,1578.13
+Mouse,1971.69
+Keyboard,375.56
+Microphone,1286.6
+Speaker,1603.94
+Laptop,112.52
+Power Supply,1319.37
+RAM,1410.11
+CPU,2429.77
+Mouse,544.49
+Router,851.93
+Laptop,2089.85
+Smartwatch,726.46
+USB Drive,235.2
+Motherboard,1652.57
+Mouse,1989.35
+Graphics Card,1446.26
+Motherboard,2490.26
+Microphone,58.79
+External Hard Drive,2439.43
+CPU,301.45
+Laptop,343.32
+Mouse,1436.3
+SSD,38.35
+Graphics Card,1642.05
+Laptop,2336.38
+Case,514.4
+Tablet,625.25
+Power Supply,780.01
+Power Supply,2139.56
+Cooling Fan,1129.91
+Graphics Card,2274.56
+Keyboard,894.3
+Smartphone,813.18
+RAM,1445.09
+Case,249.34
+Monitor,1236.03
+CPU,1935.62
+Headphones,1578.52
+SSD,1219.24
+Smartwatch,206.96
+Smartphone,1907.19
+Router,351.55
+RAM,2362.06
+Case,1765.06
+Monitor,1755.32
+SSD,1178.17
+CPU,1714.01
+Speaker,543.96
+Charger,801.49
+CPU,1739.14
+Smartwatch,703.09
+Motherboard,152.06
+Graphics Card,2076.71
+Power Supply,2077.34
+Printer,1544.38
+Motherboard,1874.69
+Motherboard,2187.96
+Motherboard,260.46
+Printer,158.76
+Smartphone,1444.67
+Monitor,2144.85
+RAM,1095.18
+Microphone,1749.65
+Smartwatch,2482.64
+Motherboard,1306.86
+Microphone,685.42
+Laptop,1301.24
+Printer,751.06
+Camera,975.31
+Tablet,1276.9
+Camera,715.09
+SSD,2343.78
+Router,1838.97
+Router,1542.18
+Keyboard,168.15
+Headphones,1829.99
+SSD,2126.65
+Router,1239.94
+Power Supply,544.8
+Power Supply,2043.48
+Smartphone,1888.73
+Monitor,2135.22
+Speaker,182.67
+Smartwatch,772.91
+Tablet,1705.89
+Headphones,1304.2
+Router,1942.57
+SSD,1077.99
+Mouse,2317.54
+USB Drive,828.23
+RAM,1710.07
+Cooling Fan,616.37
+RAM,655.76
+Printer,2331.94
+Router,1692.1
+Smartwatch,742.83
+Tablet,1924.09
+Microphone,1339.35
+Keyboard,2032.41
+Laptop,1391.86
+USB Drive,1118.3
+Monitor,141.63
+Smartwatch,2014.15
+Monitor,1783.02
+Smartphone,259.32
+Mouse,1776.44
+Graphics Card,1127.93
+Power Supply,1073.96
+Graphics Card,1208.5
+Laptop,2131.04
+Printer,1229.29
+Monitor,1199.87
+Power Supply,1355.91
+Mouse,1475.89
+CPU,1078.54
+Smartwatch,2066.94
+Graphics Card,2015.54
+Case,459.43
+USB Drive,42.49
+Keyboard,2191.41
+Camera,1701.26
+Power Supply,1718.08
+Mouse,2043.56
+Tablet,1760.67
+Router,77.92
+Case,901.33
+SSD,2281.73
+Cooling Fan,1331.11
+Game Console,107.79
+Graphics Card,2363.09
+Tablet,819.89
+Game Console,2430.84
+External Hard Drive,287.27
+Headphones,1666.6
+Microphone,360.97
+Keyboard,1826.74
+Charger,831.36
+Motherboard,71.71
+External Hard Drive,613.53
+Printer,610.87
+Case,1247.17
+CPU,711.5
+Printer,396.36
+SSD,1296.92
+Monitor,175.06
+Game Console,1888.64
+Cooling Fan,2000.03
+Smartwatch,653.88
+Charger,1516.25
+Smartphone,1207.79
+Charger,408.35
+Router,1804.96
+Motherboard,1122.11
+Smartwatch,507.98
+Power Supply,633.53
+Graphics Card,405.13
+Smartphone,459.26
+USB Drive,483.19
+Motherboard,1688.43
+Power Supply,744.62
+Graphics Card,1389.23
+Graphics Card,545.71
+Keyboard,52.11
+External Hard Drive,1911.85
+Speaker,774.25
+Graphics Card,1900.79
+Game Console,627.92
+Speaker,2160.06
+Headphones,1619.97
+Laptop,2077.72
+Headphones,215.17
+USB Drive,1456.38
+Keyboard,2096.17
+Case,629.35
+External Hard Drive,256.38
+Keyboard,1329.82
+Mouse,2208.93
+External Hard Drive,1888.79
+Laptop,501.26
+USB Drive,2346.56
+Camera,825.49
+Laptop,2489.09
+Tablet,1854.73
+Tablet,2433.93
+Smartwatch,1330.7
+SSD,596.66
+Mouse,1424.14
+Case,326.13
+Headphones,1883.04
+Cooling Fan,1390.82
+Laptop,1311.46
+Printer,1935.27
+Keyboard,943.91
+Motherboard,2267.28
+Power Supply,661.29
+Tablet,1290.0
+Microphone,1901.65
+Camera,2006.61
+Case,627.14
+Printer,1139.91
+Keyboard,1468.96
+Keyboard,2267.49
+Mouse,273.96
+USB Drive,933.52
+Microphone,903.73
+CPU,1943.56
+Tablet,2391.56
+Microphone,1045.48
+Graphics Card,890.39
+Mouse,1679.76
+Graphics Card,1591.7
+Microphone,2356.5
+Charger,1551.15
+Power Supply,2081.23
+Cooling Fan,2316.27
+USB Drive,280.83
+Motherboard,190.3
+Cooling Fan,637.39
+Laptop,459.5
+USB Drive,1038.77
+Motherboard,97.49
+CPU,2207.49
+Headphones,1879.38
+CPU,1994.94
+Cooling Fan,752.73
+Graphics Card,504.52
+Smartphone,401.46
+External Hard Drive,2294.54
+RAM,2485.6
+External Hard Drive,1653.34
+Charger,585.5
+Laptop,1692.96
+Keyboard,1359.0
+Charger,63.08
+Graphics Card,364.98
+Laptop,2000.96
+Microphone,1713.9
+Motherboard,1192.99
+External Hard Drive,216.84
+Mouse,2159.32
+Graphics Card,1814.77
+Laptop,1702.98
+Printer,414.61
+Camera,1119.58
+USB Drive,206.92
+Router,2401.55
+Smartphone,2112.94
+Motherboard,516.41
+USB Drive,700.16
+Mouse,992.2
+Case,441.96
+Charger,2367.72
+Monitor,1972.65
+Smartwatch,403.17
+Router,2479.3
+Headphones,605.65
+Power Supply,1110.02
+Printer,685.23
+Game Console,507.52
+CPU,2159.16
+Graphics Card,2454.99
+SSD,591.02
+Printer,1648.02
+Case,1945.91
+Charger,1299.56
+Keyboard,1562.67
+Keyboard,1753.08
+Smartwatch,609.85
+Headphones,2446.06
+Motherboard,2032.35
+Case,281.06
+Router,970.11
+Laptop,839.35
+Game Console,2463.07
+Microphone,205.98
+USB Drive,568.25
+Motherboard,1673.98
+Keyboard,2029.94
+Smartphone,1140.4
+External Hard Drive,2208.49
+Printer,414.51
+Mouse,392.17
+Graphics Card,1189.5
+Monitor,1494.53
+Camera,1959.38
+Router,272.53
+Game Console,919.98
+Smartphone,879.46
+Speaker,1118.33
+USB Drive,1132.29
+Cooling Fan,1031.99
+Smartwatch,2085.46
+Smartphone,365.22
+Case,554.51
+Router,1530.2
+RAM,267.33
+Mouse,645.71
+Headphones,2290.81
+Keyboard,989.02
+SSD,630.93
+Motherboard,1749.15
+Speaker,2465.78
+External Hard Drive,533.05
+Charger,2205.36
+SSD,376.72
+CPU,1697.45
+Motherboard,118.98
+RAM,2003.29
+USB Drive,808.78
+Cooling Fan,467.45
+Monitor,505.15
+Printer,2436.52
+Router,1835.92
+SSD,2187.19
+Speaker,2063.94
+Smartwatch,2242.81
+Power Supply,106.98
+Camera,2066.73
+Power Supply,1532.96
+SSD,302.18
+Case,1699.66
+Smartphone,336.12
+SSD,101.26
+Case,833.23
+USB Drive,1684.69
+Laptop,634.88
+Tablet,811.93
+Printer,1948.43
+Cooling Fan,1440.29
+Speaker,844.58
+Graphics Card,2173.91
+Tablet,1891.59
+External Hard Drive,1148.62
+Smartphone,58.29
+Power Supply,1878.39
+Tablet,1215.42
+CPU,675.53
+USB Drive,365.88
+Keyboard,536.08
+Case,1418.31
+Motherboard,107.39
+USB Drive,895.03
+Smartphone,49.0
+Smartwatch,1628.77
+Monitor,1665.12
+Speaker,1517.04
+Mouse,853.65
+RAM,1049.13
+Power Supply,1648.33
+Charger,746.2
+Power Supply,2094.28
+Game Console,458.55
+Microphone,456.21
+Cooling Fan,1654.41
+Laptop,1146.46
+Charger,637.74
+Tablet,1862.22
+Cooling Fan,953.96
+Smartwatch,2107.24
+Monitor,404.59
+Tablet,26.39
+Case,177.78
+SSD,1296.02
+Router,291.35
+Mouse,76.98
+Smartwatch,2055.53
+CPU,1067.39
+Laptop,1212.21
+Mouse,2372.23
+Camera,495.07
+Case,130.25
+Keyboard,1150.86
+Speaker,1286.63
+USB Drive,826.29
+CPU,1472.28
+Graphics Card,208.95
+Monitor,539.67
+Keyboard,852.05
+Motherboard,1061.83
+Smartphone,1791.47
+Speaker,218.0
+Laptop,569.67
+Graphics Card,730.75
+Smartphone,505.55
+CPU,482.47
+RAM,2260.26
+Keyboard,789.73
+Printer,311.14
+Game Console,1663.35
+USB Drive,919.1
+RAM,1935.3
+Speaker,1411.72
+Cooling Fan,1511.29
+Speaker,578.76
+CPU,1163.78
+Camera,835.44
+Power Supply,71.55
+Case,513.62
+Mouse,2338.7
+Tablet,1156.06
+USB Drive,1093.02
+Laptop,103.26
+USB Drive,1919.85
+USB Drive,64.62
+Router,1048.24
+Smartwatch,2398.79
+Motherboard,748.49
+Motherboard,68.49
+Smartwatch,1585.09
+External Hard Drive,233.25
+Case,366.89
+Monitor,607.8
+Monitor,1830.96
+Laptop,1064.21
+Printer,970.25
+Charger,539.76
+Laptop,1818.44
+Router,476.28
+RAM,1841.29
+Smartphone,396.22
+Printer,1287.83
+Case,948.57
+Cooling Fan,1750.95
+Microphone,877.69
+Power Supply,1521.05
+External Hard Drive,1985.41
+Printer,799.41
+USB Drive,2380.57
+Charger,990.08
+Mouse,2281.16
+Case,1444.49
+Power Supply,66.09
+Smartphone,1486.79
+Case,418.82
+RAM,2026.59
+Speaker,1418.93
+External Hard Drive,1281.09
+Router,1741.43
+Smartwatch,2457.1
+Headphones,1334.37
+Smartwatch,1345.04
+Keyboard,267.28
+Mouse,1903.52
+RAM,326.81
+Case,1563.56
+Power Supply,2312.95
+Laptop,893.17
+RAM,914.57
+Speaker,1415.01
+Mouse,913.82
+RAM,1049.64
+CPU,103.3
+Charger,1880.71
+Motherboard,2414.56
+Microphone,1594.44
+Camera,1864.64
+SSD,474.94
+RAM,1790.36
+Monitor,2288.71
+CPU,1094.41
+Router,1810.89
+Smartphone,952.12
+Laptop,1207.83
+SSD,2001.94
+Laptop,2217.31
+Microphone,1813.88
+Speaker,2251.36
+Headphones,689.54
+SSD,1470.3
+Power Supply,1971.2
+Charger,813.08
+Tablet,1285.38
+Laptop,2120.88
+Game Console,1144.3
+Monitor,389.65
+Router,1859.24
+Mouse,268.31
+Game Console,1057.24
+Cooling Fan,1263.31
+Keyboard,652.24
+Monitor,1037.09
+Smartphone,1080.55
+USB Drive,2198.83
+Monitor,626.33
+Motherboard,2115.0
+Smartwatch,1311.05
+Laptop,52.12
+Laptop,962.42
+Motherboard,846.04
+CPU,884.76
+Monitor,302.53
+Router,2476.49
+Smartwatch,1684.51
+Tablet,702.78
+Tablet,1262.44
+CPU,108.92
+Printer,1761.81
+Mouse,722.9
+Router,2252.96
+Charger,341.95
+CPU,2137.93
+Monitor,891.23
+Headphones,1929.51
+CPU,1122.84
+Cooling Fan,1793.43
+Keyboard,1894.66
+Camera,2134.65
+Monitor,2209.04
+Speaker,2112.01
+External Hard Drive,1727.38
+Motherboard,824.41
+Headphones,1995.88
+Keyboard,1474.34
+Tablet,1083.89
+Headphones,76.24
+Camera,1080.29
+USB Drive,2041.59
+Motherboard,253.46
+Router,1858.76
+Monitor,2227.44
+Game Console,246.26
+Monitor,1672.47
+Graphics Card,640.05
+Power Supply,1314.34
+Cooling Fan,947.12
+USB Drive,524.73
+Power Supply,2393.65
+SSD,1090.28
+Tablet,717.36
+Tablet,1559.68
+Game Console,1317.37
+Motherboard,60.05
+Tablet,1371.52
+Keyboard,734.43
+CPU,795.41
+External Hard Drive,1926.14
+Router,616.57
+Cooling Fan,544.63
+Laptop,1955.6
+Keyboard,1409.64
+Camera,769.69
+Mouse,72.14
+Smartwatch,958.86
+Cooling Fan,1554.89
+Headphones,1641.56
+Keyboard,1688.39
+Monitor,1367.99
+Microphone,2200.74
+Router,2057.27
+Motherboard,2068.2
+SSD,215.58
+Monitor,271.29
+Microphone,1143.27
+Motherboard,1123.48
+USB Drive,906.45
+SSD,1618.49
+Graphics Card,1799.15
+Microphone,1248.59
+Mouse,298.02
+USB Drive,1977.62
+Mouse,1075.35
+Keyboard,1850.19
+Speaker,872.72
+Headphones,2412.62
+Power Supply,1347.7
+Laptop,372.8
+Microphone,1722.66
+RAM,1450.82
+Headphones,459.3
+Game Console,2147.39
+Keyboard,2136.65
+Smartwatch,1102.85
+Laptop,2049.09
+Tablet,690.59
+Smartphone,329.45
+CPU,1720.65
+Charger,12.4
+Charger,1325.62
+Case,1750.22
+Keyboard,925.74
+SSD,1584.15
+Microphone,2012.71
+Smartwatch,279.54
+SSD,2159.9
+Printer,1350.5
+Motherboard,377.33
+Printer,218.29
+Tablet,1394.26
+External Hard Drive,1891.77
+Cooling Fan,2480.58
+Smartwatch,2412.6
+Mouse,862.69
+Router,1792.49
+Speaker,1399.21
+RAM,1542.44
+Keyboard,2292.36
+Smartphone,1366.46
+Motherboard,1793.3
+Monitor,2200.56
+Keyboard,1448.35
+Cooling Fan,1265.91
+Microphone,1797.94
+Graphics Card,149.51
+Charger,1729.85
+SSD,1183.35
+Keyboard,2088.51
+External Hard Drive,1456.68
+Case,430.5
+Case,248.73
+Mouse,2367.57
+Power Supply,1025.37
+Monitor,1051.97
+Printer,1262.74
+Case,1994.74
+Camera,681.06
+Cooling Fan,1651.19
+Router,1124.24
+Case,1197.54
+Keyboard,2312.38
+Laptop,1413.98
+Smartphone,2288.37
+Smartphone,148.35
+Game Console,1599.76
+External Hard Drive,1660.42
+Tablet,1033.75
+USB Drive,2437.91
+Game Console,554.49
+Case,442.79
+Tablet,2253.09
+Power Supply,57.09
+Game Console,2338.62
+RAM,2300.07
+Case,46.04
+Laptop,1264.94
+SSD,1243.1
+Camera,878.35
+Smartphone,1158.79
+Monitor,2022.89
+Case,1846.0
+Monitor,1989.42
+Smartphone,622.28
+Speaker,2359.02
+Cooling Fan,621.14
+Microphone,1748.08
+Router,2045.39
+Headphones,1106.15
+CPU,358.31
+Charger,500.95
+Game Console,1418.12
+Printer,453.98
+USB Drive,2034.74
+Smartwatch,2467.39
+Case,1710.49
+Headphones,950.93
+Microphone,654.63
+RAM,2066.17
+RAM,1203.13
+Charger,1815.39
+Speaker,221.26
+Graphics Card,2079.28
+Speaker,539.81
+Game Console,2196.18
+Keyboard,1452.65
+Keyboard,48.73
+Headphones,1367.82
+Game Console,104.46
+Keyboard,763.72
+Mouse,138.08
+CPU,1350.3
+Game Console,263.41
+Monitor,1484.36
+Speaker,681.89
+Graphics Card,2418.21
+SSD,2181.01
+Charger,689.8
+Smartphone,2300.32
+Printer,1650.0
+Charger,1650.22
+Printer,1485.39
+Microphone,1826.38
+Mouse,1696.45
+Router,1100.25
+USB Drive,1265.71
+USB Drive,635.78
+Smartwatch,1089.61
+Power Supply,1368.56
+Smartwatch,177.3
+RAM,544.53
+Router,1719.87
+Graphics Card,841.9
+Monitor,1648.23
+Keyboard,805.62
+Tablet,52.94
+Router,120.28
+CPU,2028.04
+Speaker,612.62
+Router,1469.18
+Cooling Fan,1969.22
+Cooling Fan,1622.3
+Motherboard,1698.88
+Cooling Fan,1782.87
+Keyboard,1125.36
+SSD,1680.35
+Mouse,1045.86
+USB Drive,2321.24
+Game Console,2122.06
+Microphone,681.93
+Microphone,1359.25
+Microphone,112.46
+Smartphone,1688.91
+CPU,2140.02
+Printer,2318.33
+Motherboard,1938.91
+Charger,1934.12
+Speaker,224.56
+Headphones,408.62
+Router,2038.14
+Tablet,2349.86
+Motherboard,137.88
+Laptop,1244.26
+Mouse,1410.6
+CPU,2374.51
+Printer,2219.89
+Keyboard,792.15
+SSD,1211.34
+Keyboard,1995.53
+Charger,386.49
+SSD,1663.07
+Laptop,1006.83
+External Hard Drive,384.73
+Microphone,2342.68
+CPU,1121.3
+Motherboard,269.12
+Smartwatch,1634.02
+Power Supply,388.52
+External Hard Drive,2199.26
+Graphics Card,875.26
+Graphics Card,971.54
+Speaker,1053.8
+Charger,1225.59
+Printer,2033.15
+Mouse,407.99
+External Hard Drive,1132.0
+Game Console,1057.84
+Microphone,1924.85
+Motherboard,1506.77
+Tablet,1396.91
+RAM,1455.57
+Tablet,34.65
+CPU,564.86
+Monitor,2050.23
+RAM,116.22
+Headphones,945.64
+Mouse,657.21
+Smartwatch,488.04
+Laptop,634.57
+Game Console,1819.22
+Headphones,424.28
+Monitor,1707.77
+Keyboard,1130.2
+Graphics Card,88.47
+Motherboard,1125.44
+Camera,2130.49
+Graphics Card,960.74
+Monitor,1557.72
+Laptop,1732.49
+Tablet,116.3
+Graphics Card,1537.15
+Printer,1799.7
+RAM,718.39
+Power Supply,913.1
+Camera,348.57
+Laptop,576.88
+Graphics Card,793.78
+Speaker,1098.03
+Camera,2098.29
+Monitor,788.2
+RAM,2074.43
+Charger,1067.67
+Monitor,651.73
+Keyboard,2461.4
+Keyboard,1830.74
+Microphone,1547.88
+Game Console,1628.58
+Power Supply,1331.88
+RAM,1582.28
+USB Drive,155.15
+RAM,1731.38
+Game Console,2202.46
+RAM,160.83
+Mouse,585.79
+Cooling Fan,165.06
+Microphone,1210.43
+Monitor,401.69
+Headphones,78.64
+Printer,59.45
+USB Drive,750.28
+Motherboard,1518.58
+CPU,402.78
+Monitor,966.3
+Monitor,262.45
+Speaker,436.76
+Camera,1815.71
+Motherboard,512.03
+Motherboard,809.92
+Smartphone,94.47
+USB Drive,1363.64
+Monitor,1787.54
+Charger,329.57
+Headphones,589.91
+CPU,2433.96
+Smartphone,741.05
+Graphics Card,568.4
+Charger,1656.24
+Microphone,2047.95
+SSD,345.6
+Case,310.86
+Game Console,2400.68
+Monitor,2441.85
+Cooling Fan,2164.12
+SSD,989.46
+Cooling Fan,1177.99
+Case,2302.56
+Tablet,822.27
+Motherboard,2492.41
+SSD,117.81
+Keyboard,2167.08
+RAM,2347.67
+CPU,2060.68
+RAM,1922.82
+Speaker,1040.13
+Microphone,1346.41
+Speaker,1883.45
+RAM,1814.43
+USB Drive,230.65
+Speaker,1802.36
+Case,2266.48
+Monitor,576.94
+Printer,1272.05
+Laptop,100.3
+Charger,1532.87
+Printer,246.17
+Router,2023.1
+Case,145.87
+Smartphone,1660.6
+Smartphone,251.04
+Router,1080.39
+Motherboard,2095.24
+USB Drive,676.15
+USB Drive,1334.12
+External Hard Drive,1990.59
+Headphones,1439.81
+Monitor,238.23
+Smartphone,1386.11
+Graphics Card,344.45
+Smartwatch,311.98
+USB Drive,1512.66
+Monitor,2243.74
+Power Supply,398.12
+SSD,937.52
+Smartphone,603.32
+Mouse,2404.98
+Motherboard,508.96
+RAM,1779.31
+Monitor,2193.21
+Power Supply,1563.37
+Speaker,231.9
+Game Console,153.14
+Graphics Card,2486.47
+Smartphone,2015.31
+Mouse,2097.74
+Game Console,1561.63
+Mouse,374.77
+Router,1641.38
+Charger,1824.24
+Smartwatch,1275.53
+Charger,583.14
+Keyboard,321.09
+Case,2187.6
+Smartphone,1042.08
+Laptop,1028.91
+Microphone,1873.09
+Laptop,1478.64
+Power Supply,2245.69
+Case,2443.81
+External Hard Drive,314.03
+Router,1058.86
+Printer,1392.58
+Power Supply,1628.36
+Graphics Card,2342.42
+Cooling Fan,2247.5
+Charger,522.89
+Smartwatch,1431.52
+Case,2190.97
+Printer,1348.91
+Keyboard,146.77
+External Hard Drive,2194.6
+RAM,1969.47
+Router,249.35
+Graphics Card,1127.49
+Camera,1018.56
+Speaker,885.27
+Keyboard,1987.33
+Speaker,2377.7
+Smartwatch,1065.59
+Monitor,67.91
+RAM,910.26
+USB Drive,312.62
+Mouse,2153.96
+Graphics Card,2349.55
+Game Console,447.49
+Headphones,507.49
+External Hard Drive,703.78
+Cooling Fan,359.15
+Laptop,17.01
+Charger,2379.72
+Headphones,1992.08
+Case,712.76
+Monitor,486.29
+Keyboard,1147.89
+RAM,1765.71
+Charger,550.37
+Microphone,2147.39
+Mouse,1830.25
+RAM,452.43
+Camera,1318.9
+Monitor,70.73
+Game Console,594.64
+External Hard Drive,1628.93
+Headphones,297.15
+Microphone,388.53
+Camera,2106.38
+Keyboard,507.66
+Tablet,2123.02
+Smartwatch,1389.49
+Smartwatch,2442.79
+SSD,728.02
+Tablet,542.25
+Monitor,1953.04
+Tablet,2006.35
+Camera,2459.85
+Router,1591.0
+CPU,923.42
+Motherboard,310.3
+Printer,1633.32
+Case,2237.01
+Game Console,957.04
+Motherboard,64.7
+Power Supply,1407.7
+Smartphone,1385.97
+Graphics Card,2197.1
+Speaker,2494.67
+Motherboard,677.06
+Laptop,229.25
+Monitor,1979.22
+Power Supply,2158.94
+Tablet,2164.84
+Smartwatch,1050.57
+Laptop,182.66
+Graphics Card,289.93
+Power Supply,1746.96
+Motherboard,1909.5
+Smartwatch,1254.51
+Power Supply,1626.11
+Case,2318.04
+Printer,2417.14
+Graphics Card,935.35
+Case,823.1
+Speaker,2491.58
+Keyboard,2327.85
+Game Console,1695.17
+Case,2159.48
+Charger,2491.09
+Case,476.19
+Router,555.79
+Smartphone,843.77
+USB Drive,1108.64
+Monitor,1275.92
+Camera,509.63
+Keyboard,1348.71
+Motherboard,1867.22
+Monitor,1944.86
+Headphones,1203.44
+Monitor,1277.01
+Microphone,2391.53
+Charger,1764.22
+Power Supply,1945.44
+Smartwatch,114.6
+RAM,1160.46
+Tablet,1233.74
+Smartwatch,2044.6
+Camera,2208.58
+CPU,1295.36
+Router,1319.12
+Camera,1878.12
+Cooling Fan,368.16
+Smartwatch,1681.96
+Laptop,45.87
+Smartphone,1625.8
+Case,663.63
+Microphone,2190.35
+CPU,129.18
+Speaker,466.46
+Printer,1303.3
+Camera,1031.83
+Printer,2230.88
+Smartphone,2280.89
+SSD,2042.64
+Headphones,1420.06
+Mouse,393.07
+Camera,586.08
+Charger,1727.17
+Motherboard,562.45
+Charger,1328.27
+Camera,2425.94
+External Hard Drive,1519.07
+Charger,231.59
+CPU,1648.69
+Monitor,1779.2
+Router,1341.17
+Router,1024.92
+Microphone,1920.29
+Case,2243.7
+Game Console,1706.4
+External Hard Drive,1142.76
+Headphones,1330.43
+Camera,233.68
+Cooling Fan,1131.15
+CPU,952.7
+Camera,1975.89
+Headphones,715.61
+Smartphone,1785.94
+CPU,2224.06
+Game Console,1826.23
+Laptop,2069.57
+Keyboard,2210.85
+Power Supply,2374.37
+Power Supply,445.8
+Laptop,1992.64
+Printer,1837.61
+Monitor,267.26
+Charger,330.01
+Power Supply,759.66
+Speaker,297.97
+Router,900.36
+Router,1676.33
+Microphone,928.5
+RAM,786.23
+RAM,901.01
+CPU,1115.77
+SSD,724.75
+CPU,1535.36
+Smartphone,155.05
+Printer,1830.93
+External Hard Drive,1897.64
+External Hard Drive,2001.1
+Motherboard,528.93
+Graphics Card,867.58
+Tablet,140.81
+SSD,440.42
+Microphone,1411.48
+Tablet,382.2
+Case,2334.01
+RAM,541.89
+External Hard Drive,1199.57
+Power Supply,1195.12
+SSD,2163.76
+Power Supply,1025.58
+Game Console,1841.34
+USB Drive,1795.47
+Microphone,1721.66
+Motherboard,140.44
+Laptop,1366.04
+Monitor,515.12
+Camera,80.55
+Keyboard,1824.52
+Headphones,729.49
+Smartphone,1034.47
+Headphones,694.32
+Game Console,2034.38
+CPU,2065.06
+RAM,2313.5
+Keyboard,268.45
+Smartwatch,65.39
+Power Supply,156.71
+Smartphone,386.09
+Microphone,184.74
+Charger,1650.89
+Microphone,696.43
+Power Supply,98.97
+Smartphone,579.73
+Motherboard,1198.64
+Motherboard,2380.53
+Graphics Card,905.56
+Keyboard,910.9
+Camera,1546.37
+Cooling Fan,1164.49
+RAM,474.19
+Charger,1964.27
+Router,1437.28
+Printer,760.05
+Tablet,1768.24
+Router,1262.6
+Motherboard,2001.3
+Charger,2344.67
+Charger,2299.27
+External Hard Drive,1030.67
+CPU,2270.29
+Mouse,1825.22
+Router,2250.77
+Case,1046.24
+Laptop,57.69
+USB Drive,424.85
+Charger,308.91
+Tablet,2459.4
+Router,973.37
+Monitor,977.46
+Power Supply,256.53
+Mouse,2245.07
+Monitor,2035.77
+Monitor,224.36
+Keyboard,1066.88
+External Hard Drive,2054.26
+USB Drive,1379.95
+Mouse,1827.48
+Mouse,265.25
+Smartwatch,1081.45
+USB Drive,2466.45
+External Hard Drive,1050.16
+Graphics Card,615.43
+Power Supply,971.23
+Graphics Card,560.6
+Router,1078.31
+Speaker,2124.02
+Mouse,1526.55
+Speaker,772.05
+Router,1340.34
+Laptop,22.45
+USB Drive,1190.71
+Keyboard,799.42
+Cooling Fan,292.43
+USB Drive,2301.35
+Power Supply,762.15
+Laptop,1426.43
+Keyboard,1357.53
+Motherboard,1636.39
+Game Console,1436.63
+Monitor,1728.32
+Graphics Card,2177.87
+Headphones,2252.17
+Microphone,913.38
+Tablet,954.43
+USB Drive,1752.11
+RAM,1530.7
+USB Drive,1162.15
+Laptop,1790.86
+Microphone,1791.86
+Laptop,972.18
+Router,1529.16
+Case,1230.92
+Graphics Card,1316.27
+External Hard Drive,223.59
+Keyboard,213.67
+Case,1655.53
+Cooling Fan,2026.06
+Smartwatch,1976.02
+Speaker,955.35
+Laptop,1223.51
+CPU,189.32
+Laptop,381.92
+External Hard Drive,2056.13
+Tablet,1910.2
+Motherboard,1150.25
+Laptop,1178.64
+Laptop,1370.48
+CPU,554.3
+Mouse,1575.54
+Smartwatch,1927.69
+External Hard Drive,775.33
+Case,2484.79
+Motherboard,1205.96
+Game Console,518.32
+Game Console,305.0
+CPU,82.87
+SSD,669.71
+Smartphone,329.15
+RAM,1550.62
+USB Drive,1573.09
+Microphone,1233.21
+Power Supply,1621.43
+Smartphone,1485.99
+Smartphone,1524.83
+Power Supply,121.32
+External Hard Drive,273.2
+Charger,1198.1
+Game Console,2436.68
+Charger,257.88
+Keyboard,1809.67
+Microphone,778.59
+Smartwatch,2434.57
+Monitor,554.22
+External Hard Drive,267.86
+Laptop,1753.03
+Keyboard,666.33
+Camera,947.46
+Laptop,1777.48
+Tablet,102.37
+Power Supply,475.48
+Camera,1987.45
+Smartphone,1343.34
+Microphone,930.29
+SSD,1477.64
+Speaker,2310.03
+USB Drive,1137.44
+Mouse,1687.93
+Charger,1690.42
+Mouse,1801.08
+SSD,1729.56
+Smartphone,1648.29
+CPU,1907.13
+Motherboard,1383.5
+Graphics Card,2263.48
+Graphics Card,2019.16
+Graphics Card,842.23
+RAM,902.62
+Smartphone,2345.75
+Tablet,583.65
+Smartwatch,1531.55
+Headphones,688.84
+Router,1286.49
+Laptop,811.25
+Mouse,1863.65
+Speaker,53.78
+Camera,1617.25
+Laptop,807.24
+Power Supply,363.69
+Keyboard,1349.47
+CPU,1136.84
+Smartwatch,625.07
+Smartphone,845.73
+Mouse,2006.74
+CPU,505.15
+USB Drive,679.9
+Keyboard,521.64
+Keyboard,1884.84
+USB Drive,720.01
+Microphone,2214.4
+Mouse,1972.89
+Tablet,299.03
+Microphone,1225.28
+Graphics Card,1652.21
+Router,2139.61
+Charger,2077.91
+Headphones,1607.96
+Router,2174.96
+Router,2451.63
+Camera,1276.25
+Microphone,438.06
+Tablet,516.35
+USB Drive,555.58
+Graphics Card,1614.54
+Keyboard,977.59
+Motherboard,1030.31
+Tablet,596.86
+Router,2350.32
+Speaker,1411.33
+Speaker,1036.49
+Headphones,2096.27
+Headphones,1222.15
+Printer,707.4
+CPU,674.43
+SSD,2071.33
+Microphone,2402.71
+Keyboard,1309.84
+Mouse,2307.36
+Router,747.42
+External Hard Drive,1422.86
+RAM,40.65
+Power Supply,1774.81
+Charger,1289.07
+Router,1472.43
+Router,2211.11
+Case,874.6
+USB Drive,1809.56
+USB Drive,1859.74
+Mouse,754.09
+Keyboard,883.65
+Graphics Card,2192.13
+External Hard Drive,708.76
+Printer,1037.72
+Cooling Fan,2448.63
+Game Console,665.62
+Router,749.54
+Smartphone,1476.25
+Smartphone,487.28
+Power Supply,1512.68
+Headphones,1073.34
+Cooling Fan,1723.19
+Camera,478.17
+Headphones,799.36
+Router,1640.89
+Smartphone,1298.53
+Mouse,1390.75
+Speaker,518.68
+Camera,1743.37
+Graphics Card,402.03
+Camera,1785.84
+Tablet,209.19
+Tablet,604.39
+CPU,1439.93
+Motherboard,617.25
+Headphones,1848.66
+SSD,1233.92
+Smartphone,1478.07
+CPU,1917.66
+Cooling Fan,537.62
+External Hard Drive,2207.67
+Power Supply,2278.37
+Speaker,1586.21
+Headphones,912.17
+Monitor,1632.63
+Keyboard,622.91
+Game Console,1336.43
+Case,1414.97
+Motherboard,2171.67
+Monitor,557.1
+CPU,1782.12
+Printer,1405.6
+Monitor,161.02
+Mouse,306.63
+Game Console,2099.26
+SSD,1208.22
+Microphone,149.0
+Smartphone,1833.43
+Charger,2241.6
+Router,1180.52
+Headphones,1349.03
+Tablet,1546.27
+SSD,421.3
+Tablet,1936.82
+Cooling Fan,1025.05
+Printer,1728.55
+RAM,262.16
+Printer,1449.12
+Printer,1839.37
+Keyboard,738.18
+Camera,111.7
+Microphone,135.43
+Motherboard,1680.31
+RAM,484.04
+CPU,1532.43
+Headphones,963.15
+Speaker,2424.45
+Charger,2101.15
+Graphics Card,1158.89
+Monitor,2020.84
+Power Supply,963.23
+Printer,2275.5
+External Hard Drive,575.27
+CPU,558.93
+Printer,1312.41
+USB Drive,623.03
+Tablet,1972.59
+Keyboard,2356.92
+Camera,1442.93
+Graphics Card,2327.24
+Game Console,124.19
+Laptop,2351.92
+Microphone,46.45
+Charger,226.32
+Graphics Card,177.54
+External Hard Drive,1820.74
+RAM,532.24
+Cooling Fan,766.84
+Charger,662.75
+Microphone,1561.3
+Printer,2089.72
+Power Supply,1038.24
+Monitor,546.27
+CPU,507.37
+Monitor,1202.91
+USB Drive,1369.4
+USB Drive,2160.38
+Headphones,37.03
+Monitor,587.65
+USB Drive,1752.78
+Game Console,2048.53
+CPU,312.89
+Laptop,215.19
+Headphones,1323.37
+CPU,1113.24
+RAM,411.06
+Power Supply,2116.71
+Router,457.0
+Tablet,2079.38
+Tablet,1768.75
+USB Drive,1334.85
+Microphone,1646.05
+Camera,294.59
+Motherboard,726.97
+Motherboard,1015.21
+Mouse,1259.18
+Camera,1969.61
+Power Supply,2347.88
+Tablet,2490.98
+External Hard Drive,2007.35
+Router,1344.14
+Charger,430.95
+Charger,1450.02
+Monitor,2266.45
+Cooling Fan,286.34
+Speaker,270.76
+Charger,1934.05
+Tablet,2123.69
+Monitor,541.61
+Mouse,2017.97
+Printer,2329.69
+Keyboard,1403.86
+Power Supply,997.88
+SSD,430.78
+Tablet,872.41
+USB Drive,294.68
+Router,86.05
+Smartphone,948.09
+Motherboard,464.23
+Tablet,1004.75
+SSD,460.31
+Game Console,41.37
+Game Console,1414.35
+Smartwatch,1103.85
+USB Drive,759.11
+Camera,2302.77
+Keyboard,1301.51
+SSD,1273.46
+Mouse,355.18
+Microphone,474.94
+Tablet,2418.61
+Camera,1076.64
+Game Console,2377.94
+Game Console,516.28
+Keyboard,405.8
+Printer,2025.12
+Laptop,2313.43
+Microphone,882.05
+USB Drive,1850.14
+External Hard Drive,2010.52
+Charger,896.08
+Graphics Card,1293.02
+SSD,1997.66
+Motherboard,173.72
+Speaker,241.62
+Microphone,1041.18
+Speaker,1634.08
+Microphone,933.4
+Power Supply,2073.6
+External Hard Drive,2061.83
+Mouse,2188.11
+SSD,576.24
+USB Drive,370.5
+SSD,1083.24
+CPU,869.44
+Motherboard,1262.43
+RAM,619.44
+CPU,1104.89
+Mouse,647.4
+Case,1370.33
+Cooling Fan,1807.71
+Printer,548.46
+SSD,610.8
+USB Drive,1433.25
+Motherboard,1360.48
+Graphics Card,1620.43
+Speaker,1143.04
+Tablet,1828.8
+SSD,1804.78
+Case,405.46
+Laptop,1795.89
+CPU,416.86
+Smartphone,417.2
+Smartwatch,632.54
+Smartwatch,1452.3
+Smartwatch,752.52
+Smartphone,401.6
+Smartwatch,1765.9
+Case,973.7
+Motherboard,331.43
+Case,1263.09
+Cooling Fan,1328.64
+SSD,2056.34
+Camera,453.75
+SSD,1960.67
+Printer,1200.15
+USB Drive,2119.57
+Keyboard,1147.52
+Laptop,300.75
+Game Console,188.96
+SSD,140.21
+Laptop,671.91
+Keyboard,300.75
+Smartwatch,562.15
+Camera,710.81
+Case,1549.69
+Motherboard,1287.13
+Headphones,1138.3
+Power Supply,1377.3
+Monitor,248.02
+Cooling Fan,13.24
+Cooling Fan,1633.97
+Speaker,1403.12
+Keyboard,1686.08
+Router,426.42
+Power Supply,266.9
+Mouse,1239.59
+Speaker,277.93
+Headphones,2379.06
+Tablet,1663.46
+Charger,1060.2
+Power Supply,2260.76
+Router,267.68
+Printer,798.36
+Motherboard,932.59
+Smartwatch,134.52
+Charger,1595.75
+Laptop,1681.11
+Smartphone,1017.09
+Smartwatch,2440.17
+Camera,922.31
+Game Console,1449.08
+Microphone,949.04
+Power Supply,92.44
+Game Console,2222.99
+Smartwatch,176.1
+Microphone,836.77
+Smartwatch,2171.74
+Microphone,1034.54
+Camera,1556.27
+Mouse,869.35
+Power Supply,1107.61
+Tablet,902.44
+Keyboard,717.64
+USB Drive,1983.5
+Mouse,2443.6
+Power Supply,1343.45
+RAM,1350.67
+Power Supply,119.52
+Tablet,2001.7
+Monitor,1468.89
+SSD,1969.99
+Case,1984.23
+Cooling Fan,579.02
+Motherboard,1652.63
+CPU,437.01
+CPU,2149.01
+Keyboard,1677.34
+Game Console,1199.35
+Motherboard,1201.79
+Microphone,1911.92
+External Hard Drive,666.93
+Power Supply,570.59
+Router,1228.21
+Tablet,2186.28
+Cooling Fan,1674.96
+RAM,742.6
+Camera,699.43
+RAM,1706.19
+Motherboard,955.28
+Case,1397.39
+Microphone,718.91
+Speaker,92.56
+Printer,1276.9
+Charger,2372.06
+Smartwatch,1938.9
+Motherboard,2022.18
+RAM,848.87
+Smartphone,1354.54
+Camera,393.56
+Tablet,1020.87
+RAM,2251.18
+Speaker,762.08
+Game Console,136.27
+Printer,2333.31
+USB Drive,1682.76
+Case,203.82
+Power Supply,753.8
+Motherboard,1936.46
+Smartphone,674.99
+CPU,474.19
+Charger,1177.68
+Graphics Card,661.05
+Mouse,476.87
+Power Supply,1169.14
+Game Console,600.28
+Graphics Card,472.26
+Case,789.68
+Smartwatch,865.01
+Keyboard,2067.07
+Laptop,2323.23
+External Hard Drive,2158.92
+Laptop,1080.2
+Keyboard,617.83
+Speaker,809.51
+Camera,200.59
+Game Console,1314.69
+SSD,1070.37
+SSD,91.14
+Cooling Fan,1829.86
+External Hard Drive,176.87
+Monitor,1645.73
+Case,2108.77
+Headphones,1061.48
+Motherboard,855.04
+Smartwatch,1235.04
+Graphics Card,2045.27
+Headphones,504.57
+Tablet,570.33
+RAM,1928.27
+Smartphone,1654.3
+USB Drive,29.22
+Smartphone,2445.08
+Printer,2160.67
+Case,945.47
+Tablet,368.0
+Monitor,294.02
+Camera,554.88
+Smartwatch,1559.03
+Keyboard,1401.83
+Case,1433.86
+Keyboard,949.55
+Game Console,692.43
+Keyboard,1407.24
+CPU,436.8
+CPU,1034.6
+Camera,1614.47
+Printer,342.55
+External Hard Drive,1641.48
+USB Drive,2079.25
+Camera,622.46
+USB Drive,1966.16
+Monitor,2263.29
+Motherboard,266.19
+Printer,164.14
+Cooling Fan,1663.22
+Graphics Card,1598.51
+CPU,1169.49
+Motherboard,2457.26
+Monitor,2020.33
+Laptop,1234.71
+USB Drive,822.26
+Camera,145.7
+Mouse,555.2
+Mouse,1025.03
+Tablet,882.52
+Smartphone,119.08
+Router,1408.73
+Motherboard,2177.92
+RAM,2229.54
+Case,2328.02
+USB Drive,2165.85
+Monitor,322.3
+Keyboard,2459.31
+Cooling Fan,144.68
+Monitor,530.55
+Microphone,1477.71
+Mouse,1653.9
+Power Supply,993.72
+Game Console,1601.73
+Mouse,2112.73
+Tablet,1459.96
+Laptop,344.71
+Power Supply,1161.22
+Cooling Fan,168.47
+Laptop,114.23
+Mouse,104.61
+CPU,808.78
+Monitor,2053.07
+SSD,321.14
+RAM,877.91
+Graphics Card,55.9
+Microphone,1194.53
+Game Console,324.0
+Charger,1112.78
+Microphone,1794.1
+Game Console,728.57
+Headphones,2011.85
+Speaker,1376.53
+Power Supply,1129.68
+CPU,732.62
+Laptop,1779.43
+Headphones,295.12
+Laptop,2264.51
+Game Console,2360.12
+Charger,236.58
+SSD,1434.57
+Headphones,2107.96
+CPU,1061.11
+SSD,2437.22
+Motherboard,1457.21
+CPU,1399.96
+RAM,1945.5
+Laptop,2304.67
+CPU,491.05
+USB Drive,803.51
+Case,1145.32
+Mouse,361.69
+RAM,2270.85
+Camera,1281.04
+Printer,1332.8
+Keyboard,1331.08
+Power Supply,1127.23
+Case,2041.53
+Router,279.34
+USB Drive,999.35
+Printer,1134.68
+SSD,825.8
+Camera,749.87
+Motherboard,1727.55
+Printer,1128.46
+Smartwatch,77.99
+Printer,244.21
+Case,2352.97
+CPU,2311.71
+Graphics Card,494.84
+Microphone,1478.23
+RAM,1847.16
+Smartwatch,2095.44
+CPU,1905.23
+Camera,695.65
+USB Drive,385.16
+Charger,2365.44
+Graphics Card,1966.77
+USB Drive,757.81
+Charger,2447.99
+Microphone,859.98
+Case,2017.65
+Microphone,1428.72
+USB Drive,1417.44
+Router,1397.53
+Power Supply,1264.56
+Keyboard,1717.79
+Camera,1807.35
+Headphones,2488.0
+Game Console,647.53
+Motherboard,27.92
+Power Supply,994.96
+USB Drive,1443.99
+Motherboard,1336.66
+Tablet,2154.12
+Game Console,1734.38
+SSD,1549.9
+Printer,994.93
+Laptop,1217.47
+Router,2486.17
+Smartphone,504.16
+Router,1633.07
+CPU,2111.03
+Smartwatch,661.04
+Router,1254.7
+Monitor,2306.58
+Game Console,1979.13
+Smartwatch,901.37
+SSD,856.95
+Monitor,1963.16
+Game Console,1586.06
+Smartwatch,1690.53
+CPU,1951.5
+Speaker,687.71
+Case,638.49
+Headphones,2141.67
+Cooling Fan,1231.37
+SSD,1173.51
+External Hard Drive,1164.54
+Power Supply,1818.19
+Headphones,1900.7
+Charger,1438.56
+External Hard Drive,1172.56
+Laptop,1048.14
+Keyboard,640.44
+Keyboard,780.43
+RAM,2102.73
+Game Console,760.5
+Motherboard,557.67
+Printer,1753.1
+Smartphone,1841.59
+Graphics Card,1624.26
+Power Supply,71.93
+USB Drive,1877.0
+Mouse,1938.52
+Speaker,482.57
+SSD,2461.52
+Motherboard,1078.64
+Case,2118.88
+Power Supply,1829.29
+Laptop,2149.59
+SSD,316.08
+Power Supply,1391.25
+Smartphone,828.28
+Monitor,1819.06
+Charger,1369.58
+Mouse,996.98
+Router,2335.21
+SSD,1496.47
+Laptop,851.13
+Headphones,2275.96
+Game Console,105.72
+RAM,998.92
+Laptop,1846.92
+Keyboard,291.7
+Charger,1610.03
+Charger,108.01
+Motherboard,2133.72
+Monitor,507.45
+SSD,196.09
+Charger,332.19
+Cooling Fan,439.56
+Microphone,2080.63
+Camera,390.07
+Cooling Fan,1858.17
+Headphones,711.96
+Camera,2300.1
+CPU,462.34
+Cooling Fan,1665.15
+Mouse,129.63
+Speaker,1344.98
+Headphones,749.18
+Tablet,1832.57
+Camera,1114.16
+Microphone,1276.08
+Printer,2448.08
+Keyboard,731.26
+Laptop,2062.87
+Camera,1101.58
+Camera,2328.57
+Smartphone,1646.22
+Case,1879.16
+Cooling Fan,1346.52
+Cooling Fan,1100.09
+Tablet,2494.54
+Keyboard,1770.19
+Graphics Card,1385.42
+External Hard Drive,2147.03
+Power Supply,2226.62
+Smartwatch,2280.66
+Camera,2074.64
+Smartwatch,899.57
+Game Console,1268.19
+Monitor,1777.58
+Smartphone,1194.61
+RAM,2054.35
+Router,1422.08
+Headphones,137.52
+Power Supply,1504.01
+Router,1802.55
+Charger,2269.06
+Headphones,809.41
+Router,557.18
+CPU,2490.18
+Camera,261.2
+Tablet,667.49
+Smartwatch,2432.23
+USB Drive,1761.61
+External Hard Drive,1834.95
+Smartphone,1722.04
+Laptop,406.13
+Game Console,1331.8
+Laptop,148.98
+Speaker,579.01
+Monitor,886.16
+Router,2463.75
+Smartphone,502.56
+Printer,878.47
+Camera,561.96
+RAM,2242.82
+RAM,1038.04
+Power Supply,2383.8
+Smartwatch,2461.16
+Microphone,2357.97
+Game Console,2362.1
+Graphics Card,1695.42
+Tablet,1074.74
+CPU,1195.38
+Case,375.92
+Headphones,1174.85
+Charger,917.93
+Monitor,507.24
+Speaker,91.9
+Microphone,916.87
+Keyboard,2430.65
+Tablet,2174.44
+Keyboard,704.68
+Graphics Card,1970.85
+Tablet,2131.02
+Microphone,818.12
+Graphics Card,1344.21
+Mouse,1962.1
+Smartphone,827.86
+RAM,2488.45
+Tablet,1909.22
+USB Drive,1173.36
+Cooling Fan,141.64
+Power Supply,985.61
+Smartwatch,1500.15
+Microphone,472.18
+Smartphone,766.87
+Case,69.25
+Laptop,797.01
+Keyboard,422.31
+USB Drive,2329.29
+Cooling Fan,273.59
+Tablet,1159.81
+Microphone,302.04
+Router,877.1
+Case,1725.21
+USB Drive,1617.91
+Tablet,488.25
+Smartphone,2000.96
+Motherboard,1870.04
+Case,1857.5
+Charger,2324.77
+Motherboard,985.9
+Keyboard,911.28
+USB Drive,2159.65
+Smartwatch,799.5
+CPU,405.39
+Charger,1877.51
+Power Supply,1325.77
+Cooling Fan,2190.24
+Printer,2245.89
+Mouse,2023.49
+Laptop,2422.8
+USB Drive,1844.73
+Tablet,77.12
+Cooling Fan,880.97
+External Hard Drive,1757.09
+Headphones,1032.64
+Power Supply,596.1
+CPU,1131.07
+Laptop,1359.5
+USB Drive,148.73
+RAM,37.12
+External Hard Drive,1248.75
+Charger,396.05
+Monitor,1416.24
+Monitor,987.61
+Case,835.0
+RAM,2250.28
+Microphone,1680.41
+Monitor,2170.87
+Smartwatch,73.71
+Case,843.23
+SSD,937.42
+Power Supply,1507.26
+Mouse,251.91
+Headphones,1315.24
+Headphones,1405.01
+Keyboard,798.45
+Keyboard,1498.63
+Keyboard,2228.78
+Mouse,443.85
+Motherboard,219.57
+Power Supply,1225.52
+Tablet,323.9
+Charger,1375.95
+Case,489.25
+SSD,314.38
+Cooling Fan,1942.13
+Smartphone,1377.92
+Smartwatch,721.86
+External Hard Drive,428.06
+Microphone,1301.21
+Speaker,219.88
+Graphics Card,1119.97
+Headphones,453.66
+Printer,2352.58
+Monitor,1573.0
+Router,1508.6
+Cooling Fan,2400.8
+Router,1391.6
+Cooling Fan,296.93
+Laptop,2354.82
+Keyboard,1423.88
+Laptop,246.52
+Camera,972.32
+Monitor,867.72
+Motherboard,1140.72
+Case,1888.7
+Case,2021.04
+Microphone,1527.03
+Cooling Fan,588.07
+Smartwatch,61.69
+Motherboard,2333.2
+Speaker,2256.22
+Printer,490.68
+SSD,173.18
+Monitor,54.22
+Game Console,98.59
+Mouse,1430.63
+Game Console,194.7
+Monitor,2239.94
+Headphones,1403.61
+Game Console,1859.58
+Speaker,1778.21
+Headphones,1890.69
+Case,2466.54
+Game Console,34.38
+Mouse,1410.29
+Tablet,1609.01
+Monitor,739.3
+Headphones,1756.06
+External Hard Drive,2354.13
+RAM,490.81
+Mouse,976.42
+Smartphone,1096.93
+Microphone,2255.46
+Speaker,2239.01
+Camera,740.62
+Game Console,1640.38
+Motherboard,19.19
+CPU,1839.1
+Microphone,1891.25
+Power Supply,684.65
+CPU,1565.1
+Speaker,1789.62
+Case,486.27
+Tablet,240.18
+RAM,404.74
+Cooling Fan,1384.68
+RAM,1182.58
+RAM,1515.62
+Printer,2459.02
+SSD,702.58
+Microphone,2471.47
+Motherboard,69.07
+Printer,853.3
+SSD,22.42
+Smartwatch,582.5
+SSD,1818.98
+Charger,1718.91
+Printer,20.82
+Printer,357.39
+Headphones,1295.85
+Keyboard,2397.01
+Motherboard,1223.96
+Monitor,1902.78
+SSD,294.97
+Cooling Fan,2308.15
+Camera,1456.6
+Keyboard,2182.81
+Smartphone,427.81
+Graphics Card,1785.7
+USB Drive,39.58
+Charger,1678.99
+Mouse,2126.26
+CPU,506.87
+Cooling Fan,509.87
+Power Supply,563.94
+Charger,1351.96
+Router,590.94
+External Hard Drive,343.27
+Smartphone,1875.06
+Smartphone,1710.41
+Motherboard,662.81
+SSD,2246.91
+Smartwatch,1560.76
+Camera,663.47
+Tablet,2021.95
+Smartphone,730.19
+Keyboard,2326.44
+Speaker,511.08
+External Hard Drive,1448.42
+Cooling Fan,1993.84
+Cooling Fan,2016.09
+Case,2348.27
+Headphones,1422.13
+Monitor,1871.95
+Router,143.12
+RAM,1497.83
+Headphones,1058.51
+Laptop,668.47
+Printer,1525.85
+Cooling Fan,498.19
+Smartwatch,2077.93
+Smartphone,2466.36
+Headphones,360.56
+Case,883.32
+Camera,2062.49
+Tablet,635.04
+Tablet,1189.49
+Microphone,484.07
+Laptop,524.03
+USB Drive,2357.68
+Laptop,1524.74
+RAM,731.07
+Motherboard,1914.81
+External Hard Drive,2270.6
+SSD,2408.84
+Camera,2458.5
+Camera,407.64
+Keyboard,1582.57
+Graphics Card,281.42
+Power Supply,984.88
+Laptop,2077.99
+Power Supply,928.96
+Cooling Fan,1839.56
+Speaker,258.75
+Microphone,958.72
+Laptop,1769.09
+CPU,1797.49
+Graphics Card,1109.2
+Tablet,2125.25
+RAM,47.67
+Graphics Card,1839.62
+Smartphone,1607.62
+Camera,1210.6
+Smartwatch,1891.54
+Game Console,1612.27
+External Hard Drive,62.56
+Laptop,2033.82
+Keyboard,1822.56
+Game Console,1901.33
+External Hard Drive,270.11
+Game Console,1806.22
+Game Console,1699.33
+Smartphone,1059.03
+SSD,1437.7
+Monitor,2173.65
+Speaker,189.01
+Laptop,1895.1
+Laptop,521.17
+Power Supply,1926.18
+Mouse,497.32
+Mouse,1596.79
+Laptop,1041.55
+Case,1482.86
+Speaker,1334.58
+Speaker,301.2
+Graphics Card,634.34
+Charger,486.05
+External Hard Drive,905.29
+USB Drive,1631.26
+Mouse,2187.84
+Smartphone,1992.93
+Microphone,1567.52
+External Hard Drive,1202.14
+RAM,2255.16
+Laptop,1266.61
+RAM,870.71
+USB Drive,48.17
+Power Supply,18.53
+Microphone,2116.59
+Case,272.16
+Smartwatch,583.67
+USB Drive,1530.8
+Graphics Card,948.88
+RAM,799.27
+CPU,719.35
+Laptop,817.99
+Power Supply,751.7
+Game Console,406.36
+Cooling Fan,1904.4
+Mouse,1592.79
+Keyboard,1388.87
+Case,155.2
+External Hard Drive,2451.02
+Motherboard,1712.03
+Mouse,1838.89
+Monitor,86.53
+SSD,2239.46
+Headphones,333.54
+Camera,1014.34
+CPU,540.29
+Charger,1406.15
+Headphones,1928.49
+Laptop,684.53
+Mouse,2017.83
+Game Console,2383.57
+Speaker,687.04
+Printer,1926.33
+USB Drive,1133.47
+USB Drive,1157.85
+Camera,843.48
+Tablet,273.92
+Mouse,1292.36
+Power Supply,2027.26
+Camera,1210.37
+Printer,1899.86
+Speaker,75.93
+Case,1513.77
+Game Console,174.68
+Power Supply,1753.89
+Power Supply,658.72
+RAM,496.37
+Tablet,1221.82
+Case,2072.7
+Speaker,675.23
+Game Console,1796.12
+Microphone,1082.89
+Power Supply,2152.38
+Smartwatch,2469.8
+Camera,1264.44
+Keyboard,408.09
+Power Supply,1716.77
+RAM,1687.94
+Power Supply,43.18
+Case,1866.88
+Cooling Fan,1187.72
+Printer,1703.51
+Case,879.11
+Charger,2250.91
+CPU,1570.41
+Smartphone,721.69
+Power Supply,2086.87
+Tablet,1717.73
+Graphics Card,1516.46
+Game Console,555.1
+Router,518.58
+Smartphone,1831.17
+Game Console,1569.58
+Router,576.57
+Printer,1067.13
+Motherboard,1281.37
+External Hard Drive,1516.87
+RAM,1100.4
+Cooling Fan,162.02
+Headphones,792.07
+Router,132.1
+USB Drive,1651.62
+Cooling Fan,1641.2
+SSD,935.56
+Camera,1273.95
+Printer,1728.81
+CPU,1431.0
+Case,1557.99
+Game Console,749.59
+Mouse,742.71
+Speaker,136.52
+Printer,199.86
+Microphone,1970.78
+Charger,988.96
+CPU,1201.78
+Smartwatch,737.14
+Charger,540.78
+Laptop,1540.24
+Speaker,186.37
+Cooling Fan,1443.39
+Printer,848.37
+External Hard Drive,2496.39
+Motherboard,952.6
+Microphone,965.04
+Tablet,1882.01
+Case,1200.07
+Smartphone,132.28
+Tablet,211.31
+Mouse,2147.19
+Camera,541.57
+USB Drive,1463.68
+External Hard Drive,2381.72
+Game Console,662.04
+CPU,389.04
+Tablet,996.54
+Speaker,1339.69
+Laptop,1260.95
+Printer,2174.45
+Tablet,2403.22
+Microphone,1626.11
+RAM,933.12
+Printer,823.88
+Smartphone,870.35
+Cooling Fan,1546.0
+Motherboard,2234.69
+Smartwatch,1350.13
+Laptop,408.69
+Microphone,735.32
+Game Console,1204.21
+Router,1105.06
+Headphones,928.72
+Game Console,1034.86
+Router,497.67
+Microphone,1392.33
+Keyboard,2024.98
+Graphics Card,2174.68
+Tablet,1966.99
+Monitor,2130.87
+Game Console,1055.37
+Graphics Card,2371.72
+Keyboard,725.67
+Smartphone,671.83
+Headphones,1362.37
+Game Console,728.1
+Monitor,880.09
+Router,788.78
+USB Drive,637.69
+Laptop,2267.23
+Laptop,263.1
+Tablet,545.28
+Smartwatch,1824.85
+RAM,823.23
+SSD,409.76
+Smartwatch,1552.03
+SSD,1026.8
+Charger,734.59
+Smartphone,363.94
+Camera,1366.49
+Motherboard,1560.47
+Motherboard,235.6
+Camera,1648.82
+Smartwatch,1239.2
+External Hard Drive,521.45
+Case,1232.04
+Motherboard,1384.16
+Laptop,899.82
+Mouse,1510.33
+Camera,1794.52
+Smartphone,910.24
+Case,1403.06
+Motherboard,1929.96
+CPU,1208.26
+Mouse,211.1
+Smartphone,1073.16
+Camera,2397.06
+Mouse,922.81
+Smartwatch,2086.82
+Laptop,2290.1
+Cooling Fan,196.37
+Camera,1597.48
+CPU,620.69
+Cooling Fan,857.22
+CPU,327.23
+RAM,574.91
+USB Drive,983.35
+Cooling Fan,1820.23
+Keyboard,820.15
+Smartphone,2362.6
+Headphones,272.13
+Mouse,2179.56
+Laptop,1474.22
+Keyboard,299.66
+Laptop,1939.17
+SSD,1614.27
+Power Supply,700.9
+Microphone,383.55
+Motherboard,898.81
+Tablet,2431.23
+RAM,943.54
+Smartphone,916.23
+Tablet,1729.19
+RAM,1815.61
+Tablet,402.62
+Headphones,835.08
+Tablet,1021.99
+Headphones,243.14
+RAM,1558.69
+Microphone,1506.41
+RAM,689.18
+Case,1168.95
+Motherboard,1761.01
+Charger,398.32
+Printer,2089.68
+Keyboard,2047.61
+Laptop,1312.49
+USB Drive,1293.07
+Mouse,1600.72
+Monitor,557.6
+Smartphone,107.97
+Power Supply,1836.75
+Power Supply,988.21
+USB Drive,1468.38
+Tablet,2373.44
+Game Console,2307.93
+Power Supply,485.92
+Mouse,178.59
+Smartphone,1607.4
+Printer,809.21
+CPU,1772.75
+Smartphone,1938.21
+Microphone,577.79
+Monitor,629.12
+Smartwatch,1381.98
+Motherboard,454.63
+Charger,992.25
+RAM,2278.27
+USB Drive,93.68
+SSD,2326.72
+Motherboard,2226.59
+Power Supply,1972.54
+Headphones,1066.77
+Router,1060.07
+Laptop,2357.82
+Smartwatch,1005.91
+RAM,2204.9
+Graphics Card,1677.14
+Cooling Fan,174.54
+Game Console,884.52
+External Hard Drive,2307.98
+Game Console,2192.37
+Router,1669.5
+CPU,948.57
+Power Supply,1542.91
+CPU,2115.97
+Camera,595.81
+Game Console,2324.09
+Speaker,2115.29
+Keyboard,1920.36
+Speaker,1699.54
+SSD,496.41
+Tablet,1348.29
+Motherboard,179.58
+Case,1754.06
+Graphics Card,2246.99
+CPU,2011.99
+Case,1212.13
+Mouse,507.3
+Monitor,1681.0
+Router,1507.65
+External Hard Drive,1476.04
+Headphones,1286.57
+Smartwatch,866.5
+Smartwatch,1881.27
+Camera,1536.94
+Smartphone,866.59
+Tablet,2145.63
+Cooling Fan,228.16
+Router,2209.21
+Cooling Fan,1980.16
+Monitor,293.66
+External Hard Drive,382.52
+Headphones,176.09
+Router,802.96
+USB Drive,161.23
+Motherboard,2321.03
+Keyboard,1525.25
+Microphone,1949.79
+Tablet,2039.4
+Router,2200.73
+Motherboard,2462.94
+Graphics Card,1143.61
+Smartwatch,760.87
+Smartphone,654.74
+Speaker,984.22
+Camera,2297.56
+Laptop,2000.45
+External Hard Drive,1750.44
+Monitor,1193.64
+Graphics Card,1365.94
+Smartwatch,2047.68
+Headphones,928.25
+Camera,1687.08
+Headphones,2071.36
+Router,224.32
+Microphone,366.87
+External Hard Drive,2197.17
+Cooling Fan,1433.44
+Keyboard,2220.72
+Smartwatch,395.85
+Camera,697.18
+Camera,330.59
+Graphics Card,133.8
+Motherboard,398.72
+SSD,1067.61
+Case,2374.57
+Smartphone,2114.84
+Keyboard,1763.54
+Microphone,1100.18
+Speaker,1818.27
+Cooling Fan,1809.31
+Monitor,1264.95
+Speaker,925.14
+RAM,1123.31
+Microphone,25.33
+Charger,2294.79
+Game Console,841.86
+SSD,876.81
+Speaker,1650.2
+Tablet,2480.11
+Speaker,829.17
+Mouse,1309.83
+Camera,2494.27
+Keyboard,1929.59
